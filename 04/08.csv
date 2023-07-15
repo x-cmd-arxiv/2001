@@ -1,0 +1,274 @@
+"astro-ph/0104132","Lombardi Marco","Marco Lombardi and Peter Schneider","Smooth maps from clumpy data","11 pages, submitted to A&A",,"10.1051/0004-6361:20010620",,"astro-ph",,"  We study an estimator for smoothing irregularly sampled data into a smooth
+map. The estimator has been widely used in astronomy, owing to its low level of
+noise; it involves a weight function -- or smoothing kernel -- w(\theta). We
+show that this estimator is not unbiased, in the sense that the expectation
+value of the smoothed map is not the underlying process convolved with $w$, but
+a convolution with a modified kernel w_eff(\theta). We show how to calculate
+w_eff for a given kernel w and investigate its properties. In particular, it is
+found that (1) w_eff is normalized, (2) has a shape `similar' to the original
+kernel w, (3) converges to w in the limit of high number density of data
+points, and (4) reduces to a top-hat filter in the limit of very small number
+density of data points. Hence, although the estimator is biased, the bias is
+well understood analytically, and since w_eff has all the desired properties of
+a smoothing kernel, the estimator is in fact very useful. We present explicit
+examples for several filter functions which are commonly used, and provide a
+series expression valid in the limit of large density of data points.
+","[{""version"":""v1"",""created"":""Sat, 7 Apr 2001 17:25:22 GMT""}]","2009-11-06"
+"astro-ph/0104133","Soeren S. Larsen","S. S. Larsen (1), J. P. Brodie (1), B. G. Elmegreen (2), Y. N. Efremov
+  (3), P. W. Hodge (4), T. Richtler (5) ((1) Lick Observatory, (2) IBM Research
+  Division, (3) Sternberg Astronomical Institute, (4) University of Washington,
+  (5) Universidad de Concepcion)","Structure and Mass of a Young Globular Cluster in NGC 6946","33 pages, including 10 figures and 3 tables. Accepted for publication
+  in the Astrophysical Journal",,"10.1086/321620",,"astro-ph",,"  Using the Wide Field Planetary Camera 2 on board the Hubble Space Telescope,
+we have imaged a luminous young star cluster in the nearby spiral galaxy NGC
+6946. The cluster has an absolute visual magnitude M(V)=-13.2, comparable to
+the brightest young `super-star clusters' in the Antennae merger galaxy. UBV
+colors indicate an age of about 15 Myr. The cluster has a compact core (core
+radius = 1.3 pc), surrounded by an extended envelope. We estimate that the
+effective radius (Reff) = 13 pc, but this number is uncertain because the outer
+parts of the cluster profile gradually merge with the general field. Combined
+with population synthesis models, the luminosity and age of the cluster imply a
+mass of 8.2x10^5 Msun for a Salpeter IMF extending down to 0.1 Msun, or
+5.5x10^5 Msun if the IMF is log-normal below 0.4 Msun. Depending on model
+assumptions, the central density of the cluster is between 5300 Msun pc^-3 and
+17000 Msun pc^-3, comparable to other high-density star forming regions. We
+also estimate a dynamical mass for the cluster, using high-dispersion spectra
+from the HIRES spectrograph on the Keck I telescope. The velocity dispersion is
+10.0 +/- 2.7 km/s, implying a total cluster mass within 65 pc of (1.7 +/- 0.9)
+x 10^6 Msun. Comparing the dynamical mass with the mass estimates based on the
+photometry and population synthesis models, the mass-to-light ratio is at least
+as high as for a Salpeter IMF extending down to 0.1 Msun, although a turn-over
+in the IMF at 0.4 Msun is still possible within the errors. The cluster will
+presumably remain bound, evolving into a globular cluster-like object.
+","[{""version"":""v1"",""created"":""Sat, 7 Apr 2001 22:39:24 GMT""}]","2009-11-06"
+"cond-mat/0104127","Kristinka Ivanova","M. Ausloos, K. Ivanova and N. Vandewalle","Crashes : symptoms, diagnoses and remedies","15 pages, 5 figures; to appear in Empirical Science of Financial
+  Fluctuations, Tokyo, Japan, Nov. 15-17, 2000 Proceedings} (Springer Verlag,
+  Berlin, 2001) corrected misprint in Ref. 21",,,,"cond-mat.stat-mech q-fin.GN",,"  A brief historical perspective is first given concerning financial crashes, -
+from the 17th till the 20th century. In modern times, it seems that log
+periodic oscillations are found before crashes in several financial indices.
+The same is found in sand pile avalanches on Sierpinski gaskets. A discussion
+pertains to the after shock period with illustrations from the DAX index. The
+factual financial observations and the laboratory ones allow us some conjecture
+on symptoms and remedies for discussing financial crashes along econophysics
+lines.
+","[{""version"":""v1"",""created"":""Sat, 7 Apr 2001 16:35:34 GMT""},{""version"":""v2"",""created"":""Tue, 17 Apr 2001 20:52:09 GMT""}]","2008-12-10"
+"cond-mat/0104128","Leo Radzihovsky","Leo Radzihovsky (University of Colorado)","Pseudo-spin canting transition in bilayer quantum Hall ferromagnets: a
+  self-charging capacitor","4 RevTeX pgs, 1 eps figures, submitted to PRL","Phys. Rev. Lett., 87 (2001) 236802","10.1103/PhysRevLett.87.236802",,"cond-mat.mes-hall cond-mat.stat-mech cond-mat.str-el",,"  For sufficiently strong in-plane magnetic field a $\nu_T=1$ bilayer quantum
+Hall pseudo-ferromagnet is expected to exhibit a soliton lattice. For
+sufficiently close layers and large in-plane field, we predict this
+incommensurate ``planar'' phase $P_I$ to undergo a reentrant pseudo-spin
+canting transition to an incommensurate state $C_I$, with a finite out-of-plane
+pseudo-magnetization component, corresponding to an interlayer charge imbalance
+in regions between solitons. At $T>0$ the transition is in the 2d compressible
+Ising universality class, and at T=0, the quantum transition is in heretofore
+unexplored universality class. The striking experimental signatures are the
+universal nonlinear charge-voltage and in-plane field relations, and the
+divergence of the differential bilayer capacitance at the transition, resulting
+in a bilayer capacitor that spontaneously charges itself, even in the absence
+of an applied interlayer voltage.
+","[{""version"":""v1"",""created"":""Sat, 7 Apr 2001 16:47:15 GMT""}]","2009-11-07"
+"cond-mat/0104129","Stefano Mossa","S. Mossa, G. Monaco, G. Ruocco, M. Sampoli, and F. Sette","Molecular dynamics simulation study of the high frequency sound waves in
+  the fragile glass former ortho-terphenyl","RevTex, 9 pages, 10 eps figures","J. Chem. Phys. 116, 1077 (2002)","10.1063/1.1426417",,"cond-mat.soft cond-mat.dis-nn",,"  Using a realistic flexible molecule model of the fragile glass former
+orthoterphenyl, we calculate via molecular dynamics simulation the collective
+dynamic structure factor, recently measured in this system by Inelastic X-ray
+Scattering. The comparison of the simulated and measured dynamic structure
+factor, and the study of its properties in an extended momentum, frequency and
+temperature range allows: i) to conclude that the utilized molecular model
+gives rise to a dynamic structure factor in agreement with the experimental
+data, for those thermodynamic states and momentum values where the latter are
+available; ii) to confirm the existence of a slope discontinuity on the
+T-dependence of the sound velocity that, at finite Q, takes place at a
+temperature T_x higher than the calorimetric glass transition temperature T_g;
+iii) to find that the values of T_x is Q-dependent and that its vanishing Q
+limit is consistent with T_g. The latter finding is interpreted within the
+framework of the current description of the dynamics of supercooled liquids in
+terms of exploration of the potential energy landscape.
+","[{""version"":""v1"",""created"":""Sat, 7 Apr 2001 17:33:05 GMT""}]","2009-11-07"
+"cond-mat/0104130","Drazen Zanchi","D. Zanchi","Angle-Resolved Loss of Landau Quasiparticles in 2D Hubbard Model","13 pages, 2 figures, submitted to Europhysics Letters",,"10.1209/epl/i2001-00413-7","LPTHE/01-17","cond-mat.str-el cond-mat.supr-con",,"  The problem of weakly correlated electrons on a square lattice is studied
+theoretically. A simple renormalization group scheme for the angle-resolved
+weight Z of the quasiparticles at the Fermi surface is presented and applied to
+the Hubbard model.
+  Upon reduction of the cutoff the Fermi surface is progressively destroyed
+from the van Hove points toward the zone diagonals. Due to the renormalized Z,
+divergences of both antiferromagnetic and superconducting correlation functions
+are suppressed at the critical scale, where the interactions diverge.
+","[{""version"":""v1"",""created"":""Sat, 7 Apr 2001 18:47:26 GMT""}]","2009-11-07"
+"cond-mat/0104131","Neda Zoltan","H. Jeong, Z. Neda and A.-L. Barabasi","Measuring preferential attachment for evolving networks","4 pages, 3 Figures, RevTex","Europhys.Lett. 61 (2003) 567-572","10.1209/epl/i2003-00166-9",,"cond-mat.stat-mech cond-mat.dis-nn",,"  A key ingredient of current models proposed to capture the topological
+evolution of complex networks is the hypothesis that highly connected nodes
+increase their connectivity faster than their less connected peers, a
+phenomenon called preferential attachment. Measurements on four networks,
+namely the science citation network, Internet, actor collaboration and science
+coauthorship network indicate that the rate at which nodes acquire links
+depends on the node's degree, offering direct quantitative support for the
+presence of preferential attachment. We find that for the first two systems the
+attachment rate depends linearly on the node degree, while for the latter two
+the dependence follows a sublinear power law.
+","[{""version"":""v1"",""created"":""Sat, 7 Apr 2001 21:01:21 GMT""}]","2009-11-07"
+"cond-mat/0104132","Alex J. Levine","Alex J. Levine and T.C. Lubensky","Two-point microrheology and the electrostatic analogy",,,"10.1103/PhysRevE.65.011501",,"cond-mat.soft",,"  The recent experiments of Crocker et al. suggest that microrheological
+measurements obtained from the correlated fluctuations of widely-separatedprobe
+particles determine the rheological properties of soft, complex materials more
+accurately than do the more traditional particle autocorrelations. This
+presents an interesting problem in viscoelastic dynamics. We develop an
+important, simplifing analogy between the present viscoelastic problem and
+classical electrostatics. Using this analogy and direct calculation we analyze
+both the one and two particle correlations in a viscoelastic medium in order to
+explain this observation.
+","[{""version"":""v1"",""created"":""Sun, 8 Apr 2001 10:58:47 GMT""}]","2009-11-07"
+"cond-mat/0104133","C. G. Bao","C.G. Bao, Y.Z. He and G.M. Huang (Zhongshan U.)","Electronic Structures of Quantum Dots and the Ultimate Resolution of
+  Integers","Two figures",,,,"cond-mat.mes-hall",,"  The orbital angular momentum L as an integer can be ultimately factorized as
+a product of prime numbers. We show here a close relation between the
+resolution of L and the classification of quantum states of an N-electron
+2-dimensional system. In this scheme, the states are in essence classified into
+different types according to the m(k)-accessibility, namely the ability to get
+access to symmetric geometric configurations. The m(k)-accessibility is an
+universal concept underlying all kinds of 2-dimensional systems with a center.
+Numerical calculations have been performed to reveal the electronic structures
+of the states of the dots with 9 and 19 electrons,respectively. This paper
+supports the Laughlin wave finction and the composite fermion model from the
+aspect of symmetry.
+","[{""version"":""v1"",""created"":""Sun, 8 Apr 2001 13:18:17 GMT""}]","2007-05-23"
+"cs/0104012","David G. Andersen","David G. Andersen, Deepak Bansal, Dorothy Curtis, Srinivasan Seshan,
+  Hari Balakrishnan","System Support for Bandwidth Management and Content Adaptation in
+  Internet Applications","14 pages, appeared in OSDI 2000","Proc. OSDI 2000",,,"cs.NI cs.OS",,"  This paper describes the implementation and evaluation of an operating system
+module, the Congestion Manager (CM), which provides integrated network flow
+management and exports a convenient programming interface that allows
+applications to be notified of, and adapt to, changing network conditions. We
+describe the API by which applications interface with the CM, and the
+architectural considerations that factored into the design. To evaluate the
+architecture and API, we describe our implementations of TCP; a streaming
+layered audio/video application; and an interactive audio application using the
+CM, and show that they achieve adaptive behavior without incurring much
+end-system overhead. All flows including TCP benefit from the sharing of
+congestion information, and applications are able to incorporate new
+functionality such as congestion control and adaptive behavior.
+","[{""version"":""v1"",""created"":""Sat, 7 Apr 2001 17:17:14 GMT""}]","2007-05-23"
+"gr-qc/0104022","Angelo Tartaglia","A. Tartaglia, M. L. Ruggiero","Testing gravitomagnetism on the Earth","LATEX, 8 pages, 1 eps figure",,,,"gr-qc",,"  The paper contains a proposed experiment for testing the gravitomagnetic
+effect on the propagation of light around a rotating mass. The idea is to use a
+rotating spherical laboratory-scale shell, around which two mutually orthogonal
+lightguides are wound acting as the arms of an interferometer. Numerical
+estimates show that time of flight differences between the equatorial and polar
+guides could be in the order of $\sim 10^{-20}$ s, actually detectable with
+sensitivity perfectly comparable with those expected in gravitational wave
+detection experiments.
+","[{""version"":""v1"",""created"":""Sat, 7 Apr 2001 16:59:18 GMT""},{""version"":""v2"",""created"":""Wed, 11 Apr 2001 08:09:02 GMT""}]","2007-05-23"
+"hep-ph/0104076","Sacha Davidson","Sacha Davidson, Alejandro Ibarra","Determining See-Saw Parameters from Weak Scale Measurements?","Version to be published. References added, modified abstract, minor
+  stylistic changes. Content unchanged","JHEP 0109:013,2001","10.1088/1126-6708/2001/09/013","OUTP-01-22P","hep-ph",,"  The see-saw mechanism is a very attractive explanation for small neutrino
+masses, parametrized at the GUT scale by the right-handed Majorana mass matrix,
+${\cal M}$, and the neutrino Yukawa matrix, ${\bf Y_\nu}$. We show that in a
+SUSY model with universal soft terms, ${\cal M}$ and ${\bf Y_\nu}$ can be
+calculated from the light neutrino masses, the MNS matrix, and ${\bf
+Y^{\dagger}_\nu} {\bf Y_\nu}$, which enters into the left-handed slepton
+radiative corrections. This suggests that in principle the GUT-scale inputs of
+the seesaw could be reconstructed from the neutrino and sneutrino mass
+matrices. We briefly discuss why this is impractical, but advocate the neutrino
+and sneutrino mass matrices as an alternative bottom-up parametrization of the
+seesaw.
+","[{""version"":""v1"",""created"":""Sun, 8 Apr 2001 10:06:18 GMT""},{""version"":""v2"",""created"":""Tue, 18 Sep 2001 14:18:58 GMT""}]","2010-02-03"
+"hep-ph/0104077","Holger Gies","Holger Gies, Christian Schubert","Vacuum Polarisation Tensors in Constant Electromagnetic Fields: Part III","12 pages, 1 figure","Nucl.Phys. B609 (2001) 313-324","10.1016/S0550-3213(01)00292-9","CERN-TH/2001-097, UMSNH-Phys/01-4","hep-ph hep-th",,"  The string-inspired technique is used for a first calculation of the one-loop
+axialvector vacuum polarisation in a general constant electromagnetic field. A
+compact result is reached for the difference between this tensor and the
+corresponding vector vacuum polarisation. This result is confirmed by a Feynman
+diagram calculation. Its physical relevance is briefly discussed.
+","[{""version"":""v1"",""created"":""Sun, 8 Apr 2001 12:23:25 GMT""}]","2009-11-07"
+"math-ph/0104010","P. Garbaczewski","P. Garbaczewski and W. Karwowski","Impenetrable Barriers and Canonical Quantization",,,,,"math-ph math.MP math.QA physics.gen-ph quant-ph",,"  We address a conceptual issue of reconciling the traditional canonical
+quantization framework of quantum theory with the spatially restricted quantum
+dynamics and the related spectral problems for confined and global observables
+of the quantum system.
+","[{""version"":""v1"",""created"":""Sun, 8 Apr 2001 11:34:15 GMT""}]","2010-12-02"
+"math/0104090","Deza","M.Deza and M.Shtogrin","Clusters of Cycles","21. to in appear in Journal of Geometry and Physics",,"10.1016/S0393-0440(01)00040-7",,"math.MG math.CO",,"  A {\it cluster of cycles} (or {\it $(r,q)$-polycycle}) is a simple planar
+2--co nnected finite or countable graph $G$ of girth $r$ and maximal
+vertex-degree $q$, which admits {\it $(r,q)$-polycyclic realization} on the
+plane, denote it by $P(G)$, i.e. such that: (i) all interior vertices are of
+degree $q$, (ii) all interior faces (denote their number by $p_r$) are
+combinatorial $r$-gons and (implied by (i), (ii)) (iii) all vertices, edges and
+interior faces form a cell-complex.
+  An example of $(r,q)$-polycycle is the skeleton of $(r^q)$, i.e. of the
+$q$-valent partition of the sphere $S^2$, Euclidean plane $R^2$ or hyperbolic
+plane $H^2$ by regular $r$-gons. Call {\it spheric} pairs
+$(r,q)=(3,3),(3,4),(4,3),(3,5),(5,3)$; for those five pairs $P(r^q)$ is $(r^q)$
+without the exterior face; otherwise $P(r^q)=(r^q)$.
+  We give here a compact survey of results on $(r,q)$-polycycles.
+","[{""version"":""v1"",""created"":""Sat, 7 Apr 2001 18:09:12 GMT""}]","2009-11-07"
+"math/0104091","Zindine Djadli","Zindine Djadli, Andrea Malchiodi, Mohameden Ould Ahmedou","Prescribing a fourth order conformal invariant on the standard sphere,
+  Part II: blow-up analysis and applications",,,,,"math.AP math.DG",,"  In this paper we perform a fine blow-up analysis for a fourth order elliptic
+equation involving critical Sobolev exponent, related to the prescription of
+some conformal invariant on the standard sphere. We derive from this analysis
+some a priori estimates in dimension 5 and 6. On the five dimensionl sphere
+these a priori estimates combined with the perturbation result of Part I allow
+us to obtain some existence results. On the six dimensional sphere we prove the
+existence of at least one solution when an associated index is different from
+zero.
+","[{""version"":""v1"",""created"":""Sun, 8 Apr 2001 00:12:41 GMT""},{""version"":""v2"",""created"":""Thu, 12 Apr 2001 16:27:33 GMT""}]","2007-05-23"
+"math/0104092","Alex Iosevich","Alex Iosevich, Nets Katz, and Steen Pedersen","Fourier bases and a distance problem of Erd\H os",,"Math Research Letters Volume 6 (1999) No. 2 pp. 105-128",,,"math.CA",,"  We prove that no ball admits a non-harmonic orthogonal basis of exponentials.
+We use a combinatorial result, originally studied by Erd\H os, which says that
+the number of distances determined by $n$ points in ${\Bbb R}^d$ is at least
+$C_d n^{\frac{1}{d}+\epsilon_d}$, $\epsilon_d>0$.
+","[{""version"":""v1"",""created"":""Sun, 8 Apr 2001 04:59:37 GMT""}]","2007-05-23"
+"math/0104093","Alex Iosevich","Alex Iosevich and Steen Pedersen","Spectral and Tiling properties of the Unit Cube",,"International Math Research Notices, (1998), Number 16, pp.
+  819-828",,,"math.CA",,"  Let $\Q=[0,1)^d$ denote the unit cube in $d$-dimensional Euclidean space \Rd
+and let \T be a discrete subset of \Rd. We show that the exponentials
+$e_t(x):=exp(i2\pi tx)$, $t\in\T$ form an othonormal basis for $L^2(\Q)$ if and
+only if the translates $\Q+t$, $t\in\T$ form a tiling of \Rd.
+","[{""version"":""v1"",""created"":""Sun, 8 Apr 2001 05:03:44 GMT""}]","2014-11-18"
+"math/0104094","Alex Iosevich","Alex Iosevich and Steen Pedersen","How large are the spectral gaps?",,"How large are the spectral gaps?, (With S. Pedersen), Pacific J.
+  Math., Volume 192, (2000), pp. 307-314",,,"math.CA",,"  Let $D$ be a bounded domain in ${\Bbb R}^n$ whose boundary has a Minkowski
+dimension $\alpha<n$. Suppose that $E_{\Lambda}= {\{e^{2 \pi i x \cdot
+\lambda}\}}_{\lambda \in \Lambda}$, $\Lambda$ an infinite discrete subset of
+${\Bbb R}^n$, is a frame of exponentials for $L^2(D)$, with frame constants
+$A,B$, $A \leq B$. Then if $$ R \ge C{(\frac{{B|\partial D|}_{\alpha}}{A|D|}
+)}^ {\frac{1}{n-\alpha}},$$ where $C$ depends only on the ambient dimension $n$
+and ${|\partial D|}_{\alpha}$ denotes the Minkowski content, then every cube of
+sidelength $R$ contains at least one element of $\Lambda$. We give examples
+that illustrate the extent to which our estimates are sharp.
+","[{""version"":""v1"",""created"":""Sun, 8 Apr 2001 05:06:57 GMT""}]","2007-05-23"
+"math/0104095","Alex Iosevich","Laura DeCarli and Alex Iosevich","Some sharp restriction theorems for homogeneous manifolds",,"Journal of Fourier Analysis and Applications, Volume 4 (1998),
+  Number 1, pp. 105-128",,,"math.CA",,"  We prove some restriction theorems for flat homogeneous surfaces of
+codimension greater than one.
+","[{""version"":""v1"",""created"":""Sun, 8 Apr 2001 05:10:53 GMT""}]","2007-05-23"
+"math/0104096","Alex Iosevich","Alex Iosevich","Maximal averages over flat radial hypersurfaces",,"Rev. Mat. Ibero-Americana, Volume 15, (1999)., pp. 475-485",,,"math.CA",,"  We prove nearly sharp Orlicz space estimates for maximal averages over flat
+radial hypersurfaces in ${\Bbb R}^d$, $d \ge 3$.
+","[{""version"":""v1"",""created"":""Sun, 8 Apr 2001 05:14:22 GMT""}]","2007-05-23"
+"math/0104097","Alex Iosevich","Alex Iosevich","Fourier transform, $L^2$ restriction theorem, and scaling",,"Bolletino U.M.I., Volume 8 (1999), pp. 383-387",,,"math.CA",,"  We show, using a Knapp-type homogeneity argument, that the $(L^p, L^2)$
+restriction theorem implies a growth condition on the hypersurface in question.
+We further use this result to show that the optimal $(L^p, L^2)$ restriction
+theorem implies the sharp isotropic decay rate for the Fourier transform of the
+Lebesgue measure carried by compact convex finite hypersurfaces.
+","[{""version"":""v1"",""created"":""Sun, 8 Apr 2001 05:15:52 GMT""}]","2007-05-23"
+"math/0104098","Bruce Sagan","Miklos Bona (University of Florida), Bruce Sagan (Michigan State), and
+  Vincent Vatter (Michigan State)","Pattern frequency sequences and internal zeros","24 pages",,,,"math.CO",,"  Consider the number of permutations in the symmetric group on n letters that
+contain c copies of a given pattern. As c varies (with n held fixed) these
+numbers form a sequence whose properties we study for the monotone patterns and
+the patterns 1, l, l-1, ..., 2. We show that, except for the patterns 1, 2 and
+2, 1 where the sequence is well-known to be log concave, there are infinitely
+many n where the sequence has internal zeros.
+","[{""version"":""v1"",""created"":""Sun, 8 Apr 2001 11:01:15 GMT""}]","2007-05-23"
+"nlin/0104021","Sabir. M.","S.Rajagopalan and M.Sabir","Analysis of chaotic motion and its shape dependence in a generalized
+  piecewise linear map","4 pages,4 figures",,"10.1103/PhysRevE.63.057201",,"nlin.CD",,"  We analyse the chaotic motion and its shape dependence in a piecewise linear
+map using Fujisaka's characteristic function method. The map is a
+generalization of the one introduced by R. Artuso. Exact expressions for
+diffusion coefficient are obtained giving previously obtained results as
+special cases. Fluctuation spectrum relating to probability density function is
+obtained in a parametric form. We also give limiting forms of the above
+quantities. Dependence of diffusion coefficient and probability density
+function on the shape of the map is examined.
+","[{""version"":""v1"",""created"":""Sun, 8 Apr 2001 13:14:45 GMT""}]","2009-11-07"
+"quant-ph/0104034","Simon Benjamin","Simon C. Benjamin","Simple Pulses for Universal Quantum Computation with a Heisenberg ABAB
+  Chain","3 pages including 2 figs",,"10.1103/PhysRevA.64.054303",,"quant-ph",,"  Recently Levy has shown that quantum computation can be performed using an
+ABAB.. chain of spin-1/2 systems with nearest-neighbor Heisenberg interactions.
+Levy notes that all necessary elementary computational `gates' can be achieved
+by using spin-resonance techniques involving modulating the spin-spin
+interaction strength at high frequency. Here we note that, as an alternative to
+that approach, it is possible to perform the elementary gates with simple,
+non-oscillatory pulses.
+","[{""version"":""v1"",""created"":""Sat, 7 Apr 2001 18:18:56 GMT""}]","2009-11-07"
+"quant-ph/0104035","Martin C. Fischer","M. C. Fischer, B. Gutierrez-Medina, and M. G. Raizen","Observation of the Quantum Zeno and Anti-Zeno effects in an unstable
+  system","4 pages, 5 figures, submitted to PRL",,"10.1103/PhysRevLett.87.040402",,"quant-ph",,"  We report the first observation of the Quantum Zeno and Anti-Zeno effects in
+an unstable system. Cold sodium atoms are trapped in a far-detuned standing
+wave of light that is accelerated for a controlled duration. For a large
+acceleration the atoms can escape the trapping potential via tunneling.
+Initially the number of trapped atoms shows strong non-exponential decay
+features, evolving into the characteristic exponential decay behavior. We
+repeatedly measure the number of atoms remaining trapped during the initial
+period of non-exponential decay. Depending on the frequency of measurements we
+observe a decay that is suppressed or enhanced as compared to the unperturbed
+system.
+","[{""version"":""v1"",""created"":""Sun, 8 Apr 2001 02:23:12 GMT""}]","2009-11-07"

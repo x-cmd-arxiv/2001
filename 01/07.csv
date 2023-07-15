@@ -1,0 +1,243 @@
+"astro-ph/0101093","Mutsumi Sugizaki","M. Sugizaki (NASDA, UC Santa Cruz), K. Mitsuda, H. Kaneda, K.
+  Matsuzaki (ISAS), S. Yamauchi (Iwate Univ.), K. Koyama (Kyoto Univ.)","Faint X-ray sources resolved in the ASCA Galactic plane survey and their
+  contribution to the Galactic ridge X-ray emission","54 pages, 12 figures, accepted for publication in ApJ Supplements
+  Series","Astrophys.J.Suppl.134:77-102,2001","10.1086/320358",,"astro-ph",,"  The X-ray emission from the central region of the Galactic plane, |l|<45 deg
+and |b|<0.4 deg, was studied in the 0.7-10 keV energy band with a spatial
+resolution of ~3' with the ASCA observatory. We developed a new analysis method
+for the ASCA data to resolve discrete sources from the extended Galactic ridge
+X-ray emission (GRXE). We resolved 163 discrete sources with a flux down to
+10^-12.5 ergs cm^-2 s^-1 and determined the intensity variations of the GRXE as
+a function of the Galactic longitude with a spatial resolution of ~1 deg. The
+longitudinal variation of the GRXE in the energy band above 4 keV shows a large
+enhancement within |l|<30 deg. This suggests a strong enhancement of X-ray
+emissivity inside the 4-kpc arms. Searches for identifications of the resolved
+sources with cataloged X-ray sources and optical stars show that the 66% are
+unidentified. Spectral analysis of each source shows that a large number of the
+unidentified sources have hard X-ray spectra. We classified the sources into
+several groups according to the spectra and analyzed the spectra summed within
+each group. Possible X-ray origins of these sources are discussed based on the
+grouping analysis. Also, we derived the LogN-LogS relations of the resolved
+sources in the energy bands below and above 2 keV. The obtained LogN-LogS
+relation of the Galactic X-ray sources above 2 keV is represented by a
+power-law with an index of -0.79+/-0.07. This flat LogN-LogS relation suggests
+that the spatial distribution of the sources should have an arm-like structure
+in which the Solar system is included. The integrated surface brightness of the
+resolved sources is about 10% of the total GRXE in both energy bands. The
+approximately 90% of the emission remaining is still unresolved.
+","[{""version"":""v1"",""created"":""Sun, 7 Jan 2001 08:05:30 GMT""}]","2011-06-21"
+"cond-mat/0101075","Wernsdorfer Wolfgang","S. Pokrant","Evidence for Adiabatic Magnetization of cold Dy_N Clusters","4 pages, 3 figures","Phys. Rev. A 62, 051201 (2000)","10.1103/PhysRevA.62.051201",,"cond-mat.mes-hall",,"  Magnetic properties of Dy_N clusters in a molecular beam generated with a
+liquid helium cooled nozzle are investigated by Stern-Gerlach experiments. The
+cluster magnetizations \mu_z are measured as a function of magnetic field (B =
+0 - 1.6T) and cluster size (16 < N < 56). The most important observation is the
+saturation of the magnetization \mu_z(B) at large field strengths. The
+magnetization approaches saturation following the power law |\mu_z-\mu_0|
+proportional to 1/\sqrt{B}, where \mu_0 denotes the magnetic moment. This gives
+evidence for adiabatic magnetization.
+","[{""version"":""v1"",""created"":""Sat, 6 Jan 2001 16:36:35 GMT""}]","2009-11-07"
+"cond-mat/0101076","Hyok-Jon Kwon","Hyok-Jon Kwon","Dual proximity effect near superconductor-insulator transition","4 pages, 1 eps figure; revised presentation",,,,"cond-mat.supr-con",,"  We show that quantum vortex-loop proliferation may be one possible
+explanation of the super-long-range proximity effect observed in an insulating
+underdoped cuprate, using the dual theory of quantum vortices. As a test of
+this scenario, we propose that a dual proximity effect experiment can confirm
+the superfluid motion of the quantum vortices in the vortex-proliferated
+insulator and can measure the divergent correlation lengths near the
+superconductor-insulator transition.
+","[{""version"":""v1"",""created"":""Sat, 6 Jan 2001 23:29:47 GMT""},{""version"":""v2"",""created"":""Fri, 11 May 2001 01:54:20 GMT""}]","2007-05-23"
+"cond-mat/0101077","Kazuhiko Kuroki","Kazuhiko Kuroki, Masao Ogata, Ryotaro Arita, and Hideo Aoki","A crib-shaped triplet pairing gap function for an orthogonal pair of
+  quasi-one dimensional Fermi surfaces in Sr$_2$RuO$_4$","5 pages, RevTeX, to appear in Phys.Rev.B (Rapid Communications)",,"10.1103/PhysRevB.63.060506",,"cond-mat.str-el",,"  The competition between spin-triplet and singlet pairings is studied
+theoretically for the tight-binding $\alpha$-$\beta$ bands in Sr$_2$RuO$_4$,
+which arise from two sets of quasi-one dimensional Fermi surfaces. Using
+multiband FLEX approximation, where we incorporate an anisotropy in the spin
+fluctuations as suggested from experiments, we show that (i) the triplet can
+dominate over the singlet (which turns out to be extended s), and (ii) the
+triplet gap function optimized in the Eliashberg equation has an unusual, very
+non-sinusoidal form, whose time-reversal-broken combination exhibits a
+crib-shaped amplitude with dips.
+","[{""version"":""v1"",""created"":""Sun, 7 Jan 2001 06:07:48 GMT""}]","2009-11-07"
+"cond-mat/0101078","Srikanth Sastry","Srikanth Sastry, Nivedita Deo and Silvio Franz","Spectral Statistics of Instantaneous Normal Modes in Liquids and Random
+  Matrices","To appear in Phys. Rev. E; 10 pages, 6 figures",,"10.1103/PhysRevE.64.016305",,"cond-mat.stat-mech cond-mat.dis-nn",,"  We study the statistical properties of eigenvalues of the Hessian matrix
+${\cal H}$ (matrix of second derivatives of the potential energy) for a
+classical atomic liquid, and compare these properties with predictions for
+random matrix models (RMM). The eigenvalue spectra (the Instantaneous Normal
+Mode or INM spectra) are evaluated numerically for configurations generated by
+molecular dynamics simulations. We find that distribution of spacings between
+nearest neighbor eigenvalues, s, obeys quite well the Wigner prediction $s
+exp(-s^2)$, with the agreement being better for higher densities at fixed
+temperature. The deviations display a correlation with the number of localized
+eigenstates (normal modes) in the liquid; there are fewer localized states at
+higher densities which we quantify by calculating the participation ratios of
+the normal modes. We confirm this observation by calculating the spacing
+distribution for parts of the INM spectra with high participation ratios,
+obtaining greater conformity with the Wigner form. We also calculate the
+spectral rigidity and find a substantial dependence on the density of the
+liquid.
+","[{""version"":""v1"",""created"":""Sun, 7 Jan 2001 10:55:14 GMT""}]","2016-08-31"
+"cond-mat/0101079","Srikanth Sastry","Srikanth Sastry","Inherent Structure Approach to the Study of Glass Forming Liquids","Proceedings of Slow Dynamics and Freezing in Condensed Matter
+  Systems, J. Nehru University, 2000. To appear in Phase Transitions. 17 pages,
+  4 figures",,,,"cond-mat.stat-mech",,"  The inherent structure approach, wherein thermodynamic and structural changes
+in glass forming liquids are analyzed in terms of local potential energy minima
+that the liquid samples, has recently been applied extensively to the study of
+thermodynamic aspects of glass forming liquids. The evalation of the
+configurational entropy, which arises from the multiplicity of local energy
+minima, plays a central role in such analyses. Results are presented here
+concerning the calculation of configurational entropy based on computer
+simulations of a model liquid, and the application of the inherent structure
+formalism to the study of the glass transition locus, and the fragility of
+glass forming liquids.
+","[{""version"":""v1"",""created"":""Sun, 7 Jan 2001 11:07:24 GMT""}]","2007-05-23"
+"cond-mat/0101080","Ben Simons","A Lamacraft and B D Simons","Superconductors with Magnetic Impurities: Instantons and Sub-gap States","18 pages, 9 eps figures",,"10.1103/PhysRevB.64.014514",,"cond-mat.supr-con cond-mat.mes-hall",,"  When subject to a weak magnetic impurity potential, the order parameter and
+quasi-particle energy gap of a bulk singlet superconductor are suppressed.
+According to the conventional mean-field theory of Abrikosov and Gor'kov, the
+integrity of the energy gap is maintained up to a critical concentration of
+magnetic impurities. In this paper, a field theoretic approach is developed to
+critically analyze the validity of the mean field theory. Using the
+supersymmetry technique we find a spatially homogeneous saddle-point that
+reproduces the Abrikosov-Gor'kov theory, and identify instanton contributions
+to the density of states that render the quasi-particle energy gap soft at any
+non-zero magnetic impurity concentration. The sub-gap states are associated
+with supersymmetry broken field configurations of the action. An analysis of
+fluctuations around these configurations shows how the underlying supersymmetry
+of the action is restored by zero modes. An estimate of the density of states
+is given for all dimensionalities. To illustrate the universality of the
+present scheme we apply the same method to study `gap fluctuations' in a normal
+quantum dot coupled to a superconducting terminal. Using the same instanton
+approach, we recover the universal result recently proposed by Vavilov et al.
+Finally, we emphasize the universality of the present scheme for the
+description of gap fluctuations in d-dimensional superconducting/normal
+structures.
+","[{""version"":""v1"",""created"":""Sun, 7 Jan 2001 12:10:35 GMT""}]","2009-11-07"
+"cond-mat/0101081","Alessandro Silva","Alessandro Silva, Shimon Levit","Effects of Entanglement in Controlled Dephasing","4 pages, 1 figure",,"10.1103/PhysRevB.63.201309",,"cond-mat.mes-hall",,"  In controlled dephasing as a result of the interaction of a controlled
+environment (dephasor) and the system under observation (dephasee) the states
+of the two subsystems are entangled. Using as an example the ``Which Path
+Detector'', we discuss how the entanglement influences the controlled
+dephasing. In particular, we calculate the suppression $\nu$ of A-B
+oscillations as a function of the bias $eV$ applied to the QPC and the coupling
+$\Gamma$ of the QD to the leads. At low temperatures the entanglement produces
+a smooth crossover from $\nu \propto (eV/\Gamma)^2$, when $eV \ll \Gamma$ to
+$\nu \propto eV/\Gamma$, for $eV \gg \Gamma$.
+","[{""version"":""v1"",""created"":""Sun, 7 Jan 2001 14:28:42 GMT""}]","2009-11-07"
+"hep-lat/0101004","Tateaki Yazawa","Tateaki Yazawa, Tsuneo Suzuki","Lattice instanton action from 3D SU(2) Georgi-Glashow model","26 pages, 16 figures","JHEP 0104:026,2001","10.1088/1126-6708/2001/04/026","KANAZAWA 2000-15","hep-lat",,"  3D Georgi-Glashow model is studied on the lattice in the London limit in an
+infrared but an intermediate region before the screening appears. Abelian and
+instanton dominances are observed after abelian projections in a unitary gauge
+and roughly in the maximally abelian gauge. Using an inverse Monte-Carlo
+method, we determine an effective instanton action in both gauges. When we
+restrict ourselves to some regions of parameters $\beta$ and $\kappa$, we
+obtain an almost perfect instanton action, performing a block-spin
+transformation on the dual lattice. It takes a form of a Coulomb gas and
+reproduces fairly well the string tension obtained analytically by Polyakov.
+The almost perfect actions in both gauges look the same in the infrared region,
+which suggests gauge independence.
+","[{""version"":""v1"",""created"":""Sun, 7 Jan 2001 05:12:24 GMT""},{""version"":""v2"",""created"":""Mon, 23 Apr 2001 07:38:50 GMT""}]","2010-02-03"
+"math/0101049","Pavel Etingof","Pavel Etingof and Shlomo Gelaki","Classification of Finite-Dimensional Triangular Hopf Algebras With The
+  Chevalley Property","7 pages, latex",,,,"math.QA",,"  Recall that a triangular Hopf algebra A is said to have the Chevalley
+property if the tensor product of any two simple A-modules is semisimple, or,
+equivalently, if the radical of A is a Hopf ideal. There are two reasons to
+study this class of triangular Hopf algebras: First, it contains all known
+examples of finite-dimensional triangular Hopf algebras; second, it can be, in
+a sense, ""completely understood"". Namely, it was shown in our previous work
+with Andruskiewitsch that any finite-dimensional triangular Hopf algebra with
+the Chevalley property is obtained by twisting of a finite-dimensional
+triangular Hopf algebra with R-matrix of rank at most 2 which, in turn, is
+obtained by ""modifying"" the group algebra of a finite supergroup. This provides
+a classification of such Hopf algebras.
+  The goal of this paper is to make this classification more effective and
+explicit, i.e. to parameterize isomorphism classes of finite-dimensional
+triangular Hopf algebras with the Chevalley property by group-theoretical
+objects, similarly to how it was done in our previous work in the semisimple
+case. This is achieved in Theorem 2.2, where these classes are put in bijection
+with certain septuples of data. In the semisimple case, the septuples reduce to
+the quadruples, and we recover the result of our previous paper. In the minimal
+triangular pointed case, we recover a classification theorem from a previous
+paper of the second author.
+","[{""version"":""v1"",""created"":""Sat, 6 Jan 2001 18:36:01 GMT""}]","2007-05-23"
+"math/0101050","Yuri G. Zarhin","Yuri G. Zarhin","Hyperelliptic jacobians without complex multiplication in positive
+  characteristic","LaTeX2e, 6 pages",,,,"math.AG math.NT",,"  We prove that in odd characteristic the jacobian of a hyperelliptic curve
+$y^2=f(x)$ has no nontrivial endomorphisms over an algebraic closure of the
+ground field if the Galois group of the polynomial $f$ of even degree is ``very
+big"". The case of characteristic zero was previously treated by the author
+(Math. Res. Letters 7(2000), 123--132).
+","[{""version"":""v1"",""created"":""Sat, 6 Jan 2001 20:52:12 GMT""}]","2007-05-23"
+"math/0101051","M. R. Razvan","M.R. Razvan","Multiple Equilibria for an SIRS Epidemiological System","15 pages, 3 figures",,,,"math.CA q-bio",,"  An SIRS type model of disease transmission in an open environment is
+discussed. We use the Poincar\'{e} index together with a perturbation method to
+show that the endemic proportions need not be unique.
+","[{""version"":""v1"",""created"":""Sun, 7 Jan 2001 07:44:35 GMT""}]","2007-05-23"
+"math/0101052","Andrei Mironov","Z.Zakirova","On projective group properties of the 6d h-space of the type [33]","8 pages, LaTeX (corrected misprints)",,,,"math.DG",,"  In this note we find the metric of 6-dimensional h-space of the [33] type and
+then determine an important projective group characteristic of this h-space.
+","[{""version"":""v1"",""created"":""Sun, 7 Jan 2001 12:35:08 GMT""},{""version"":""v2"",""created"":""Sat, 5 Jan 2002 10:29:41 GMT""}]","2007-05-23"
+"nucl-ex/0101002","Roy A. Lacey","P.Chung, N.N.Ajitanand, J.M.Alexander, M.Anderson, D.Best, F.P.Brady,
+  T.Case, W.Caskey, D.Cebra, J.L.Chance, B.Cole, K.Crowe, A.Das, J.E.Draper,
+  M.L.Gilkes, S.Gushue, M.Heffner, A.S.Hirsch, E.L.Hjort, L.Huo, M.Justice,
+  M.Kaplan, D.Keane, J.C.Kintner, J.Klay, D.Krofcheck, R.A.Lacey, J.Lauret,
+  M.A.Lisa, H.Liu, Y.M.Liu, R.McGrath, Z.Milosevich, G.Odyniec, D.L.Olson,
+  S.Y.Panitkin, C.Pinkenburg, N.T.Porile, G.Rai, H.G.Ritter, J.L.Romero,
+  R.Scharenberg, L.Schroeder, B.Srivastava, N.T.BStone, T.J.M.Symons,
+  T.Wienold, R.Witt J.Whitfield, L.Wood, and W.N.Zhang","Directed Flow of $\Lambda$-Hyperons in 2-6 AGeV Au+Au Collisions","5 pages including 4 Figs. Submitted to Phys. Rev. Lett","Phys.Rev.Lett.86:2533-2536,2001","10.1103/PhysRevLett.86.2533",,"nucl-ex",,"  Directed flow measurements for $\Lambda$-hyperons are presented and compared
+to those for protons produced in the same Au+Au collisions (2, 4, and 6 AGeV;
+$b < 5 - 6$ fm). The measurements indicate that $\Lambda$-hyperons flow
+consistently in the same direction and with smaller magnitudes than those of
+protons. Such a strong positive flow [for $\Lambda$s] has been predicted in
+calculations which include the influence of the $\Lambda$-nucleon potential.
+The experimental flow ratio $\Lambda$/p is in qualitative agreement with
+expectations ($\sim 2/3$) from the quark counting rule at 2 AGeV but is found
+to decrease with increasing beam energy.
+","[{""version"":""v1"",""created"":""Sat, 6 Jan 2001 20:54:32 GMT""}]","2019-08-17"
+"nucl-ex/0101003","Roy A. Lacey","P.Chung, N.N.Ajitanand, J.M.Alexander, M.Anderson, D.Best, F.P.Brady,
+  T.Case, W.Caskey, D.Cebra, J.L.Chance, B.Cole, K.Crowe, A.Das, J.E.Draper,
+  M.L.Gilkes, S.Gushue, M.Heffner, A.S.Hirsch, E.L.Hjort, L.Huo, M.Justice,
+  M.Kaplan, D.Keane, J.C.Kintner, J.Klay, D.Krofcheck, R.A.Lacey, J.Lauret,
+  M.A.Lisa, H.Liu, Y.M.Liu, R.McGrath, Z.Milosevich, G.Odyniec, D.L.Olson,
+  S.Y.Panitkin, C.Pinkenburg, N.T.Porile, G.Rai, H.G.Ritter, J.L.Romero,
+  R.Scharenberg, L.Schroeder, B.Srivastava, N.T.BStone, T.J.M.Symons,
+  T.Wienold, R.Witt J.Whitfield, L.Wood, and W.N.Zhang","Anti-flow of K$^0_s$ Mesons in 6 AGeV Au + Au Collisions","5 pages, including 3 figs","Phys.Rev.Lett.85:940-943,2000","10.1103/PhysRevLett.85.940",,"nucl-ex",,"  We have measured the sideward flow of neutral strange ($K^0_s$) mesons in 6
+AGeV Au + Au collisions. A prominent anti-flow signal is observed for an impact
+parameter range (b $\lesssim 7$ fm) which spans central and mid-central events.
+Since the $K^0_s$ scattering cross section is relatively small in nuclear
+matter, this observation suggests that the in-medium kaon vector potential
+plays an important role in high density nuclear matter.
+","[{""version"":""v1"",""created"":""Sat, 6 Jan 2001 21:47:15 GMT""}]","2019-08-17"
+"physics/0101038","John Michael Williams","John Michael Williams","Existence Proof of nonThermal Vacuum Radiation from Acceleration","v. 1.5 adds minor clarification on nonthermal distribution",,,,"physics.gen-ph",,"  A proof is developed from first principles, independent of general relativity
+and of thermodynamics, that there exists a threshold acceleration above which
+radiation (real particle creation) from the vacuum must occur. The radiation is
+not expected to follow a Planckian distribution.
+  PACS Codes: 03.65.Bz 04.70.-s 26.35.+c
+","[{""version"":""v1"",""created"":""Sat, 6 Jan 2001 19:53:07 GMT""},{""version"":""v2"",""created"":""Thu, 11 Jan 2001 18:59:57 GMT""},{""version"":""v3"",""created"":""Fri, 26 Jan 2001 17:48:30 GMT""},{""version"":""v4"",""created"":""Mon, 29 Jan 2001 07:05:55 GMT""},{""version"":""v5"",""created"":""Sun, 11 Feb 2001 04:09:57 GMT""},{""version"":""v6"",""created"":""Wed, 5 Dec 2001 06:32:54 GMT""},{""version"":""v7"",""created"":""Mon, 8 Apr 2002 06:44:13 GMT""}]","2007-05-23"
+"physics/0101039","Elena Castellani","Elena Castellani","Reductionism, Emergence, and Effective Field Theories","18 pages, LateX2e, to appear in Studies in History and Philosophy of
+  Modern Physics",,,,"physics.hist-ph",,"  In recent years, a change in attitude in particle physics has led to our
+understanding current quantum field theories as effective field theories
+(EFTs). The present paper is concerned with the significance of this EFT
+approach, especially from the viewpoint of the debate on reductionism in
+science. In particular, it is a purpose of this paper to clarify how EFTs may
+provide an interesting case-study in current philosophical discussion on
+reduction, emergence and inter-level relationships in general.
+","[{""version"":""v1"",""created"":""Sat, 6 Jan 2001 23:43:39 GMT""}]","2007-05-23"
+"physics/0101040","Nikolay A. Zabotin","Nikolay A. Zabotin, Gennady A. Zhbankov and Eugene S. Kovalenko","Dependence of radio wave anomalous attenuation in the ionosphere on
+  properties of spatial spectrum of irregularities","17 pages including 13 figures",,,,"physics.ao-ph physics.geo-ph",,"  The paper presents theoretical study of the influence of shape of the spatial
+spectrum of small-scale ionospheric irregularities on anomalous attenuation of
+HF radio waves caused by multiple scattering. Several spectrum models are
+considered. Relative contribution of different wave number regions of the
+spectrum is investigated. The analysis of numerical calculations shows that the
+shape of the irregularity spectrum can be determined from the distribution of
+the signal attenuation on the Earth's surface.
+","[{""version"":""v1"",""created"":""Sun, 7 Jan 2001 08:25:43 GMT""}]","2007-05-23"
+"quant-ph/0101030","Wladyslaw A. Majewski","Adam W. Majewski","On the measure of entanglement","8 pages, the amended version, presented at OAMP conference,
+  Constanta, 2001",,,,"quant-ph",,"  In this paper we present the novel qualities of entanglement of formation for
+general (so also infinite dimensional) quantum systems.
+  A major benefit of our presentation is a rigorous description of entanglement
+of formation. In particular, we indicate how this description may be used to
+examine optimal decompositions. Illustrative examples showing the method of
+estimation of entanglement of formation are givem\n.
+","[{""version"":""v1"",""created"":""Sun, 7 Jan 2001 11:01:45 GMT""},{""version"":""v2"",""created"":""Fri, 30 Mar 2001 07:46:42 GMT""},{""version"":""v3"",""created"":""Wed, 11 Jul 2001 13:54:00 GMT""}]","2016-09-08"
+"quant-ph/0101031","Alexander D. Panov","Alexander D. Panov","Computer Model of Quantum Zeno Effect in Spontaneous Decay with Distant
+  Detector","LaTeX, 13 pages, 5 figures",,"10.1016/S0375-9601(01)00094-9",,"quant-ph",,"  A numerical model of spontaneous decay continuously monitored by a distant
+detector of emitted particles is constructed. It is shown that there is no
+quantum Zeno effect in such quantum measurement if the interaction between
+emitted particle and detector is short-range and the mass of emitted particle
+is not zero.
+","[{""version"":""v1"",""created"":""Sun, 7 Jan 2001 11:53:25 GMT""}]","2009-11-07"
+"quant-ph/0101033","Wladyslaw A. Majewski","S. Koziel and W. A. Majewski","Evolution of entanglement for spin-flip dynamics","15 pages. No figures. Amended version with simplifications. Comments
+  welcome",,,,"quant-ph",,"  A model of evolution of bipartite quantum state entanglement is studied. It
+involves recently introduced quantum block spin-flip dynamics on a lattice. We
+find that for initially separable states the considered evolution leads, in
+general, to entangled states. We also present a complete characterization of
+two-point correlation functions for that type of dynamics to confirm
+enhancement of quantum correlations for the considered system.
+","[{""version"":""v1"",""created"":""Sun, 7 Jan 2001 12:15:43 GMT""},{""version"":""v2"",""created"":""Fri, 20 Jul 2001 17:03:01 GMT""},{""version"":""v3"",""created"":""Tue, 30 Apr 2002 10:02:57 GMT""}]","2016-09-08"

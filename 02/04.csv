@@ -1,0 +1,318 @@
+"astro-ph/0102061","Roberto Cid Fernandes","Roberto Cid Fernandes (1,2), Laerte Sodre (3), Henrique Schmitt (4,5)
+  & Joao Leao (2). ((1) JHU; (2) UFSC; (3) IAG-USP; (4) STScI; (5) NRAO)","A probabilistic formulation for Empirical Population Synthesis: Sampling
+  methods and tests","22 pages, 12 figs. MNRAS accepted","Mon.Not.Roy.Astron.Soc. 325 (2001) 60","10.1046/j.1365-8711.2001.04366.x",,"astro-ph",,"  We present a probabilistic formulation of the classical problem of
+synthesizing spectral properties of a galaxy using a base of star clusters. The
+problem consists of estimating the population vector x, composed by the
+contributions of n_star base elements to the integrated spectrum of a galaxy,
+and the extinction A_V, given a set of absorption line equivalent widths and
+continuum colors. The formalism is applied to the n_star = 12 base defined by
+Schmidt etal and subsequently used in several studies. The 13-D parameter space
+is explored with a Markov chain Monte Carlo sampling scheme based on the
+Metropolis algorithm, which produces a smooth and efficient mapping of the
+P(x,A_V) probability distribution.
+  This version of Empirical Population Synthesis is used to investigate the
+ability to recover the detailed history of star-formation and chemical
+evolution using this spectral base. This is studied as a function of (1) the
+magnitude of the measurement errors and (2) the set of observables used in the
+synthesis. Only for extremely high S/N all 12 base proportions can be
+accurately recovered, though the observables are very precisely reproduced for
+any S/N. Furthermore, the individual mean x components are biased in the sense
+that components which carry a large fraction of the light tend to share their
+contribution preferably among components of same age. This compensation effect
+is linked to noise-induced linear dependences in the base, which very
+effectively redistribute the likelihood in x-space. The age distribution,
+however, can be satisfactorily recovered for realistic data quality. (abridged)
+","[{""version"":""v1"",""created"":""Sun, 4 Feb 2001 03:11:45 GMT""}]","2009-11-06"
+"astro-ph/0102062","Luigi Guzzo","L.Guzzo (Osservatorio Astronomico di Brera, Merate/Milano, Italy)","Clustering in the Universe: from Highly Nonlinear Structures to
+  Homogeneity","25 pages LateX, style files included, 12 PS figures (higher
+  resolution versions of Figs 1 and 3 available at
+  http://www.merate.mi.astro.it/~guzzo/Como2000/) Lectures delivered at the
+  ""2000 Graduate School in Contemporary Relativity and Gravitational Physics"",
+  V. Gorini & U. Moschella eds., IPP publishing, in press",,,"Como2000","astro-ph",,"  These lecture notes concentrate on a few specific topics concerning the
+distribution of galaxies on scales from 0.1 to nearly 1000/h Mpc. The main aim
+is to provide the students with the information and tools to familiarize with a
+few basic questions: 1) What are the scaling laws followed by the clustering of
+luminous objects over almost four decades of scales; 2) How galaxy motions
+distort the observed maps in redshift space, and how we can correct and use
+them to our benefit; 3) Is the observed clustering of galaxies suggestive of a
+fractal Universe; and consequently, 4) Is our faith in the Cosmological
+Principle still well placed, i.e. do we see evidence for a homogeneous
+distribution of matter on the largest explorable scales, in terms of the
+correlation function and power spectrum of the distribution of luminous
+objects. For some of these questions we have a well--defined answer, but for
+some others the goal is to indicate the path along which there is still a good
+deal of exciting work to be done.
+","[{""version"":""v1"",""created"":""Sun, 4 Feb 2001 08:00:17 GMT""}]","2007-05-23"
+"cond-mat/0102058","Hsi-Sheng Goan","Hsi-Sheng Goan and Gerard J. Milburn","Conditional quantum evolution induced by continuous measurement for a
+  mesoscopic qubit","4 pages. Submitted to the IQC01 conference proceedings","Proceedings of the 1st International Conference on Experimental
+  Implementations of Quantum Computing (Rinton Press, New Jersey, 2001) pp. 306",,,"cond-mat.mes-hall",,"  We consider the problem of an electron tunneling between two coupled quantum
+dots, a two-state quantum system (qubit), using a low-transparency point
+contact (PC) or tunnel junction as a detector continually measuring the
+position of the electron. We focus on the qubit dynamics conditioned on a
+particular realization of the actual measured current through the PC device. We
+illustrate the conditional evolutions by numerical simulations. The different
+behaviors between unconditional and conditional evolutions are demonstrated.
+The conditional qubit dynamics evolving from quantum jumps to quantum diffusion
+is presented.
+","[{""version"":""v1"",""created"":""Sun, 4 Feb 2001 04:44:02 GMT""}]","2007-05-23"
+"cond-mat/0102059","Kin Wah Yu","K. W. Yu and Jones T. K. Wan","Local field distribution near corrugated interfaces: Green's function
+  formulation","Presented at the Conference on Computational Physics (CCP2000), held
+  at Gold Coast, Australia from 3 - 8, December 2000. To be published in
+  Proceedings of CCP2000","Comput. Phys. Comm. 142, 368 (2001)","10.1016/S0010-4655(01)00381-2",,"cond-mat.soft physics.comp-ph",,"  We have developed a Green's function formalism to compute the local field
+distribution near an interface separating two media of different dielectric
+constants. The Maxwell's equations are converted into a surface integral
+equation; thus it greatly simplifies the solutions and yields accurate results
+for interfaces of arbitrary shape. The integral equation is solved and the
+local field distribution is obtained for a periodic interface.
+","[{""version"":""v1"",""created"":""Sun, 4 Feb 2001 13:29:52 GMT""},{""version"":""v2"",""created"":""Fri, 9 Mar 2001 09:12:56 GMT""}]","2007-05-23"
+"cond-mat/0102060","Kumar Nanjundiah","N. Kumar and K.S. Narayan","Polarization-dependent discharge in fibers of semiconducting ladder-type
+  polymer","This article has been accepted for publication in applied physics
+  letters and tentatively to be published in March 12, 2001 issue",,"10.1063/1.1354159",,"cond-mat.mtrl-sci",,"  We report results on polarization-dependent photoinduced discharge in
+oriented fibers and films of ladder-type, electron-transporting polymer poly
+(benzimidazobenzophenanthroline), BBL. The photocarrier generation efficiency
+in the fiber which is indicated by the rate of discharge, is found to be
+distinctly higher for light polarized parallel to the fiber axis as compared to
+the radially perpendicular direction . Similar results, with photocarrier
+generation efficiency anisotropy ~ 10 are obtained for oriented films. These
+observations are different from previously obtained results on
+polyparaphenylenevinylene (PPV). The results are compared with the
+polarization-dependent steady- state photoconductivity measurements. We
+interpret these results on the basis of molecular and macroscopic features of
+the material.
+","[{""version"":""v1"",""created"":""Sun, 4 Feb 2001 13:50:10 GMT""}]","2009-11-07"
+"cond-mat/0102061","Kin Wah Yu","Y. L. Siu, Jones T. K. Wan and K. W. Yu","Interparticle force in polydisperse electrorheological fluids: Beyond
+  the dipole approximation","Presented at Conference on Computational Physics (CCP2000), held at
+  Gold Coast, Australia from 3-8, December 2000","Comput. Phys. Comm. 142, 446 (2001)","10.1016/S0010-4655(01)00386-1",,"cond-mat.soft physics.comp-ph physics.flu-dyn",,"  We have developed a multiple image method to compute the interparticle force
+for a polydisperse electrorheological (ER) fluid. We apply the formalism to a
+pair of dielectric spheres of different dielectric constants and calculate the
+force as a function of the separation. The results show that the point-dipole
+(PD) approximation errs considerably because many-body and multipolar
+interactions are ignored. The PD approximation becomes even worse when the
+dielectric contrast between the particles and the host medium is large. From
+the results, we show that the dipole-induced-dipole (DID) model yields very
+good agreements with the multiple image results for a wide range of dielectric
+contrasts and polydispersity. The DID model accounts for multipolar interaction
+partially and is simple to use in computer simulation of polydisperse ER
+fluids.
+","[{""version"":""v1"",""created"":""Sun, 4 Feb 2001 13:55:50 GMT""}]","2007-05-23"
+"cond-mat/0102062","Olivier Fliegans","Olivier Fliegans and D. H. E. Gross","Effect of angular momentum on equilibrium properties of a
+  self-gravitating system","17 pages, 11 figures, submitted to Phys. Rev. E",,"10.1103/PhysRevE.65.046143",,"cond-mat.stat-mech astro-ph",,"  The microcanonical properties of a two dimensional system of N classical
+particles interacting via a smoothed Newtonian potential as a function of the
+total energy E and the total angular momentum L are discussed. In order to
+estimate suitable observables a numerical method based on an importance
+sampling algorithm is presented. The entropy surface shows a negative specific
+heat region at fixed L for all L. Observables probing the average mass
+distribution are used to understand the link between thermostatistical
+properties and the spatial distribution of particles. In order to define a
+phase in non-extensive system we introduce a more general observable than the
+one proposed by Gross and Votyakov [Eur. Phys. J. B:15, 115 (2000)]: the sign
+of the largest eigenvalue of the entropy surface curvature. At large E the
+gravitational system is in a homogeneous gas phase. At low E there are several
+collapse phases; at L=0 there is a single cluster phase and for L>0 there are
+several phases with 2 clusters. All these pure phases are separated by first
+order phase transition regions. The signal of critical behaviour emerges at
+different points of the parameter space (E,L). We also discuss the ensemble
+introduced in a recent pre-print by Klinko & Miller; this ensemble is the
+canonical analogue of the one at constant energy and constant angular momentum.
+We show that a huge loss of informations appears if we treat the system as a
+function of intensive parameters: besides the known non-equivalence at first
+order phase transitions, there exit in the microcanonical ensemble some values
+of the temperature and the angular velocity for which the corresponding
+canonical ensemble does not exist, i.e. the partition sum diverges.
+","[{""version"":""v1"",""created"":""Sun, 4 Feb 2001 14:01:59 GMT""}]","2009-11-07"
+"cond-mat/0102063","Kin Wah Yu","Jones T. K. Wan, G. Q. Gu and K. W. Yu","Nonlinear ER effects in an ac applied field","Presented at Conference on Computational Physics (CCP2000), held at
+  Gold Coast, Australia from 3-8, December 2000","Phys. Rev. E 63, 052501 (2001).","10.1103/PhysRevE.63.052501",,"cond-mat.soft cond-mat.mtrl-sci",,"  The electric field used in most electrorheological (ER) experiments is
+usually quite high, and nonlinear ER effects have been theoretically predicted
+and experimentally measured recently. A direct method of measuring the
+nonlinear ER effects is to examine the frequency dependence of the same
+effects. For a sinusoidal applied field, we calculate the ac response which
+generally includes higher harmonics. In is work, we develop a multiple image
+formula, and calculate the total dipole moments of a pair of dielectric
+spheres, embedded in a nonlinear host. The higher harmonics due to the
+nonlinearity are calculated systematically.
+","[{""version"":""v1"",""created"":""Sun, 4 Feb 2001 14:57:04 GMT""}]","2007-05-23"
+"gr-qc/0102010","Jaume Garriga","Jaume Garriga and Alexander Vilenkin","Many worlds in one","9 pages, 2 figures, comments and references added","Phys.Rev. D64 (2001) 043511","10.1103/PhysRevD.64.043511",,"gr-qc astro-ph hep-th quant-ph",,"  A generic prediction of inflation is that the thermalized region we inhabit
+is spatially infinite. Thus, it contains an infinite number of regions of the
+same size as our observable universe, which we shall denote as $\O$-regions. We
+argue that the number of possible histories which may take place inside of an
+$\O$-region, from the time of recombination up to the present time, is finite.
+Hence, there are an infinite number of $\O$-regions with identical histories up
+to the present, but which need not be identical in the future. Moreover, all
+histories which are not forbidden by conservation laws will occur in a finite
+fraction of all $\O$-regions. The ensemble of $\O$-regions is reminiscent of
+the ensemble of universes in the many-world picture of quantum mechanics. An
+important difference, however, is that other $\O$-regions are unquestionably
+real.
+","[{""version"":""v1"",""created"":""Sat, 3 Feb 2001 22:59:07 GMT""},{""version"":""v2"",""created"":""Wed, 2 May 2001 13:20:11 GMT""}]","2009-11-07"
+"hep-ex/0102002","Philip Burrows","Koya Abe et al (The SLD Collaboration)","Improved Measurement of the Probability for Gluon Splitting into b bbar
+  in Z0 Decays","21 pages, 11 figures; submitted to Physics Letters B","Phys.Lett.B507:61-69,2001","10.1016/S0370-2693(01)00367-7","SLAC-PUB-8737","hep-ex",,"  We have measured gluon splitting into bottom quarks, g -> b bbar, in hadronic
+Z0 decays collected by SLD between 1996 and 1998. The analysis was performed by
+looking for secondary bottom production in 4-jet events of any primary flavor.
+4-jet events were identified, and in each event a topological vertex-mass
+technique was applied to the two jets closest in angle in order to identify
+them as b or bbar jets. The upgraded CCD vertex detector gives very high
+B-tagging efficiency, especially for B hadrons with the low energies typical of
+this process. We measured the rate of g -> b bbar production per hadronic
+event, g_bb, to be (2.44+-0.59 (stat) +-0.34 (syst)) X10**-3.
+","[{""version"":""v1"",""created"":""Sat, 3 Feb 2001 20:02:43 GMT""}]","2008-11-26"
+"hep-ex/0102003","Zhengguo Zhao","J. Z. Bai, et al (BES collaboration)","Measurements of the Cross Section for e+e- -> hadrons at Center-of-Mass
+  Energies from 2 to 5 GeV","5 pages, 3 figures","Phys.Rev.Lett.88:101802,2002","10.1103/PhysRevLett.88.101802",,"hep-ex",,"  We report values of $R = \sigma(e^+e^-\to
+{hadrons})/\sigma(e^+e^-\to\mu^+\mu^-)$ for 85 center-of-mass energies between
+2 and 5 GeV measured with the upgraded Beijing Spectrometer at the Beijing
+Electron-Positron Collider.
+","[{""version"":""v1"",""created"":""Sun, 4 Feb 2001 02:32:21 GMT""},{""version"":""v2"",""created"":""Thu, 31 May 2001 02:40:59 GMT""},{""version"":""v3"",""created"":""Tue, 12 Mar 2002 09:51:44 GMT""}]","2008-11-26"
+"hep-ph/0102030","Shinji Komine","Shinji Komine","Higgs mass and b to s gamma constraints on SUSY models with no-scale
+  boundary condition","16 pages, 9 figures",,,,"hep-ph",,"  No-scale structure of the Kahler potential is obtained in many types of
+supersymmetric models. In this paper, phenomenological aspects of these models
+are investigated with special attention to the current Higgs mass bound at LEP
+and b \to s \gamma result at the CLEO. When the boundary condition is given at
+the GUT scale and gaugino masses are universal at this scale, very narrow
+parameter region is allowed only for positive Higgsino mass region if R-parity
+is conserved. The negative Higgsino mass case is entirely excluded. On the
+other hand, relatively large parameter region is allowed when the boundary
+condition is given above the GUT scale, and Tevatron can discover SUSY signals
+for the positive Higgs mass case. The no-scale models with Wino, Higgsino or
+sneutrino LSP are also considered. We show that the Higgs mass constraint is
+important for the Higgsino LSP case, which requires the LSP mass to be larger
+than about 245 GeV.
+","[{""version"":""v1"",""created"":""Sun, 4 Feb 2001 07:12:38 GMT""},{""version"":""v2"",""created"":""Tue, 20 Mar 2001 03:45:18 GMT""}]","2007-05-23"
+"hep-th/0102015","Antonios Papazoglou","Antonios Papazoglou (Oxford University)","Dilaton tadpoles and mass in warped models","9 pages, comments and references added","Phys.Lett. B505 (2001) 231-235","10.1016/S0370-2693(01)00358-6","OUTP-01-04P","hep-th",,"  We review the brane world sum rules of Gibbons at al for compact five
+dimensional warped models with identical four-geometries and bulk dynamics
+involving scalar fields with generic potential. We show that the absence of
+dilaton tadpoles in the action functional of the theory is linked to one of
+these sum rules. Moreover, we calculate the dilaton mass term and derive the
+condition that is necessary for stabilizing the system.
+","[{""version"":""v1"",""created"":""Sat, 3 Feb 2001 18:41:12 GMT""},{""version"":""v2"",""created"":""Sun, 4 Mar 2001 19:39:56 GMT""}]","2009-11-07"
+"math/0102024","Nathan M. Dunfield","Danny Calegari and Nathan M. Dunfield","Commensurability of 1-cusped hyperbolic 3-manifolds","14 pages, to appear in TAMS, V2 changes: minor improvements","Trans. Amer. Math. Soc. 354 (2002), 2955-2969.",,,"math.GT",,"  We give examples of non-fibered hyperbolic knot complements in homology
+spheres that are not commensurable to fibered knot complements in homology
+spheres. In fact, we give many examples of knot complements in homology spheres
+with the property that every commensurable knot complement in a homology sphere
+has non-monic Alexander polynomial.
+","[{""version"":""v1"",""created"":""Sat, 3 Feb 2001 17:52:09 GMT""},{""version"":""v2"",""created"":""Wed, 22 Aug 2001 15:13:58 GMT""}]","2007-05-23"
+"math/0102025","John Franks","Benson Farb and John Franks","Group actions on one-manifolds, II: Extensions of H\""{o}lder's Theorem","references added, new theorem added :topological characterization of
+  affine groups on R",,,,"math.DS math.GR",,"  We study groups of homeomorphisms of R, each of whose elements have at most
+one fixed point. In particular we prove that any such group of C^2
+diffeomorphisms is topologically conjugate to an affine group.
+","[{""version"":""v1"",""created"":""Sat, 3 Feb 2001 19:36:46 GMT""},{""version"":""v2"",""created"":""Thu, 3 May 2001 23:23:30 GMT""}]","2007-05-23"
+"math/0102026","John Franks","Benson Farb and John Franks","Groups of homeomorphisms of one-manifolds, III: Nilpotent subgroups",,,,,"math.DS math.GR",,"  This paper has been withdrawn by the authors; it will be incorporated into
+part I of the series (in preparation).
+","[{""version"":""v1"",""created"":""Sat, 3 Feb 2001 19:43:27 GMT""},{""version"":""v2"",""created"":""Mon, 19 Feb 2001 23:37:11 GMT""}]","2007-05-23"
+"math/0102027","Nicolau C. Saldanha","Nicolau C. Saldanha and Carlos Tomei","Two results on tilings of quadriculated annuli","8 pages, 6 figures",,,,"math.CO",,"  We provide a more informal explanation of two results in our manuscript
+""Tilings of quadriculated annuli"". Tilings of a quadriculated annulus $A$ are
+counted according to volume (in the formal variable q) and flux (in p). The
+generating function Phi_A(p,q) is such that, for q = -1, the non-zero roots in
+p are roots of unity and for q > 0, real negative.
+","[{""version"":""v1"",""created"":""Sat, 3 Feb 2001 20:07:37 GMT""}]","2009-09-25"
+"math/0102028","Nicolas Andruskiewitsch","Nicolas Andruskiewitsch and Sorin Dascalescu","Co-Frobenius Hopf algebras and the coradical filtration","13 pages","Math. Z. 243 (2003), no. 1, 145--154.",,,"math.QA math.RA",,"  We prove that a Hopf algebra with a finite coradical filtration is
+co-Frobenius, i. e. there is a non-zero integral on it. As a consequence, we
+show that algebras of functions on quantum groups at roots of one are
+co-Frobenius. We also characterize co-Frobenius Hopf algebras with coradical a
+Hopf subalgebra. This characterization is in the framework of the lifting
+method due to H.-J. Schneider and the first-named author. Here is our main
+result. Let H be a Hopf algebra whose coradical is a Hopf subalgebra. Let gr H
+be the associated graded Hopf algebra and let R be the diagram of H. Then the
+following are equivalent: (1) H is co-Frobenius, (2) gr H is co-Frobenius, (3)
+R is finite dimensional, (4) the coradical filtration of H is finite. This
+Theorem allows to construct many new examples of co-Frobenius Hopf algebras and
+opens the way to the classification of ample classes of such Hopf algebras.
+","[{""version"":""v1"",""created"":""Sat, 3 Feb 2001 20:18:32 GMT""}]","2007-05-23"
+"math/0102029","Ko Honda","Ko Honda","Gluing tight contact structures","28 pages, 23 figures",,,,"math.GT math.DG math.SG",,"  We prove gluing theorems for tight contact structures. In particular, we
+rederive (as special cases) gluing theorems due to Colin and Makar-Limanov, and
+present an algorithm for determining whether a given contact structure on a
+handlebody is tight. As applications, we construct a tight contact structure on
+a genus 4 handlebody which becomes overtwisted after Legendrian -1 surgery, and
+study certain Legendrian surgeries on T^3.
+","[{""version"":""v1"",""created"":""Sun, 4 Feb 2001 10:55:22 GMT""}]","2007-05-23"
+"math/0102030","Gergely Harcos","Imre B\'ar\'any, Gergely Harcos, J\'anos Pach, G\'abor Tardos","Covering lattice points by subspaces","10 pages, AMS-TeX; to appear in Period. Math. Hung.; Corollary to
+  Theorem 3 has been replaced by a weaker version, because the original proof
+  of the Corollary was incorrect. A new proof is provided and Remark 3 has been
+  added","Period. Math. Hung. 43 (2001), 93-103",,,"math.NT math.CO",,"  We find tight estimates for the minimum number of proper subspaces needed to
+cover all lattice points in an n-dimensional convex body symmetric about the
+origin. We also find the order of magnitude of the number of (n-1)-dimensional
+subspaces induced by the lattice points in a large n-dimensional ball centered
+at the origin.
+","[{""version"":""v1"",""created"":""Sun, 4 Feb 2001 12:32:38 GMT""},{""version"":""v2"",""created"":""Fri, 2 Mar 2001 23:53:14 GMT""}]","2007-05-23"
+"physics/0102004","James E. Till","James E. Till","Predecessors of preprint servers",,"Learn.Publ.14:7-13,2001","10.1087/09531510125100214",,"physics.soc-ph physics.hist-ph",,"  Although there was an early experiment in the 1960s with the central
+distribution of paper preprints in the biomedical sciences, these sciences have
+not been early adopters of electronic preprint servers. Some barriers to the
+development of a 'preprint culture' in the biomedical sciences are described.
+Multiple factors that, from the 1960s, fostered the transition from a
+paper-based preprint culture in high energy physics to an electronic one are
+also described. A new revolution in scientific publishing, in which journals
+come to be regarded as an overlay on electronic preprint databases, will
+probably overtake some areas of research much more quickly than others.
+","[{""version"":""v1"",""created"":""Sun, 4 Feb 2001 10:10:38 GMT""}]","2009-11-06"
+"physics/0102005","R. M. Kiehn","R. M. Kiehn","Instability patterns, wakes and topological limnit sets","16 pages pdf",,,,"physics.flu-dyn",,"  Many hydrodynamic instability patterns can be put into correspondence with a
+subset of characteristic surfaces of tangential discontinuities. These
+topological limits sets to systems of hyperbolic PDE's are locally unstable,
+but a certain subset associated with minimal surfaces are globally stabilized,
+persistent and non-dissipative. Sections of these surfaces are the spiral
+scrolls so often observed in hydrodynamic wakes. This method of wake production
+does not depend explicitly upon viscosity.
+","[{""version"":""v1"",""created"":""Sat, 3 Feb 2001 21:22:06 GMT""}]","2007-05-23"
+"physics/0102006","Edgar Paternina","Edgar Paternina","The Principle of Synergy and Isomorphic Units, a revised version","36 pages, 10 figures, 1 table and equations. Influenced both by Dr.
+  Edwina Taborsky's paper in the reference and comments received in Ken
+  Wilber's forums this revision has been done",,,,"physics.gen-ph",,"  A solution to the part and whole problem is presented in this paper by using
+a complex mathematical representation that permits to define the Holon concept
+as a unit that remains itself in spite of complex operations such as
+integration and derivation. This can be done because of the remarkable
+isomorphic property of Euler Relation. We can then define a domain independent
+of the observer and the object where the object is embedded. We will then be
+able to have a Quantum Mechanics solution without the ""observer drawback"", as
+Karl R. Popper tried to find all his life but from the philosophical point of
+view and which was Einstein main concern about QM. A unit that has always
+similar or identical structure or form, despite even complex operations such as
+integration and derivation, is the ideal unit for the new sciences of
+complexity or just the systems sciences where structure or form, wholeness,
+organization, and complexity are main requirements. A table for validating the
+results obtained is presented in case of the pendulum formula.
+","[{""version"":""v1"",""created"":""Sun, 4 Feb 2001 00:45:31 GMT""}]","2007-05-23"
+"physics/0102007","John Michael Williams","John Michael Williams","Biological Effects of Microwaves: Thermal and nonThermal Mechanisms","49 pp. v. 4.7 Makes minor text and abstract changes; adds new
+  references. Gives Scribd posting home address",,,,"physics.gen-ph","http://arxiv.org/licenses/nonexclusive-distrib/1.0/","  For over sixty years, it has been reported that microwave electromagnetic
+radiation (EMR) had effects on humans which could not be explained by
+detectible heating of tissue. Auditory responses to radar, called microwave
+hearing, have been the best known of these phenomena. To account for microwave
+hearing, many studies in the literature have adopted a rate-of-heating
+hypothesis advanced by Foster and Finch in 1974. We show here that theoretical
+and experimental studies supporting this hypothesis are weaker than usually
+assumed.
+  We develop a simple framework of understanding of EMR that may be used to
+explain microwave hearing as a nonthermal, nonacoustic effect. We then extend
+this approach to other contexts, pointing out several fundamental
+misconceptions confounding the field.
+  EMR, especially wide-band EMR, primarily must have a nonthermal effect on
+living tissue before conversion to heat. Auditory and tactile sensations,
+central neurological disability, and blood pressure loss caused by EMR have
+been documented. Except microwave hearing, parameters of irradiation causing
+such effects have not been explored adequately and remain unknown. There
+appears not to be any forensic methodology to prove the cause of harm at
+nonthermal levels.
+","[{""version"":""v1"",""created"":""Sun, 4 Feb 2001 06:00:07 GMT""},{""version"":""v10"",""created"":""Sun, 4 May 2014 05:54:51 GMT""},{""version"":""v11"",""created"":""Wed, 28 Sep 2016 22:33:58 GMT""},{""version"":""v2"",""created"":""Sat, 10 Feb 2001 05:41:50 GMT""},{""version"":""v3"",""created"":""Fri, 16 Feb 2001 00:32:39 GMT""},{""version"":""v4"",""created"":""Wed, 16 May 2001 06:06:37 GMT""},{""version"":""v5"",""created"":""Sun, 8 Jul 2001 05:21:02 GMT""},{""version"":""v6"",""created"":""Fri, 26 Oct 2001 00:56:37 GMT""},{""version"":""v7"",""created"":""Mon, 25 Feb 2002 05:14:38 GMT""},{""version"":""v8"",""created"":""Wed, 15 May 2002 06:06:25 GMT""},{""version"":""v9"",""created"":""Mon, 17 Aug 2009 05:16:36 GMT""}]","2016-09-30"
+"quant-ph/0102018","Nuno Dias","Nuno Costa Dias, Joao Nuno Prata","Generalized Weyl-Wigner map and Vey quantum mechanics","15 pages, LaTeX","J. Math. Phys. 42 (2001) 5565-5579","10.1063/1.1415086",,"quant-ph",,"  The Weyl-Wigner map yields the entire structure of Moyal quantum mechanics
+directly from the standard operator formulation. The covariant generalization
+of Moyal theory, also known as Vey quantum mechanics, was presented in the
+literature many years ago. However, a derivation of the formalism directly from
+standard operator quantum mechanics, clarifying the relation between the two
+formulations is still missing. In this paper we present a covariant
+generalization of the Weyl order prescription and of the Weyl-Wigner map and
+use them to derive Vey quantum mechanics directly from the standard operator
+formulation. The procedure displays some interesting features: it yields all
+the key ingredients and provides a more straightforward interpretation of the
+Vey theory including a direct implementation of unitary operator
+transformations as phase space coordinate transformations in the Vey idiom.
+These features are illustrated through a simple example.
+","[{""version"":""v1"",""created"":""Sat, 3 Feb 2001 19:42:13 GMT""}]","2015-06-26"
+"quant-ph/0102019","A. P. Balachandran","A.P. Balachandran and S.M. Roy","Continuous Time-Dependent Measurements: Quantum Anti-Zeno Paradox with
+  Applications","16 pages, latex; new material and references added","Int.J.Mod.Phys.A17:4007-4024,2002","10.1142/S0217751X0201056X","SU-4240-731,TIFR/TH/02-06","quant-ph gr-qc hep-th",,"  We derive differential equations for the modified Feynman propagator and for
+the density operator describing time-dependent measurements or histories
+continuous in time. We obtain an exact series solution and discuss its
+applications. Suppose the system is initially in a state with density operator
+$\rho(0)$ and the projection operator $E(t) = U(t) E U^\dagger(t)$ is measured
+continuously from $t = 0$ to $T$, where $E$ is a projector obeying $E\rho(0) E
+= \rho(0)$ and $U(t)$ a unitary operator obeying $U(0) = 1$ and some smoothness
+conditions in $t$. Then the probability of always finding $E(t) = 1$ from $t =
+0$ to $T$ is unity. Generically $E(T) \neq E$ and the watched system is sure to
+change its state, which is the anti-Zeno paradox noted by us recently. Our
+results valid for projectors of arbitrary rank generalize those obtained by
+Anandan and Aharonov for projectors of unit rank.
+","[{""version"":""v1"",""created"":""Sat, 3 Feb 2001 22:41:21 GMT""},{""version"":""v2"",""created"":""Tue, 19 Mar 2002 21:17:18 GMT""}]","2014-11-18"

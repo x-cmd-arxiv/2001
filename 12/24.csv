@@ -1,0 +1,345 @@
+"astro-ph/0112536","Serge Winitzki","Levon Pogosian, Tanmay Vachaspati, Serge Winitzki","Signatures of kinetic and magnetic helicity in the CMBR","3 eps figures","Phys.Rev. D65 (2002) 083502","10.1103/PhysRevD.65.083502",,"astro-ph hep-ph",,"  P and CP violation in cosmology can be manifested as large-scale helical
+velocity flows in the ambient plasma and as primordial helical magnetic fields.
+We show that kinetic helicity at last scattering leads to
+temperature-polarization correlations ($C_l^{TB}$ and $C_l^{EB}$) in the cosmic
+microwave background radiation (CMBR) and calculate the magnitude of the
+effect. Helical primordial magnetic fields, expected from cosmic events such as
+electroweak baryogenesis, can lead to helical velocity flows and hence to
+non-vanishing correlations of the temperature and B-type polarization. However
+we show that the magnitude of the induced helical flow is unobservably small
+because the helical component of a magnetic field is almost force-free. We
+discuss an alternate scheme for extracting the helicity of a stochastically
+homogeneous and isotropic primordial magnetic field using observations of the
+CMBR. The scheme involves constructing Faraday rotation measure maps of the
+CMBR and thus determining the sum of the helical and non-helical components of
+the primordial magnetic field. The power spectrum of B-type polarization
+fluctuations, on the other hand, are sensitive only to the non-helical
+component of the primordial magnetic field. The primordial magnetic helicity
+can then be derived by combining these two sets of observations.
+","[{""version"":""v1"",""created"":""Sun, 23 Dec 2001 18:13:00 GMT""}]","2009-11-07"
+"astro-ph/0112537","Paul Steinhardt","Paul J. Steinhardt and Neil Turok","Is Vacuum Decay Significant in Ekpyrotic and Cyclic Models?","3 pages, 1 figure, minor revisions","Phys.Rev.D66:101302,2002","10.1103/PhysRevD.66.101302",,"astro-ph hep-th",,"  It has recently been argued that bubble nucleation in ekpyrotic and cyclic
+cosmological scenarios can lead to unacceptable inhomogeneities unless certain
+constraints are satisfied. In this paper we show that this is not the case. We
+find that bubble nucleation is completely negligible in realistic models.
+","[{""version"":""v1"",""created"":""Mon, 24 Dec 2001 04:12:20 GMT""},{""version"":""v2"",""created"":""Thu, 10 Oct 2002 13:44:42 GMT""}]","2009-09-15"
+"astro-ph/0112538","Hilmar W. Duerbeck","Ronald A. Downes (STScI, USA), Hilmar W. Duerbeck (VUB, Belgium),
+  Catherine E. Delahodde (IAP Marseille, France)","Luminosities of [O III] and Hydrogen Balmer lines in nova shells years
+  and decades after outburst","54 pages, 16 figures, 4 tables (27 pages); to appear in Journal of
+  Astronomical Data Vol. 7",,,,"astro-ph",,"  The evolution of the luminosity of nova shells in the century following the
+nova outburst is studied for the lines H-alpha, H-beta, and [O III]. About 1200
+flux measurements from 96 objects have been collected from the literature, from
+unpublished observations, from the HST archive, or from new narrow-band filter
+imaging. For most objects, the distance and reddening is known (or newly
+determined), and luminosities were calculated from the observed fluxes. The
+luminosity data were combined in five groups, according to nova light curve
+type (very fast, fast, moderately fast, slow, recurrent); some objects were
+re-assigned to other groups for a better fit of the luminosity data to the
+general trend. For very fast, fast and moderately fast novae, the slope of the
+[O III] decline is very similar, leading to a basic `switchoff' of [O III]
+emission after 11, 23 and 24 years, respectively. For the same speed classes,
+the slope of the Balmer luminosity is quite similar. In contrast to all types
+of fast novae, the decline in Balmer luminosity is more rapid in slow novae.
+However, the slope in [O III] is more gentle; slow novae still show [O III]
+emission after 100 years. Thus shells of slow novae are still hot after one
+century; the same applies for the shells of the very fast nova GK Per and the
+recurrent nova T Pyx, which interact with circumstellar material.In recurrent
+novae, [O III] is usually inconspicuous or absent. In objects with giant
+companions, the Balmer luminosity decreases very slowly after an outburst,
+which may be an effect of line blending of material from the ejecta and the
+giant wind. On the other hand, objects with dwarf companions show a very rapid
+decline in Balmer luminosity.
+","[{""version"":""v1"",""created"":""Mon, 24 Dec 2001 14:41:13 GMT""}]","2007-05-23"
+"cond-mat/0112422","Marcus G. Daniels","Marcus G. Daniels, J. Doyne Farmer, Laszlo Gillemot, Giulia Iori, and
+  Eric Smith","A quantitative model of trading and price formation in financial markets","5 pages, 4 figures",,"10.1103/PhysRevLett.90.108102",,"cond-mat.stat-mech q-fin.TR",,"  We use standard physics techniques to model trading and price formation in a
+market under the assumption that order arrival and cancellations are Poisson
+random processes. This model makes testable predictions for the most basic
+properties of a market, such as the diffusion rate of prices, which is the
+standard measure of financial risk, and the spread and price impact functions,
+which are the main determinants of transaction cost. Guided by dimensional
+analysis, simulation, and mean field theory, we find scaling relations in terms
+of order flow rates. We show that even under completely random order flow the
+need to store supply and demand to facilitate trading induces anomalous
+diffusion and temporal structure in prices.
+","[{""version"":""v1"",""created"":""Sun, 23 Dec 2001 23:57:11 GMT""},{""version"":""v2"",""created"":""Tue, 8 Jan 2002 17:33:31 GMT""},{""version"":""v3"",""created"":""Tue, 8 Jan 2002 23:31:48 GMT""},{""version"":""v4"",""created"":""Wed, 30 Jan 2002 01:14:30 GMT""},{""version"":""v5"",""created"":""Mon, 9 Sep 2002 21:21:09 GMT""},{""version"":""v6"",""created"":""Tue, 10 Dec 2002 22:12:44 GMT""}]","2013-05-29"
+"cond-mat/0112437","Chenggang Zhou","Chenggang Zhou and R. N. Bhatt","One Dimensional Chain with Long Range Hopping",,"Phys. Rev. B 68, 045101 (2003).","10.1103/PhysRevB.68.045101",,"cond-mat.dis-nn",,"  The one-dimensional (1D) tight binding model with random nearest neighbor
+hopping is known to have a singularity of the density of states and of the
+localization length at the band center. We study numerically the effects of
+random long range (power-law) hopping with an ensemble averaged magnitude
+$\expectation{|t_{ij}|} \propto |i-j|^{-\sigma}$ in the 1D chain, while
+maintaining the particle-hole symmetry present in the nearest neighbor model.
+We find, in agreement with results of position space renormalization group
+techniques applied to the random XY spin chain with power-law interactions,
+that there is a change of behavior when the power-law exponent $\sigma$ becomes
+smaller than 2.
+","[{""version"":""v1"",""created"":""Sun, 23 Dec 2001 21:27:19 GMT""},{""version"":""v2"",""created"":""Fri, 28 Dec 2001 16:06:00 GMT""}]","2007-05-23"
+"cond-mat/0112439","S. Kalyana Rama","N. D. Hari Dass, S. Kalyana Rama and B. Sathiapalan","On the Emergence of the Microcanonical Description from a Pure State","58 pages, 2 figures. A reference added","Int.J.Mod.Phys. A18 (2003) 2947-2994","10.1142/S0217751X03015143","IMSc/2001/12/55","cond-mat.stat-mech hep-th nlin.CD quant-ph",,"  We study, in general terms, the process by which a pure state can
+``self-thermalize'' and {\em appear} to be described by a microcanonical
+density matrix. This requires a quantum mechanical version of the Gibbsian
+coarse graining that conceptually underlies classical statistical mechanics. We
+introduce some extra degrees of freedom that are necessary for this.
+Interaction between these degrees and the system can be understood as a process
+of resonant absorption and emission of ``soft quanta''. This intuitive picture
+allows one to state a criterion for when self thermalization occurs. This
+paradigm also provides a method for calculating the thermalization rate using
+the usual formalism of atomic physics for calculating decay rates. We contrast
+our prescription for coarse graining, which is somewhat dynamical, with the
+earlier approaches that are intrinsically kinematical. An important motivation
+for this study is the black hole information paradox.
+","[{""version"":""v1"",""created"":""Mon, 24 Dec 2001 06:26:38 GMT""},{""version"":""v2"",""created"":""Wed, 3 Apr 2002 12:05:03 GMT""}]","2009-11-07"
+"gr-qc/0112063","Wu Ning","Ning Wu, Germano Resconi, Zhan Xu, Zhi-Peng Zheng, Da-Hua Zhang,
+  Tu-Nan Ruan","Determination of Cosmological Constant from Gauge Theory of Gravity","6 pages, no fugures, Latex File",,,,"gr-qc",,"  Combining general relativity and gravitational gauge theory, the cosmological
+constant is determined theoretically. The cosmological constant is related to
+the average vacuum energy of gravitational gauge field. Because the vacuum
+energy of gravitational gauge field is negative, the cosmological constant is
+positive, which generates repulsive force on stars to make the expansion rate
+of the Universe accelerated. A rough estimation of it gives out its magnitude
+of the order of $10^{-52} m^{-2}$, which is well constant with experimental
+results.
+","[{""version"":""v1"",""created"":""Mon, 24 Dec 2001 03:29:59 GMT""}]","2007-05-23"
+"gr-qc/0112064","Sanjay M. Wagh","Sanjay M. Wagh and Keshlan S. Govinder","Naked Singularities in Spherically Symmetric, Self-Similar Spacetimes","RevTex4b3, 3 Pages, No Figures",,,,"gr-qc astro-ph",,"  We show that all known naked singularities in spherically symmetric
+self-similar spacetimes arise as a result of singular initial matter
+distribution. This is a result of the peculiarity of the coordinate
+transformation that takes these spacetimes into a separable form. Therefore,
+these examples of naked singularities are of no apparent consequence to
+astrophysical observations or theories.
+","[{""version"":""v1"",""created"":""Mon, 24 Dec 2001 05:15:41 GMT""}]","2007-05-23"
+"gr-qc/0112065","Koryukin","Valery Koryukin (Mari State Technical University)","The dark matter and the condensed description by the gravitational
+  fields in the field theory","plain tex, 5 pages",,,,"gr-qc",,"  In this work the approach for a description of the physical systems about
+whiches it is not possible to get basicly the total information is suggested.
+  As a result the differential equations, the solutions of which characterize
+the physical system, must bieng obtained from the demand of the minimality of
+the generalized variance.
+  As the understanding of the particles trajectory absents in the quantum
+theory we shall consider that the Riemannian space-time is the effective one,
+postulating the metric tensor on the base of the reduced density matrix of the
+gravitational fields.
+","[{""version"":""v1"",""created"":""Mon, 24 Dec 2001 09:49:58 GMT""}]","2016-08-31"
+"hep-lat/0112049","Paolo Butera","P. Butera and M. Comi (Phys. Dept. of Milano Bicocca Univ.)","Critical universality and hyperscaling revisited for Ising models of
+  general spin using extended high-temperature series","35 pages, latex, 21 figures, to appear in Phys. Rev. B","Phys.Rev. B65 (2002) 144431","10.1103/PhysRevB.65.144431","BICOCCA/FT-01-26 (15 October 2001)","hep-lat cond-mat",,"  We have extended through beta^{23} the high-temperature expansion of the
+second field derivative of the susceptibility for Ising models of general spin,
+with nearest-neighbor interactions, on the simple cubic and the body-centered
+cubic lattices. Moreover the expansions for the nearest-neighbor correlation
+function, the susceptibility and the second correlation moment have been
+extended up to beta^{25}. Taking advantage of these new data, we can improve
+the accuracy of direct estimates of critical exponents and of hyper-universal
+combinations of critical amplitudes such as the renormalized four-point
+coupling g_r or the quantity usually denoted by R^{+}_{xi}. We have used a
+variety of series extrapolation procedures and, in some of the analyses, we
+have assumed that the leading correction-to-scaling exponent theta is universal
+and roughly known. We have also verified, to high precision, the validity of
+the hyperscaling relation and of the universality property both with regard to
+the lattice structure and to the value of the spin.
+","[{""version"":""v1"",""created"":""Sun, 23 Dec 2001 18:42:14 GMT""}]","2009-11-07"
+"hep-ph/0112318","Robert Bluhm","R. Bluhm","Electromagnetic Tests of Lorentz and CPT Symmetry","10 pages, talk presented at the Workshop on Electromagnetic Probes of
+  Fundamental Physics, Erice, Sicily, October, 2001",,,,"hep-ph",,"  A review is presented of some recent Lorentz and CPT tests in atomic and
+particle systems where the predominant interactions are described by quantum
+electrodynamics. A theoretical framework extending QED in the context of the
+standard model is used to analyze these systems. Experimental signatures of
+possible Lorentz and CPT violation are investigated, and bounds are discussed.
+","[{""version"":""v1"",""created"":""Sun, 23 Dec 2001 18:28:33 GMT""}]","2007-05-23"
+"hep-ph/0112319","Lian-You Shan","Lian-You Shan and Xinmin Zhang","Solar Neutrino Zenith Angle Distribution and Uncertainty in Earth Matter
+  Density","Latex, 11 pages, 6 figures References added. Final version to appear
+  in Phys Rev D",,"10.1103/PhysRevD.65.113011",,"hep-ph astro-ph hep-ex",,"  We estimate in this paper the errors in the zenith angle distribution for the
+charged current events of the solar neutrinos caused by the uncertainty of the
+earth electron density. In the model of PREM with a 5% uncertainty in the earth
+electron density we numerically calculate the corrections to the correlation
+between $ [N]_5 /[N]_2 $ and $ [N]_2 /[N]_3 $, and find the errors notable.
+","[{""version"":""v1"",""created"":""Mon, 24 Dec 2001 08:23:02 GMT""},{""version"":""v2"",""created"":""Wed, 8 May 2002 04:10:03 GMT""}]","2009-11-07"
+"hep-ph/0112320","Xiao-Gang He","N.G. Deshpande (Oregon) and Xiao-Gang He (NTU)","Triple Neutral Gauge Boson Couplings in Noncommutative Standard Model","8 pages, Latex, no figure","Phys.Lett. B533 (2002) 116-120","10.1016/S0370-2693(02)01599-X",,"hep-ph",,"  It has been shown recently that the triple neutral gauge boson couplings are
+not uniquely determined in noncommutative extension of the Standard Model
+(NCSM). Depending on specific schemes used, the couplings are different and may
+even be zero. To distinguish different realizations of the NCSM, additional
+information either from theoretical or experimental considerations is needed.
+In this paper we show that these couplings can be uniquely determined from
+considerations of unification of electroweak and strong interactions. Using
+SU(5) as the underlying theory and integrating out the heavy degrees of
+freedom, we obtain unique non-zero new triple $\gamma\gamma\gamma$, $\gamma
+\gamma Z$, $\gamma ZZ$, $ZZZ$, $\gamma GG$, $ZGG$ and $GGG$ couplings at the
+leading order in the NCSM. We also briefly discuss experimental implications.
+","[{""version"":""v1"",""created"":""Mon, 24 Dec 2001 03:38:58 GMT""}]","2009-11-07"
+"hep-ph/0112321","K. Sridhar","B.C. Allanach, S. Lola and K. Sridhar","Investigating the Supersymmetric Explanation of Anomalous CDF lepton(s)
+  photon(s) Missing-E_T Events","23 pages, Latex file + 10 figures and 4 Tables (included) Includes
+  JHEP3.cls and axodraw.sty","JHEP 0204:002,2002","10.1088/1126-6708/2002/04/002","CERN-TH/2001-360","hep-ph",,"  The recent excess over the Standard Model prediction in the \mu \gamma
+missing-E_T channel reported by CDF can be well-explained by resonant smuon
+production with a single dominant R-parity violating coupling \lambda'_{211},
+in the context of models where the gravitino is the lightest supersymmetric
+particle. The slepton decays to the lightest neutralino and a muon followed by
+neutralino decaying to a gravitino and photon. The kinematical distributions
+are fitted well by our hypothesis and we use them to constrain the available
+parameter space. The model also provides an explanation for the ee\gamma\gamma
+missing-E_T event observed in Run I of the Tevatron by the CDF experiment. Our
+model predicts an excess of between 5 and 35 events in a \gamma missing-E_T
+channel at Run I. We provide predictions for signatures expected by the model
+at Run II.
+","[{""version"":""v1"",""created"":""Mon, 24 Dec 2001 10:11:10 GMT""}]","2010-11-15"
+"hep-th/0112220","Allen Stern","A. Pinzul and A. Stern","A New Class of Two-Dimensional Noncommutative Spaces","19 pages","JHEP 0203 (2002) 039","10.1088/1126-6708/2002/03/039",,"hep-th math.QA",,"  We find an infinite number of noncommutative geometries which posses a
+differential structure. They generalize the two dimensional noncommutative
+plane, and have infinite dimensional representations. Upon applying generalized
+coherent states we are able to take the continuum limit, where we recover the
+punctured plane with non constant Poisson structures.
+","[{""version"":""v1"",""created"":""Sun, 23 Dec 2001 19:38:11 GMT""},{""version"":""v2"",""created"":""Sat, 5 Jan 2002 22:50:19 GMT""}]","2009-11-07"
+"hep-th/0112224","Masato Ito","Masato Ito (Nagoya Univ.)","Newton's law in braneworlds with an infinite extra dimension",,"Phys.Lett. B528 (2002) 269-273","10.1016/S0370-2693(02)01228-5","DPNU-01-33","hep-th",,"  We study the behavior of the four$-$dimensional Newton's law in warped
+braneworlds. The setup considered here is a $(3+n)$-brane embedded in $(5+n)$
+dimensions, where $n$ extra dimensions are compactified and a dimension is
+infinite. We show that the wave function of gravity is described in terms of
+the Bessel functions of $(2+n/2)$-order and that estimate the correction to
+Newton's law. In particular, the Newton's law for $n=1$ can be exactly
+obtained.
+","[{""version"":""v1"",""created"":""Sun, 23 Dec 2001 23:07:55 GMT""},{""version"":""v2"",""created"":""Sun, 20 Jan 2002 23:50:59 GMT""},{""version"":""v3"",""created"":""Mon, 1 Apr 2002 05:10:40 GMT""}]","2009-11-07"
+"hep-th/0112225","Paolo Butera","P. Butera and M. Comi (Phys. Dept. of Milano Bicocca Univ.)","A remark on the numerical validation of triviality for scalar field
+  theories using high-temperature expansions","8 pages, latex, 2 figures",,"10.1142/9789812811240_0037","BICOCCA/FT (November 2000)","hep-th cond-mat.stat-mech hep-lat",,"  We suggest a simple modification of the usual procedures of analysis for the
+high-temperature (strong-coupling or hopping-parameter) expansions of the
+renormalized four-point coupling constant in the fourdimensional phi^4 lattice
+scalar field theory. As a result we can more convincingly validate numerically
+the triviality of the continuum limit taken from the high temperature phase.
+","[{""version"":""v1"",""created"":""Sun, 23 Dec 2001 19:10:53 GMT""}]","2016-11-23"
+"hep-th/0112227","Ishwaree Prasad Neupane","Y. M. Cho and Ishwaree P. Neupane (Seoul Natl. U. & ICTP, Trieste)","Warped brane-world compactification with Gauss-Bonnet term","23 pages, typos in Secs. 5 & 6 corrected, expanded/published version
+  (IJMPA)","Int.J.Mod.Phys.A18:2703-2727,2003","10.1142/S0217751X03015106",,"hep-th",,"  In the Randall-Sundrum (RS) brane-world model a singular delta-function
+source is matched by the second derivative of the warp factor. So one should
+take possible curvature corrections in the effective action of the RS models in
+a Gauss-Bonnet (GB) form. We present a linearized treatment of gravity in the
+RS brane-world with the Gauss-Bonnet modification to Einstein gravity. We give
+explicit expressions for the Neumann propagator in arbitrary D dimensions and
+show that a bulk GB term gives, along with a tower of Kaluza-Klein modes in the
+bulk, a massless graviton on the brane, as in the standard RS model. Moreover,
+a non-trivial GB coupling can allow a new branch of solutions with finite
+Planck scale and no naked bulk singularity, which might be useful to avoid some
+of the previously known ``no--go theorems'' for RS brane-world
+compactifications.
+","[{""version"":""v1"",""created"":""Mon, 24 Dec 2001 13:52:12 GMT""},{""version"":""v2"",""created"":""Mon, 31 Dec 2001 13:21:05 GMT""},{""version"":""v3"",""created"":""Thu, 21 Feb 2002 16:11:43 GMT""},{""version"":""v4"",""created"":""Mon, 15 Jul 2002 09:45:05 GMT""},{""version"":""v5"",""created"":""Mon, 10 Mar 2003 06:49:29 GMT""},{""version"":""v6"",""created"":""Fri, 25 Jul 2003 14:40:18 GMT""}]","2014-11-18"
+"math/0112261","Ilse Fischer","Ilse Fischer","A bijective proof of the hook-length formula for shifted standard
+  tableaux","47 pages",,,,"math.CO",,"  We present a bijective proof of the hook-length formula for shifted standard
+tableaux of a fixed shape based on a modified jeu de taquin and the ideas of
+the bijective proof of the hook-length formula for ordinary standard tableaux
+by Novelli, Pak and Stoyanovskii. In their proof Novelli, Pak and Stoyanovskii
+define a bijection between arbitrary fillings of the Ferrers diagram with the
+integers $1,2,...,n$ and pairs of standard tableaux and hook tabloids. In our
+shifted version of their algorithm the map from the set of arbitrary fillings
+of the shifted Ferrers diagram onto the set of shifted standard tableaux is
+analog to the construction of Novelli, Pak and Stoyanovskii, however, unlike to
+their algorithm, we are forced to use the 'rowwise' total order of the cells in
+the shifted Ferrers diagram rather than the 'columnwise' total order as the
+underlying order in the algorithm. Unfortunately the construction of the
+shifted hook tabloid is more complicated in the shifted case. As a side-result
+we obtain a simple random algorithm for generating shifted standard tableaux of
+a given shape, which produces every such tableau equally likely.
+","[{""version"":""v1"",""created"":""Sun, 23 Dec 2001 18:34:31 GMT""}]","2007-05-23"
+"math/0112262","Boaz Tsaban","Tomek Bartoszynski, Saharon Shelah, and Boaz Tsaban","Additivity properties of topological diagonalizations","All pointers to the current e-print for a complete version should be
+  redirected to math.GN/0604451","Journal of Symbolic Logic 68 (2003), 1254--1260","10.2178/jsl/1067620185",,"math.LO math.CO math.GN","http://arxiv.org/licenses/nonexclusive-distrib/1.0/","  We answer a question of Just, Miller, Scheepers and Szeptycki whether certain
+diagonalization properties for sequences of open covers are provably closed
+under taking finite or countable unions.
+  This is a very concise paper. For a self-contained, complete, and extended
+treatment of the topic see math.GN/0604451
+","[{""version"":""v1"",""created"":""Sun, 23 Dec 2001 18:49:24 GMT""},{""version"":""v2"",""created"":""Fri, 7 Feb 2003 10:01:12 GMT""},{""version"":""v3"",""created"":""Sat, 12 Apr 2003 17:27:21 GMT""},{""version"":""v4"",""created"":""Thu, 17 Jul 2003 01:28:03 GMT""},{""version"":""v5"",""created"":""Tue, 9 Nov 2004 17:32:55 GMT""},{""version"":""v6"",""created"":""Thu, 20 Apr 2006 14:36:27 GMT""},{""version"":""v7"",""created"":""Sun, 31 Oct 2010 18:56:01 GMT""}]","2010-11-02"
+"math/0112263","Ilse Fischer","Ilse Fischer","A symmetry theorem on a modified jeu de taquin","8 pages",,,,"math.CO",,"  For their bijective proof of the hook-length formula for the number of
+standard tableaux of a fixed shape Novelli, Pak and Stoyanovskii define a
+modified jeu de taquin which transforms an arbitrary filling of the Ferrers
+diagram with $1,2,...,n$ (tabloid) into a standard tableau. Their definition
+relies on a total order of the cells in the Ferrers diagram induced by a
+special standard tableau, however, this definition also makes sense for the
+total order induced by any other standard tableau. Given two standard tableaux
+$P,Q$ of the same shape we show that the number of tabloids which result in $P$
+if we perform modified jeu de taquin with respect to the total order induced by
+$Q$ is equal to the number of tabloids which result in $Q$ if we perform
+modified jeu de taquin with respect to $P$. This symmetry theorem extends to
+skew shapes and shifted skew shapes.
+","[{""version"":""v1"",""created"":""Sun, 23 Dec 2001 19:01:50 GMT""}]","2007-05-23"
+"math/0112264","Saharon Shelah's Office","R\""udiger G\""obel and Saharon Shelah","Characterizing automorphism groups of ordered abelian groups",,,,,"math.LO math.GR",,"  We characterize the groups isomorphic to full automorphism groups of ordered
+abelian groups. The result will follow from classical theorems on ordered
+groups adding an argument from proofs used to realize rings as endomorphism
+rings of abelian groups.
+","[{""version"":""v1"",""created"":""Sun, 23 Dec 2001 20:01:02 GMT""}]","2007-05-23"
+"math/0112265","Saharon Shelah's Office","Menachem Kojman and Saharon Shelah","Van der Waerden spaces and Hindman spaces are not the same",,,,"Shelah [KjSh:781]","math.GN math.LO",,"  A Hausdorff topological space X is van der Waerden if for every sequence
+(x_n)_n in X there is a converging subsequence (x_n)_{n in A} where subset A of
+omega contains arithmetic progressions of all finite lengths. A Hausdorff
+topological space X is Hindman if for every sequence (x_n)_n in X there is an
+IP-converging subsequence (x_n)_{n in FS(B)} for some infinite subset B of
+omega. We show that the continuum hypothesis implies the existence of a van der
+Waerden space which is not Hindman.
+","[{""version"":""v1"",""created"":""Sun, 23 Dec 2001 20:09:33 GMT""}]","2007-05-23"
+"math/0112266","Louis H. Kauffman","Louis H. Kauffman","Reformulating the Map Color Theorem","40 pages, 28 figures, LaTeX graphics",,,,"math.CO",,"  This paper discusses reformulations of the problem of coloring plane maps
+with four colors. The context is the edge-coloring with three colors of cubic
+graphs such that three distinct colors occur at each vertex. We include
+discussion of the Eliahou-Kryuchkov conjecture, the Penrose formula, the vector
+cross product formulation and the reformulations in terms of formations and
+factorizations due to G. Spencer-Brown. The latter includes a proof of the
+Spencer-Brown parity lemma and discussion of the parity-pass algorithm.
+","[{""version"":""v1"",""created"":""Sun, 23 Dec 2001 23:40:44 GMT""},{""version"":""v2"",""created"":""Wed, 2 Jul 2003 02:17:01 GMT""}]","2007-05-23"
+"math/0112267","Kota Yoshioka","Kota Yoshioka","A note on Fourier-Mukai transform","19 pages, some results added",,,,"math.AG",,"  In this note, we consider the problem on the preservation of stability under
+the Fourier-Mukai transforms. We first show that the Fourier-Mukai transform on
+an abelian surface or a K3 surface does not always preserve the stability, even
+for a $\mu$-stable vector bundle. We next provide some positive results on this
+problem. Finally we discuss the birational map of moduli spaces on an abelian
+surface.
+","[{""version"":""v1"",""created"":""Mon, 24 Dec 2001 05:59:50 GMT""},{""version"":""v2"",""created"":""Thu, 27 Dec 2001 04:48:57 GMT""},{""version"":""v3"",""created"":""Fri, 20 Sep 2002 06:49:16 GMT""}]","2007-05-23"
+"math/0112268","Konstantin Igudesman","Konstantin Igudesman","Statistically self-similar fractal sets","11 pages, Latex",,,,"math.DS math.PR",,"  In the present paper we define statistically self-similar sets, and, using a
+modification of method described K.J.Falconer find a Hausdorff dimension of a
+statistically self-similar set.
+","[{""version"":""v1"",""created"":""Mon, 24 Dec 2001 08:47:24 GMT""}]","2007-05-23"
+"math/0112269","Inna Scherbak","I. Scherbak and A. Varchenko","Critical points of functions, sl_2 representations, and Fuchsian
+  differential equations with only univalued solutions","The final version, to appear in MMJ",,,"TAU-12/01","math.QA math.CA",,"  Let a second order Fuchsian differential equation with only univalued
+solutions have finite singular points at z_1, ..., z_n with exponents
+(a_1,b_1), ..., (a_n,b_n). Let the exponents at infinity be (A,B). Then for
+fixed generic z_1,...,z_n, the number of such Fuchsian equations is equal to
+the multiplicity of the irreducible sl_2 representation of dimension |A-B| in
+the tensor product of irreducible sl_2 representations of dimensions |a_1-b_1|,
+>..., |a_n-b_n|.
+  To show this we count the number of critical points of a suitable function
+which plays the crucial role in constructions of the hypergeometric solutions
+of the sl_2 KZ equation and of the Bethe vectors in the sl_2 Gaudin model. As a
+byproduct of this study we conclude that the Bethe vectors form a basis in the
+space of states for the sl_2 inhomogeneous Gaudin model.
+","[{""version"":""v1"",""created"":""Mon, 24 Dec 2001 11:59:18 GMT""},{""version"":""v2"",""created"":""Wed, 26 Dec 2001 13:08:12 GMT""},{""version"":""v3"",""created"":""Thu, 2 May 2002 09:30:37 GMT""},{""version"":""v4"",""created"":""Mon, 27 Jan 2003 09:51:18 GMT""}]","2007-05-23"
+"nlin/0112040","Luis Morales Molina","Luis Morales Molina, Owen Fernandez Piedra","DNA Torsional Solitons in Presence of localized Inhomogeneities","RevTex, 13 pages, 3 figures, final version","Physica Scripta Vol.66,385-390,2002","10.1238/Physica.Regular.066a00385",,"nlin.PS",,"  In the present paper we investigate the influence of inhomogeneities in the
+dynamics and stability of DNA open states, modeled as propagating solitons in
+the spirit of a Generalized Yakushevish Model. It is a direct consecuence of
+our model that there exists a critical distance between the soliton's center of
+mass and the inhomogeneity at which the interaction between them can change the
+stability of the open state.Furtherly from this results was derived a
+renormalized potential funtion.
+","[{""version"":""v1"",""created"":""Sun, 23 Dec 2001 16:59:01 GMT""},{""version"":""v2"",""created"":""Wed, 4 Dec 2002 20:40:21 GMT""},{""version"":""v3"",""created"":""Wed, 4 Dec 2002 21:47:27 GMT""},{""version"":""v4"",""created"":""Thu, 19 Dec 2002 16:08:32 GMT""}]","2009-11-07"
+"nucl-th/0112072","Pengfei Zhuang","Pengfei Zhuang","Multiplicity Moments and Hard Processes in Relativistic Heavy Ion
+  Collisions","6 pages, 5 figures","Phys.Rev. C66 (2002) 064901","10.1103/PhysRevC.66.064901",,"nucl-th",,"  The normalized multiplicity moments and their relation with soft and hard
+processes in relativistic heavy ion collisions are analyzed in a general
+two-component model. It is found that, the strong fluctuations in binary
+collision number N_c in minimum-bias events can enhance the hard component,
+especially for the higher order moments. This enhancement can not be
+effectively described by modifying the participant number in the one-component
+model.
+","[{""version"":""v1"",""created"":""Mon, 24 Dec 2001 01:52:38 GMT""}]","2009-11-07"
+"quant-ph/0112152","Stefan Heinrich","Stefan Heinrich","From Monte Carlo to Quantum Computation","Paper submitted to the Proceedings of the 3rd IMACS Seminar on Monte
+  Carlo Methods MCM2001, Salzburg. 15 pages",,,,"quant-ph",,"  Quantum computing was so far mainly concerned with discrete problems.
+  Recently, E. Novak and the author studied quantum algorithms for high
+dimensional integration and dealt with the question, which advantages quantum
+computing can bring over classical deterministic or randomized methods for this
+type of problem.
+  In this paper we give a short introduction to the basic ideas of quantum
+computing and survey recent results on high dimensional integration. We discuss
+connections to the Monte Carlo methology and compare the optimal error rates of
+quantum algorithms to those of classical deterministic and randomized
+algorithms.
+","[{""version"":""v1"",""created"":""Sun, 23 Dec 2001 16:28:16 GMT""}]","2016-09-08"
+"quant-ph/0112153","Stefan Heinrich","Stefan Heinrich","Quantum Integration in Sobolev Classes","Paper submitted to the Journal of Complexity. 28 pages",,,,"quant-ph",,"  We study high dimensional integration in the quantum model of computation. We
+develop quantum algorithms for integration of functions from Sobolev classes
+$W^r_p([0,1]^d)$ and analyze their convergence rates. We also prove lower
+bounds which show that the proposed algorithms are, in many cases, optimal
+within the setting of quantum computing. This extends recent results of Novak
+on integration of functions from H\""older classes.
+","[{""version"":""v1"",""created"":""Sun, 23 Dec 2001 16:57:33 GMT""}]","2007-05-23"
+"quant-ph/0112154","Masanao Ozawa","Masanao Ozawa (Tohoku University)","Conservation laws, uncertainty relations, and quantum limits of
+  measurements","4 pages, RevTex, to appear in PRL","Phys. Rev. Lett. 88, 050402(1--4) (2002).","10.1103/PhysRevLett.88.050402",,"quant-ph",,"  The uncertainty relation between the noise operator and the conserved
+quantity leads to a bound for the accuracy of general measurements. The bound
+extends the assertion by Wigner, Araki, and Yanase that conservation laws limit
+the accuracy of ``repeatable'', or ``nondisturbing'', measurements to general
+measurements, and improves the one previously obtained by Yanase for spin
+measurements. The bound also sets an obstacle to making a small quantum
+computer.
+","[{""version"":""v1"",""created"":""Mon, 24 Dec 2001 03:35:03 GMT""}]","2009-11-07"
+"quant-ph/0112155","Libin Fu","Li-Bin Fu, Jing-Ling Chen, Xian-Geng Zhao, and Shi-Gang Chen","Understanding Quantum Entanglement of Bipartite System Based on Bell
+  Inequality","5 pages",,,,"quant-ph",,"  We present an alternative definition of quantum entanglement for bipartite
+system based on Bell inequality and operators' noncommutativity. A state is
+said to be entangled, if the maximum of CHSH expectation value $F_{\max}$ is
+obtain by noncommutative measures on each particle of the bipartite system;
+otherwise, the state is a disentangled state. A uniform measure quantifying the
+degree of entanglement for any state of the bipartite system is also proposed.
+","[{""version"":""v1"",""created"":""Mon, 24 Dec 2001 07:38:39 GMT""}]","2007-05-23"

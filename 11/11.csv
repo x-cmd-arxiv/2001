@@ -1,0 +1,261 @@
+"astro-ph/0111208","Oystein Elgaroy","O. Elgaroy (1), M. Gramann (2), O. Lahav (1) ((1) IoA, Cambridge, UK,
+  (2) Tartu Observatory, Estonia)","Features in the primordial power spectrum: constraints from the CMB and
+  the limitation of the 2dF and SDSS redshift surveys to detect them","7 pages, 6 figures. Revised version, accepted for publication in
+  MNRAS. Some typos have been corrected, Fig.2 and Fig.6 have been modified,
+  some comments about normalization added to the conclusions section","Mon.Not.Roy.Astron.Soc. 333 (2002) 93","10.1046/j.1365-8711.2002.05382.x",,"astro-ph",,"  We allow a more general (step-function) form of the primordial power spectrum
+than the usual featureless power-law Harrison--Zeldovich (with spectral index
+n=1) power spectrum, and fit it to the latest Cosmic Microwave Background data
+sets. Although the best-fitting initial power spectrum can differ significantly
+from the power-law shape, and contains a bump at scales k ~ 0.003 h/Mpc, we
+find Omega_m to be approximately 0.24, consistent with previous analyses that
+assume power-law initial fluctuations. We also explore the feasibility of the
+2dF and SDSS galaxy redshifts surveys to observe these features, and we find
+that even if features exist in the primoridal power spectrum, they are washed
+out by the window functions of the redshift surveys on scales k< 0.03 h/Mpc.
+","[{""version"":""v1"",""created"":""Sat, 10 Nov 2001 18:06:12 GMT""},{""version"":""v2"",""created"":""Fri, 1 Feb 2002 16:44:08 GMT""}]","2009-11-07"
+"astro-ph/0111209","Jian-Min Wang","Jian-Min Wang (IHEP, Beijing), Sui-Jian Xue (BAO, Beijing) and
+  Jian-Cheng Wang (Yunnan, China)","The Mass Distribution of Black Holes in BL Lacertae Objects","4 pages, 1 figure in emulateapj.sty. revised to ApJ Letters,
+  Magorrian relation in BL Lac is discussed",,,,"astro-ph",,"  In this {\it Letter}, we make an attempt to estimate the masses of black
+holes and their distributions in BL Lac objects. We find there is a bimodal
+population of black hole masses in BL Lacs: the first has a lower-mass peak
+centred at $\sim 7.0 \times 10^6\sunm$ composed of high frequency-peaked BL
+Lacs (HBLs) and the second is a higher-mass ($>10^9\sunm$) population composed
+of low frequency-peaked BL Lacs (LBLs). The low mass family of black holes in
+HBLs does not satisfy the Magorrian et al. relation whereas the high mass
+family in LBLs does this relation and is in agreement with Laor's limit. The
+origination of the bimodal distribution of black hole mass remains open.
+","[{""version"":""v1"",""created"":""Sun, 11 Nov 2001 03:50:32 GMT""},{""version"":""v2"",""created"":""Fri, 28 Dec 2001 00:59:29 GMT""}]","2007-05-23"
+"astro-ph/0111210","Soker Noam","Noam Soker (U. of Virginia and U. of Haifa), Saul Rappaport, John
+  Fregeau (MIT)","Collisions of Free Floating Planets with Evolved Stars in Globular
+  Clusters","10 pages, Accepted by ApJ Letters",,"10.1086/338501",,"astro-ph",,"  We estimate the rate of collisions between stars and free-floating planets
+(FFPs) in globular clusters, in particular the collision of FFPs with red giant
+branch (RGB) stars. Recent dynamical simulations imply that the density of such
+objects could exceed million per cubic parsec near the cores of rich globular
+clusters. We show that in these clusters 5-10 per cents of all RGB stars near
+the core would suffer a collision with a FFP, and that such a collision can
+spin up the RGB star's envelope by an order of magnitude. In turn, the higher
+rotation rates may lead to enhanced mass-loss rates on the RGB, which could
+result in bluer horizontal branch (HB) stars. Hence, it is plausible that the
+presence of a large population of FFPs in a globular cluster can influence the
+distribution of stars on the HB of that cluster to a detectable degree.
+","[{""version"":""v1"",""created"":""Sun, 11 Nov 2001 13:03:12 GMT""}]","2009-11-07"
+"astro-ph/0111211","James G. Bartlett","J.G. Bartlett (APC - Universite Paris 7)","Searching and studying clusters with the SZ effect","Invited review talk at ""Tracing cosmic evolution with galaxy
+  clusters"" (Sesto Pusteria 3-6 July 2001), ASP Conference Series in press",,,,"astro-ph",,"  I discuss galaxy cluster surveys based on the Sunyaev--Zel'dovich effect and
+their relevance for cosmological studies. The unique aspects of cluster
+selection by this method are emphasized and certain issues of surveying are
+addressed. Finally, I briefly present prospects for upcoming surveys.
+","[{""version"":""v1"",""created"":""Sun, 11 Nov 2001 15:49:58 GMT""}]","2007-05-23"
+"cond-mat/0111197","Maricarmen Asensio","M.C. Asensio, J. Avila, L. Roca, A. Tejeda, G.D. Gu, M. Lindroos, R.S.
+  Markiewicz, A. Bansil","How different Fermi surface maps emerge in photoemission from Bi2212","submitted to PRL",,,,"cond-mat.supr-con cond-mat.str-el",,"  We report angle-resolved photoemission spectra (ARPES) from the Fermi energy
+($E_F$) over a large area of the ($k_x,k_y$) plane using 21.2 eV and 32 eV
+photons in two distinct polarizations from an optimally doped single crystal of
+Bi$_2$Sr$_2$CaCu$_2$O$_{8+\delta}$ (Bi2212), together with extensive
+first-principles simulations of the ARPES intensities. The results display a
+wide-ranging level of accord between theory and experiment and clarify how
+myriad Fermi surface (FS) maps emerge in ARPES under various experimental
+conditions. The energy and polarization dependences of the ARPES matrix element
+help disentangle primary contributions to the spectrum due to the pristine
+lattice from those arising from modulations of the underlying tetragonal
+symmetry and provide a route for separating closely placed FS sheets in low
+dimensional materials.
+","[{""version"":""v1"",""created"":""Sat, 10 Nov 2001 17:44:09 GMT""}]","2007-05-23"
+"cond-mat/0111199","Eiji Tsuchida","Eiji Tsuchida","An efficient algorithm for electronic-structure calculations","15 pages, 1 figure; J.Phys.Soc.Jpn. vol.71 (2002), to appear",,"10.1143/JPSJ.71.197",,"cond-mat.mtrl-sci",,"  We show how to adapt the quasi-Newton method to the electronic-structure
+calculations using systematic basis sets. Our implementation requires less
+iterations than the conjugate gradient method, while the computational cost per
+iteration is much lower. The memory usage is also quite modest, thanks to the
+efficient representation of the approximate Hessian.
+","[{""version"":""v1"",""created"":""Sun, 11 Nov 2001 09:03:40 GMT""}]","2009-11-07"
+"cond-mat/0111200","Kirill Gokhberg","K. Gokhberg, A. Glozman, E. Lifshitz, T. Maniv, M.C. Schlamp, P.
+  Alivisatos","Electron (hole) paramagnetic resonance of spherical CdSe nanocrystals","4 pages, 2 figures",,"10.1063/1.1491407",,"cond-mat.mes-hall",,"  A new mechanism of electron paramagnetic resonance in spherical zinc-blende
+semiconductor nanocrystals, based on the extended orbital motion of electrons
+in the entire nanocrystal, is presented. Quantum confinement plays a crucial
+role in making the resonance signal observable. The mechanism remains operative
+in nanocrystals with uniaxially distorted shape. A theoretical model based on
+the proposed mechanism is in good quantitative agreement with unusual ODMR
+spectra observed in nearly spherical CdSe nanocrystals.
+","[{""version"":""v1"",""created"":""Sun, 11 Nov 2001 10:45:02 GMT""}]","2009-11-07"
+"hep-ex/0111038","Edward J. Brash","E.J. Brash, A. Kozlov, Sh. Li, G.M. Huber","New empirical fits to the proton electromagnetic form factors",,"Phys.Rev. C65 (2002) 051001","10.1103/PhysRevC.65.051001",,"hep-ex",,"  Recent measurements of the ratio of the elastic electromagnetic form factors
+of the proton, G_Ep/G_Mp, using the polarization transfer technique at
+Jefferson Lab show that this ratio decreases dramatically with increasing Q^2,
+in contradiction to previous measurements using the Rosenbluth separation
+technique. Using this new high quality data as a constraint, we have reanalyzed
+most of the world e-p elastic cross section data. In this paper, we present a
+new empirical fit to the reanalyzed data for the proton elastic magnetic form
+factor in the region 0 < Q^2 < 30 GeV^2. As well, we present an empirical fit
+to the proton electromagnetic form factor ratio, G_Ep/G_Mp, which is valid in
+the region 0.1 < Q^2 < 6 GeV^2.
+","[{""version"":""v1"",""created"":""Sat, 10 Nov 2001 23:47:31 GMT""},{""version"":""v2"",""created"":""Thu, 15 Nov 2001 20:07:19 GMT""},{""version"":""v3"",""created"":""Mon, 25 Mar 2002 19:38:34 GMT""}]","2009-11-07"
+"hep-ph/0111125","Pantelis Manousselis","P. Manousselis and G. Zoupanos","Dimensional Reduction over Coset Spaces and Supersymmetry Breaking","32 pages, misprints corrected, references added","JHEP 0203:002,2002","10.1088/1126-6708/2002/03/002","NTUA-08/01","hep-ph hep-th",,"  We address the question of supersymmetry breaking of a higher dimensional
+supersymmetric theory due to coset space dimensional reduction. In particular
+we study a ten-dimensional supersymmetric $E_{8}$ gauge theory which is reduced
+over all six-dimensional coset spaces. We find that the original supersymmetry
+is completely broken in the process of dimensional reduction when the coset
+spaces are symmetric. On the contrary softly broken four-dimensional
+supersymmetric theories result when the coset spaces are non-symmetric. From
+our analysis two promising cases are emerging which lead to interesting GUTs
+with three fermion families in four dimensions, one being non-supersymmetric
+and the other softly broken supersymmetric.
+","[{""version"":""v1"",""created"":""Sat, 10 Nov 2001 17:24:14 GMT""},{""version"":""v2"",""created"":""Tue, 8 Jan 2002 19:04:58 GMT""}]","2011-07-19"
+"hep-ph/0111126","Antonio Lopez Maroto","Antonio L. Maroto","Constraining the primordial spectrum of metric perturbations from
+  gravitino and moduli production","16 pages, LaTeX, 5 figures. Corrected figures, new references
+  included. Final version to appear in Phys. Rev. D","Phys.Rev.D65:083508,2002","10.1103/PhysRevD.65.083508","SU-ITP-01/47","hep-ph astro-ph hep-th",,"  We consider the production of gravitinos and moduli fields from quantum
+vacuum fluctuations induced by the presence of scalar metric perturbations at
+the end of inflation. We obtain the corresponding occupation numbers, up to
+first order in perturbation theory, in terms of the power spectrum of the
+metric perturbations. We compute the limits imposed by nucleosynthesis on the
+spectral index $n_s$ for different models with constant $n_s$. The results show
+that, in certain cases, such limits can be as strong as $n_s<1.12$, which is
+more stringent than those coming from primordial black hole production.
+","[{""version"":""v1"",""created"":""Sat, 10 Nov 2001 19:21:13 GMT""},{""version"":""v2"",""created"":""Fri, 18 Jan 2002 19:40:07 GMT""}]","2008-11-26"
+"hep-ph/0111127","Stanley J. Brodsky","S. J. Brodsky","Perspectives and Challenges for QCD Phenomenology","Invited talk presented at the APS / DPF / DPB Summer Study On The
+  Future Of Particle Physics (Snowmass 2001), 30 Jun - 21 Jul 2001, Snowmass,
+  Colorado, and the 6th LNF Spring School 'Bruno Touschek' In Nuclear,
+  Subnuclear And Astroparticle Physics, 28 May - 2 Jun 2001, Frascati, Italy","eConf C010630:E211,2001",,"SLAC-PUB-9022","hep-ph",,"  A fundamental understanding of quantum chromodynamics, particularly at the
+amplitude level, is essential for progress in high energy physics. For example,
+the measurement and interpretation of the basic parameters of the electroweak
+theory and CP violation depends on an understanding of the dynamics and phase
+structure of exclusive B-meson decay amplitudes. In this review, I discuss a
+number of ways in which the required hadron wavefunctions can be measured (such
+as two-photon reactions and diffractive dissociation) or calculated from first
+principles. An important tool for describing relativistic composite systems in
+quantum field theory is the light-front Fock expansion, which encodes the
+properties of a hadrons in terms of a set of frame-independent n-particle
+wavefunctions. Evolution in light-cone time allows the construction of an
+""event amplitude generator"" in which only non-ghost physical degrees of freedom
+and integration over physical phase appear. The diffractive dissociation of a
+hadron at high energies, by either Coulomb or Pomeron exchange, has a natural
+description in QCD as the materialization of the projectile's light-cone
+wavefunctions; in particular, the diffractive dissociation of a meson, baryon,
+or photon into high transverse momentum jets measures the shape and other
+features of the projectile's distribution amplitude. I also review recent work
+which shows that the structure functions measured in deep inelastic lepton
+scattering are affected by final-state rescattering, thus modifying their
+connection with the light-cone probability distributions. In particular, the
+shadowing of nuclear structure functions is due to destructive interference
+effects from leading-twist diffraction of the virtual photon, physics not
+included in the nuclear light-cone wavefunctions.
+","[{""version"":""v1"",""created"":""Sat, 10 Nov 2001 23:43:00 GMT""}]","2009-09-11"
+"hep-ph/0111128","Victor V. Abramov","Victor V. Abramov","Universal scaling behaviour of the transverse polarization for
+  inclusively produced hyperons in hadron-hadron collisions","58 pages (Latex), 12 Postscript figures, 11 Tables",,,"IHEP 2001-13","hep-ph",,"  Experimental data on the polarization of hyperons, inclusively produced in
+hadron-hadron collisions, have been analyzed. It is shown that the existing
+data can be described by a function of transverse momentum (Pt) and two scaling
+variables Xa+-=(Xr +- Xf)/2: P_H=A^alpha*F(Pt)[G(Xa+ -x2) -sigma*G(Xa- +x2)].
+The function G(x) is proportional to sin[omega*(x -x1)]/omega, which results
+for some reactions in an oscillation of P_H as a function of Xf. The ""omega"",
+as well as the magnitude and the sign of the hyperon polarization depend on
+quark composition of hadrons participating in a reaction. The atomic weight
+dependence of the Lambda hyperon polarization is characterized by the parameter
+alpha = -0.16|Xf|. There is an analogy between the scaling properties of the
+hyperon polarization and the analyzing power (An) in hadron production
+reactions. This new scaling law allows one to predict hyperon polarization for
+reactions and kinematic regions, yet unexplored in experiments and to confront
+these predictions with future experiments and various models.
+","[{""version"":""v1"",""created"":""Sun, 11 Nov 2001 14:47:07 GMT""}]","2007-05-23"
+"hep-th/0111087","Kazumi Okuyama","Kazumi Okuyama","Siegel Gauge in Vacuum String Field Theory","13 pages, lanlmac; v3: comment added","JHEP 0201 (2002) 043","10.1088/1126-6708/2002/01/043","EFI-01-51","hep-th",,"  We study the star algebra of ghost sector in vacuum string field theory
+(VSFT). We show that the star product of two states in the Siegel gauge is BRST
+exact if we take the BRST charge to be the one found in hep-th/0108150, and the
+BRST exact states are nil factors in the star algebra. By introducing a new
+star product defined on the states in the Siegel gauge, the equation of motion
+of VSFT is characterized as the projection condition with respect to this new
+product. We also comment on the comma form of string vertex in the ghost
+sector.
+","[{""version"":""v1"",""created"":""Sun, 11 Nov 2001 14:59:56 GMT""},{""version"":""v2"",""created"":""Tue, 13 Nov 2001 19:25:26 GMT""},{""version"":""v3"",""created"":""Mon, 19 Nov 2001 15:15:48 GMT""}]","2009-11-07"
+"hep-th/0111088","Nesic Ljubisa","G. Djordjevic, B. Dragovich, Lj. Nesic","Adelic Quantum Mechanics: Nonarchimedean and Noncommutative Aspects","14 pages, Talk presented at the Conference: Noncommutative structures
+  in mathematics and physics, Kiev, Sept. 24-27. 2000",,,,"hep-th",,"  We present a short review of adelic quantum mechanics pointing out its
+non-Archimedean and noncommutative aspects. In particular, $p$-adic path
+integral and adelic quantum cosmology are considered. Some similarities between
+$p$-adic analysis and q-analysis are noted. The $p$-adic Moyal product is
+introduced.
+","[{""version"":""v1"",""created"":""Sat, 10 Nov 2001 16:11:49 GMT""}]","2007-05-23"
+"hep-th/0111090","Luigi Del Debbio","Luigi Del Debbio, Haralambos Panagopoulos, Paolo Rossi, Ettore Vicari","Spectrum of confining strings in SU(N) gauge theories","Latex, 34 pages, 10 figures. Results of new SU(4) simulations added.
+  The new data are included in the analysis, leading to improved final
+  estimates for SU(4). Conclusions unchanged","JHEP 0201 (2002) 009","10.1088/1126-6708/2002/01/009",,"hep-th hep-lat",,"  We study the spectrum of the confining strings in four-dimensional SU(N)
+gauge theories. We compute, for the SU(4) and SU(6) gauge theories formulated
+on a lattice, the string tensions sigma_k related to sources with Z_N charge k,
+using Monte Carlo simulations. Our results are consistent with the sine formula
+sigma_k/sigma = sin k pi/N / sin pi/N for the ratio between sigma_k and the
+standard string tension sigma.
+  For the SU(4) and SU(6) cases the accuracy is approximately 1% and 2%,
+respectively. The sine formula is known to emerge in various realizations of
+supersymmetric SU(N) gauge theories. On the other hand, our results show
+deviations from Casimir scaling. We also discuss an analogous behavior
+exhibited by two-dimensional SU(N) x SU(N) chiral models.
+","[{""version"":""v1"",""created"":""Sat, 10 Nov 2001 22:46:12 GMT""},{""version"":""v2"",""created"":""Tue, 13 Nov 2001 16:06:51 GMT""},{""version"":""v3"",""created"":""Wed, 27 Mar 2002 16:51:48 GMT""}]","2009-11-07"
+"hep-th/0111091","Allan Joseph Medved","A.J.M. Medved (University of Alberta)","Reissner-Nordstrom Near Extremality from a Jackiw-Teitelboim Perspective","20 pages, Latex; references added",,,,"hep-th",,"  In this paper, we investigate the near-extremal thermodynamics of the
+Reissner-Nordstrom (RN) black hole. Our methodology is based on a duality that
+exists between the near-horizon geometry of the near-extremal RN sector and
+Jackiw-Teitelboim (JT) theory. First, the described correspondence is reviewed
+at the classical level. Next, we consider first-order perturbations in the dual
+JT geometry by incorporating a quantum scalar field into the formalism. The
+novelty of our approach is that the matter field is endowed with a
+4-dimensional pedigree. We ultimately find that back-reaction effects prohibit
+the JT black hole from losing all of its mass. This outcome directly implies
+that an RN black hole can not reach extremality and, moreover, can not even
+come arbitrarily close to an extremal state.
+","[{""version"":""v1"",""created"":""Sat, 10 Nov 2001 23:33:33 GMT""},{""version"":""v2"",""created"":""Wed, 21 Nov 2001 03:10:00 GMT""}]","2007-05-23"
+"hep-th/0111093","Cai Rong-gen","Rong-Gen Cai","Cardy-Verlinde Formula and Asymptotically de Sitter Spaces","Latex, 12 pages, v2: references corrected","Phys.Lett. B525 (2002) 331-336","10.1016/S0370-2693(01)01457-5",,"hep-th",,"  In this paper we discuss the question of whether the entropy of cosmological
+horizon in some asymptotically de Sitter spaces can be described by the
+Cardy-Verlinde formula, which is supposed to be an entropy formula of conformal
+field theory in any dimension. For the Schwarzschild-de Sitter solution,
+although the gravitational mass is always negative (in the sense of the
+prescription in hep-th/0110108 to calculate the conserved charges of
+asymptotically de Sitter spaces), we find that indeed the entropy of
+cosmological horizon can be given by using naively the Cardy-Verlinde formula.
+The entropy of pure de Sitter spaces can also be expressed by the
+Cardy-Verlinde formula. For the topological de Sitter solutions, which have a
+cosmological horizon and a naked singularity, the Cardy-Verlinde formula also
+works well. Our result is in favour of the dS/CFT correspondence.
+","[{""version"":""v1"",""created"":""Sun, 11 Nov 2001 07:07:41 GMT""},{""version"":""v2"",""created"":""Mon, 19 Nov 2001 06:59:39 GMT""}]","2009-11-07"
+"hep-th/0111094","Dantao Peng","Bo-Yu Hou, Dan-Tao Peng","Elliptic Algebra and Integrable Models for Solitons on Noncummutative
+  Torus ${\cal T}$","Talk given by Bo-Yu Hou at the Joint APCTP-Nankai Symposium. Tianjin
+  (PRC), Oct. 2001. To appear in the proceedings, to be published by Int. J.
+  Mod. Phys. B. 7 pages, latex, no figures","Int.J.Mod.Phys. B16 (2002) 2079-2088","10.1142/S0217979202011822",,"hep-th",,"  We study the algebra ${\cal A}_n$ and the basis of the Hilbert space ${\cal
+H}_n$ in terms of the $\theta$ functions of the positions of $n$ solitons. Then
+we embed the Heisenberg group as the quantum operator factors in the
+representation of the transfer matrice of various integrable models. Finally we
+generalize our result to the generic $\theta$ case.
+","[{""version"":""v1"",""created"":""Sun, 11 Nov 2001 08:52:32 GMT""},{""version"":""v2"",""created"":""Thu, 22 Nov 2001 08:24:39 GMT""}]","2009-11-07"
+"math-ph/0111020","Thomas Quella","T. Quella","Branching rules of semi-simple Lie algebras using affine extensions","11 pages, LaTeX, v2: one reference added, v3: Clarified proof of
+  Theorem 2, completely rewrote and extended Section 5 (relation to CFT), added
+  various references. Accepted for publication in J. Phys. A","J.Phys.A35:3743-3754,2002","10.1088/0305-4470/35/16/313","AEI-2001-133","math-ph hep-th math.MP math.QA",,"  We present a closed formula for the branching coefficients of an embedding p
+in g of two finite-dimensional semi-simple Lie algebras. The formula is based
+on the untwisted affine extension of p. It leads to an alternative proof of a
+simple algorithm for the computation of branching rules which is an analog of
+the Racah-Speiser algorithm for tensor products. We present some simple
+applications and describe how integral representations for branching
+coefficients can be obtained. In the last part we comment on the relation of
+our approach to the theory of NIM-reps of the fusion rings of WZW models with
+chiral algebra g_k. In fact, it turns out that for these models each embedding
+p in g induces a NIM-rep at level k to infinity. In cases where these NIM-reps
+can be be extended to finite level, we obtain a Verlinde-like formula for
+branching coefficients.
+","[{""version"":""v1"",""created"":""Sun, 11 Nov 2001 09:49:53 GMT""},{""version"":""v2"",""created"":""Wed, 14 Nov 2001 11:59:58 GMT""},{""version"":""v3"",""created"":""Fri, 15 Mar 2002 08:39:27 GMT""}]","2008-11-26"
+"math/0111126","Viatcheslav Kharlamov","V.Kharlamov, Vik.Kulikov","Deformation inequivalent complex conjugated complex structures and
+  applications","23 pages, AmS-TeX, few minor misprints corrected",,,,"math.AG",,"  Here, we resume and broaden the results concerned which appeared in
+math.AG/0101098 and math.AG/0104021. We start from summing up our example of a
+complex algebraic surface which is not deformation equivalent to its complex
+conjugate and which, moreover, has no homeomorphisms reversing the canonical
+class. Then, we construct several series of higher dimensional compact complex
+manifolds having the same property. We end with discussing applications to the
+Dif=Def problems, to the existence of diffeomorphic plane cuspidal curves non
+equivalent under equisingular deformations and to the existence of
+(deformation) non equivalent symplectic structures with opposite canonical
+classes.
+","[{""version"":""v1"",""created"":""Sun, 11 Nov 2001 14:58:18 GMT""},{""version"":""v2"",""created"":""Mon, 7 Jan 2002 09:56:21 GMT""}]","2007-05-23"
+"physics/0111101","Johnny Y. Tang","Johnny Tang","Advanced Computer Analyst","Poster at ICALEPCS 2001, San Jose, CA. (TUAP062) 3 pages.
+  PDFhttp://www.sns.bnl.gov/vacuum/doc/ICALEPCS01/tuap062.pdf","eConf C011127:TUAP062,2001",,,"physics.acc-ph",,"  The Spallation Neutron Source (SNS) vacuum instrumentation and control
+systems are being designed at Lawrence Berkeley National Laboratory (LBNL),
+Brookhaven National Laboratory (BNL), Thomas Jefferson National Accelerator
+facility (TJNAF) and Los Alamos National Laboratory (LANL). Each participating
+lab is responsible for a different section of the machine: LBNL for the
+Front-End section, LANL for the warm LINAC section, TJNAF for the cold LINAC
+section and BNL for the Ring and transfer line sections. The vacuum
+instrumentation and control systems are scheduled to be installed and be in
+operation at Oak Ridge National Laboratory in 2004 or 2005. Although the
+requirements vary for different sections of the machine, a collaborative effort
+has been made to standardize vacuum instrumentation components and the global
+control system interfaces. This paper summarizes the design of each sub-section
+of vacuum instrumentation and control system and discusses SNS standards for
+Ion Pump and Gauge controllers, Programmable Logic Controller (PLC) interfaces,
+Ladder Logic programming and the SNS global control system interfaces.
+","[{""version"":""v1"",""created"":""Sat, 10 Nov 2001 19:12:24 GMT""}]","2014-11-18"

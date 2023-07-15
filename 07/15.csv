@@ -1,0 +1,251 @@
+"astro-ph/0107258","Michael Kurtz","B. J. Carter, D. G. Fabricant, M. J. Geller, M. J. Kurtz","Star Formation in a Complete Spectroscopic Survey of Galaxies","accepted by AJ, abstract truncated, high resolution PS version of the
+  plate available from the authors","Astrophys.J. 559 (2001) 606","10.1086/322349",,"astro-ph",,"  The 15R-North galaxy redshift survey is a uniform spectroscopic survey (S/N
+$\sim $10) covering the range 3650---7400\AA for 3149 galaxies with median
+redshift 0.05. The sample is 90% complete to $R=15.4$. The median slit covering
+fraction is 24% of the galaxy, apparently sufficient to minimize the effects of
+aperture bias on the EW(H$\alpha$).
+  Forty-nine percent of the galaxes in the survey have one or more emission
+lines detected at $\geq 2 \sigma$. In agreement with previous surveys, the
+fraction of absorption-line galaxies increases steeply with galaxy luminosity.
+  We use H$\beta$, O[III], H$\alpha$, and [N\II] to discriminate between
+star-forming galaxies and AGNs.
+  We use the EW(H$\alpha$ + [N\II]) to estimate the Scalo birthrate parameter,
+$b$, the ratio of the current star formation rate to the time averaged star
+formation rate.
+  Finally, we examine the way galaxies of different spectroscopic type trace
+the large-scale galaxy distribution.
+","[{""version"":""v1"",""created"":""Sat, 14 Jul 2001 20:39:42 GMT""}]","2009-11-06"
+"astro-ph/0107259","Michail Malkov","M.A. Malkov, P.H. Diamond and T.W. Jones","Intrinsic energy cut-off in diffusive shock acceleration: possible
+  reason for non-detection of TeV-protons in SNRs","4 pages, 1 figure, ICRC 2001",,,,"astro-ph",,"  The linear theory of shock acceleration predicts the maximum particle energy
+to be limited only by the acceleration time and the size of the shock. We study
+the combined effect of acceleration nonlinearity (shock modification by
+accelerated particles, that must be present in strong astrophysical shocks) and
+propagation of Alfven waves that are responsible for particle confinement to
+the shock front. We show that wave refraction to larger wave numbers in the
+nonlinearly modified flow causes enhanced losses of particles in the momentum
+range p_max/R < p < p_max, where R>1 is the nonlinear pre-compression of the
+flow and p_max is a conventional maximum momentum, that could be reached if
+there was no refraction.
+","[{""version"":""v1"",""created"":""Sat, 14 Jul 2001 22:41:00 GMT""}]","2007-05-23"
+"astro-ph/0107260","Tom Loredo","Thomas J. Loredo, Don Q. Lamb","Bayesian analysis of neutrinos observed from supernova SN 1987A","46 pages, 12 figures, RevTeX; for submission to Physical Review D","Phys.Rev.D65:063002,2002","10.1103/PhysRevD.65.063002",,"astro-ph hep-ex physics.data-an",,"  We present a Bayesian analysis of the energies and arrival times of the
+neutrinos from supernova SN 1987A detected by the Kamiokande II, IMB, and
+Baksan detectors, and find strong evidence for two components in the neutrino
+signal: a long time scale component from thermal Kelvin-Helmholtz cooling of
+the nascent neutron star, and a brief (~< 1 s), softer component similar to
+that expected from emission by accreting material in the delayed supernova
+scenario. In the context of this model, we show that the data constrain the
+electron antineutrino rest mass to be less than 5.7 eV with 95% probability.
+Our analysis takes advantage of significant advances that have occured in the
+years since the detections in both our understanding of the supernova mechanism
+and our ability to analyze sparse data. As a result there are substantial
+differences between our inferences and those found in earlier studies. We find
+that two-component models for the neutrino signal make the data >100 times more
+probable than single-component models. In addition, the radius and binding
+energy of the nascent neutron star implied by single-component models deviates
+significantly from the values predicted by current neutron star models, whereas
+those implied by models with an accretion component are in complete agreement
+with the predictions. As a result, two-component models are hundreds to
+thousands of times more probable than single-component models. The neutrino
+data thus provide the first direct observational evidence in favor of the
+delayed supernova scenario over the prompt scenario. (Abridged abstract)
+","[{""version"":""v1"",""created"":""Sat, 14 Jul 2001 22:41:44 GMT""}]","2010-05-28"
+"cond-mat/0107318","Andre LeClair","Denis Bernard and Andre LeClair","Renormalization group for network models of Quantum Hall transitions","35 pages, 5 color figures, v2: references added","Nucl.Phys.B628:442-472,2002","10.1016/S0550-3213(02)00097-4",,"cond-mat.mes-hall cond-mat.dis-nn hep-th",,"  We analyze in detail the renormalization group flows which follow from the
+recently proposed all orders beta functions for the Chalker-Coddington network
+model. The flows in the physical regime reach a true singularity after a finite
+scale transformation. Other flows are regular and we identify the asymptotic
+directions. One direction is in the same universality class as the disordered
+XY model.
+  The all orders beta function is computed for the network model of the spin
+Quantum Hall transition and the flows are shown to have similar properties. It
+is argued that fixed points of general current-current interactions in 2d
+should correspond to solutions of the Virasoro master equation. Based on this
+we identify two coset conformal field theories osp(2N|2N)_1 /u(1)_0 and
+osp(4N|4N)_1/su(2)_0 as possible fixed points and study the resulting
+multifractal properties. We also obtain a scaling relation between the typical
+amplitude exponent alpha_0 and the typical point contact conductance exponent
+X_t which is expected to hold when the density of states is constant.
+","[{""version"":""v1"",""created"":""Sat, 14 Jul 2001 16:47:00 GMT""},{""version"":""v2"",""created"":""Thu, 26 Jul 2001 17:22:26 GMT""}]","2016-08-31"
+"cond-mat/0107320","Dmitry Aristov","D.N.Aristov (1 and 2) and A.Luther (1) ((1) NORDITA, (2) PNPI)","Correlations in the Sine-Gordon Model with Finite Soliton Density","12 pages, 3 eps figures, REVTEX; a discussion of fermions is added","Phys.Rev. B65 (2002) 165412","10.1103/PhysRevB.65.165412",,"cond-mat.str-el cond-mat.stat-mech",,"  We study the sine-Gordon (SG) model at finite densities of the topological
+charge and small SG interaction constant, related to the one-dimensional
+Hubbard model near half-filling. Using the modified WKB approach, we find that
+the spectrum of the Gaussian fluctuations around the classical solution
+reproduces the results of the Bethe ansatz studies. The modification of the
+collective coordinate method allows us to write down the action, free from
+infra-red divergencies. The behaviour of the density-type correlation functions
+is non-trivial and we demonstrate the existence of leading and sub-leading
+asymptotes. A consistent definition of the charge-raising operator is
+discussed. The superconducting-type correlations are shown to decrease slowly
+at small soliton densities, while the spectral weight of right (left) moving
+fermions is spread over neighboring ""4k_F"" harmonics.
+","[{""version"":""v1"",""created"":""Sat, 14 Jul 2001 16:15:04 GMT""},{""version"":""v2"",""created"":""Thu, 11 Apr 2002 13:41:46 GMT""}]","2009-11-07"
+"cond-mat/0107322","Hui Yin","Hui Yin and Bulbul Chakraborty","Slow dynamics and aging in a non-randomly frustrated spin system","41 pages, 16 figures. Bibliography file is corrected",,"10.1103/PhysRevE.65.036119",,"cond-mat.stat-mech",,"  A simple, non-disordered spin model has been studied in an effort to
+understand the origin of the precipitous slowing down of dynamics observed in
+supercooled liquids approaching the glass transition. A combination of Monte
+Carlo simulations and exact calculations indicates that this model exhibits an
+entropy vanishing transition accompanied by a rapid divergence of time scales.
+Measurements of various correlation functions show that the system displays a
+hierarchy of time scales associated with different degrees of freedom. Extended
+structures, arising from the frustration in the system, are identified as the
+source of the slow dynamics. In the simulations, the system falls out of
+equilibrium at a temperature $T_{g}$ higher than the entropy-vanishing
+transition temperature and the dynamics below $T_{g}$ exhibits aging as
+distinct from coarsening. The cooling rate dependence of the energy is also
+consistent with the usual glass formation scenario.
+","[{""version"":""v1"",""created"":""Sat, 14 Jul 2001 18:46:13 GMT""},{""version"":""v2"",""created"":""Tue, 24 Jul 2001 01:49:23 GMT""}]","2009-11-07"
+"cond-mat/0107323","Peter Horsch","P. Horsch and G. Khaliullin","Density response of cuprates and renormalization of breathing phonons","10 pages and 8 figures, talk given at NATO Advanced Research
+  Workshop, Bled, Slovenia, 26-30 April 2000","publ. in ""Open Problems in Strongly Correlated Electron Systems"",
+  eds. J. Bonca et al. (Kluwer-Academic, Boston, 2001), p. 81-90",,,"cond-mat.str-el",,"  We analyse the dynamical density fluctuation spectra for cuprates starting
+from the $t-J$ model in a slave-boson 1/N representation. The results obtained
+are consistent with diagonalization studies and show novel low-energy structure
+on the energy scale $J+\delta t$ due to the correlated motion of holes in a RVB
+spin liquid. The low-energy response implies an anomalous renormalization of
+several phonon modes. Here we discuss the renormalization of the highest
+breathing phonons in La$_{2-x}$Sr$_x$CuO$_4$.
+","[{""version"":""v1"",""created"":""Sat, 14 Jul 2001 18:22:46 GMT""}]","2007-05-23"
+"cond-mat/0107324","Juan C. Idrobo","R. F. Klie, J. C. Idrobo and N. D. Browning","Direct observation of nm-scale Mg- and B-oxide phases at grain
+  boundaries in MgB2",,,"10.1063/1.1404127",,"cond-mat.supr-con",,"  Here we describe the results of an atomic resolution study of the structure
+and composition of both the interior of the grains, and the grain boundaries in
+polycrystalline MgB2. We find that there is no oxygen within the bulk of the
+grains but significant oxygen enrichment at the grain boundaries. The majority
+of grain boundaries contain BOx phases smaller than the coherence length, while
+others contain larger areas of MgO sandwiched between BOx layers. Such results
+naturally explain the differences in connectivity between the grains observed
+by other techniques.
+","[{""version"":""v1"",""created"":""Sun, 15 Jul 2001 05:06:25 GMT""}]","2009-11-07"
+"cond-mat/0107325","Nuh Gedik","G. P. Segre, N. Gedik, J. Orenstein, D.A. Bonn, Ruixing Liang, W.N.
+  Hardy","Photoinduced Changes of Reflectivity in Single Crystals of YBa2Cu3O6.5
+  (Ortho II)","4 pages, 4 figures","Phys. Rev. Lett. 88, 137001 (2002)","10.1103/PhysRevLett.88.137001",,"cond-mat.supr-con",,"  We report measurements of the photoinduced change in reflectivity of an
+untwinned single crystal of YBa2Cu3O6.5 in the ortho II structure. The decay
+rate of the transient change in reflectivity is found to decrease rapidly with
+decreasing temperature and, below Tc, with decreasing laser intensity. We
+interpret the decay as a process of thermalization of antinodal quasiparticles,
+whose rate is determined by an inelastic scattering rate of quasiparticle
+pairs.
+","[{""version"":""v1"",""created"":""Sun, 15 Jul 2001 05:14:15 GMT""}]","2009-11-07"
+"cond-mat/0107326","Groep tvs","J. T. Devreese (Universiteit Antwerpen - UIA)","Note on the Path-Integral Variational Approach in the Many-Body Theory","15 pages, 1 figure, E-mail address: devreese@uia.ua.ac.be",,"10.1142/9789812811240_0026","TFVS-2001-2","cond-mat.str-el cond-mat.stat-mech",,"  I discuss how a variatonal approach can be extended to systems of identical
+particles (in particular fermions) within the path-integral treatment. The
+applicability of the many-body variational principle for path integrals is
+illustrated for different model systems, and is shown to crucially depend on
+whether or not a model system possesses the proper symmetry with respect to
+permutations of identical particles.
+","[{""version"":""v1"",""created"":""Sun, 15 Jul 2001 14:30:33 GMT""}]","2016-11-23"
+"cs/0107016","Erik Tjong Kim Sang","Erik F. Tjong Kim Sang and Herve Dejean","Introduction to the CoNLL-2001 Shared Task: Clause Identification",,"In: Walter Daelemans and Remi Zajac (eds.), Proceedings of
+  CoNLL-2001, Toulouse, France, 2001, pp. 53-57",,,"cs.CL",,"  We describe the CoNLL-2001 shared task: dividing text into clauses. We give
+background information on the data sets, present a general overview of the
+systems that have taken part in the shared task and briefly discuss their
+performance.
+","[{""version"":""v1"",""created"":""Sun, 15 Jul 2001 12:51:01 GMT""}]","2007-05-23"
+"cs/0107017","Erik Tjong Kim Sang","John Nerbonne, Anja Belz, Nicola Cancedda, Herve Dejean, James
+  Hammerton, Rob Koeling, Stasinos Konstantopoulos, Miles Osborne, Franck
+  Thollard and Erik F. Tjong Kim Sang","Learning Computational Grammars",,"In: Walter Daelemans and Remi Zajac (eds.), Proceedings of
+  CoNLL-2001, Toulouse, France, 2001, pp. 97-104",,,"cs.CL",,"  This paper reports on the ""Learning Computational Grammars"" (LCG) project, a
+postdoc network devoted to studying the application of machine learning
+techniques to grammars suitable for computational use. We were interested in a
+more systematic survey to understand the relevance of many factors to the
+success of learning, esp. the availability of annotated data, the kind of
+dependencies in the data, and the availability of knowledge bases (grammars).
+We focused on syntax, esp. noun phrase (NP) syntax.
+","[{""version"":""v1"",""created"":""Sun, 15 Jul 2001 13:21:48 GMT""}]","2007-05-23"
+"cs/0107018","Erik Tjong Kim Sang","James Hammerton and Erik F. Tjong Kim Sang","Combining a self-organising map with memory-based learning",,"In: Walter Daelemans and Remi Zajac (eds.), Proceedings of
+  CoNLL-2001, Toulouse, France, 2001, pp. 9-14",,,"cs.CL",,"  Memory-based learning (MBL) has enjoyed considerable success in corpus-based
+natural language processing (NLP) tasks and is thus a reliable method of
+getting a high-level of performance when building corpus-based NLP systems.
+However there is a bottleneck in MBL whereby any novel testing item has to be
+compared against all the training items in memory base. For this reason there
+has been some interest in various forms of memory editing whereby some method
+of selecting a subset of the memory base is employed to reduce the number of
+comparisons. This paper investigates the use of a modified self-organising map
+(SOM) to select a subset of the memory items for comparison. This method
+involves reducing the number of comparisons to a value proportional to the
+square root of the number of training items. The method is tested on the
+identification of base noun-phrases in the Wall Street Journal corpus, using
+sections 15 to 18 for training and section 20 for testing.
+","[{""version"":""v1"",""created"":""Sun, 15 Jul 2001 13:32:36 GMT""}]","2007-05-23"
+"hep-ph/0107160","Robert Brandenberger","Mingzhe Li, Wenbin Lin, Xinmin Zhang (IHEP, Beijing) and Robert
+  Brandenberger (Brown Univ.)","Termination of the Phase of Quintessence by Gravitational Back-Reaction","7 pages a few clarifying comments added","Phys.Rev. D65 (2002) 023519","10.1103/PhysRevD.65.023519",,"hep-ph astro-ph gr-qc hep-th",,"  We study the effects of gravitational back-reaction in models of
+Quintessence. The effective energy-momentum tensor with which cosmological
+fluctuations back-react on the background metric will in some cases lead to a
+termination of the phase of acceleration. The fluctuations we make use of are
+the perturbations in our present Universe. Their amplitude is normalized by
+recent measurements of anisotropies in the cosmic microwave background, their
+slope is taken to be either scale-invariant, or characterized by a slightly
+blue tilt. In the latter case, we find that the back-reaction effect of
+fluctuations whose present wavelength is smaller than the Hubble radius but
+which are stretched beyond the Hubble radius by the accelerated expansion
+during the era of Quintessence domination can become large. Since the
+back-reaction effects of these modes oppose the acceleration, back-reaction
+will lead to a truncation of the period of Quintessence domination. This result
+impacts on the recent discussions of the potential incompatibility between
+string theory and Quintessence.
+","[{""version"":""v1"",""created"":""Sat, 14 Jul 2001 21:24:47 GMT""},{""version"":""v2"",""created"":""Tue, 25 Sep 2001 09:39:33 GMT""}]","2009-11-07"
+"hep-ph/0107162","P. K. Das pg phy","Prasanta Das and Uma Mahanta","$\rho$ parameter constraints on radion phenomenology and a lower bound
+  on Higgs mass","15 pages, latex, 6 eps figures. Redone the calculation by using the
+  cut-off regularisation technique","Phys.Lett. B528 (2002) 253-258","10.1016/S0370-2693(02)01209-1",,"hep-ph",,"  In this paper we determine the contribution of a light stabilized radion to
+the weak isospin violating $\rho$ parameter by using an ultraviolet momentum
+cut off as the regulator. The LEP1 bound on $\rho^{new}$ is then used to derive
+constraints on the radion mass $\mphi$ and its vev $\vphi$. Finally by using
+the beta function of the higgs self coupling we have determined a lower bound
+on the higgs mass from the rho parameter constraints on $\mphi$ and $\vphi$.
+Our results show that for $\mphi <$ 600 GeV the rho parameter bound on $m_h$ is
+stronger than the present direct bound from LEPII.
+","[{""version"":""v1"",""created"":""Sun, 15 Jul 2001 04:51:33 GMT""},{""version"":""v2"",""created"":""Sun, 9 Sep 2001 13:33:11 GMT""},{""version"":""v3"",""created"":""Tue, 19 Feb 2002 04:59:44 GMT""}]","2009-11-07"
+"hep-ph/0107163","Satoshi Mishima","S. Mishima","B -> phi K decays in perturbative QCD approach","15 pages, 5 figures, RevTeX, Minor changes, a reference added",,,"DPNU-01-13","hep-ph",,"  We calculate the branching ratios and CP asymmetries of the $B\to \phi K$
+decays using perturbative QCD approach, which includes $k_T$ and threshold
+resummations. Our results of branching ratios are consistent with the
+experimental data and larger than those obtained from the naive factorization
+assumption and the QCD-improved factorization approach.
+","[{""version"":""v1"",""created"":""Sun, 15 Jul 2001 12:18:17 GMT""},{""version"":""v2"",""created"":""Mon, 30 Jul 2001 16:12:01 GMT""},{""version"":""v3"",""created"":""Tue, 31 Jul 2001 08:36:55 GMT""}]","2007-05-23"
+"hep-ph/0107164","Margarida Rebelo","Gustavo C. Branco, Takuya Morozumi, B. M. Nobre and M. N. Rebelo","A Bridge between CP violation at Low Energies and Leptogenesis","18 pages, no figures","Nucl.Phys.B617:475-492,2001","10.1016/S0550-3213(01)00425-4","CERN-TH/2001-170; HUPD-0109","hep-ph",,"  We discuss the possibility of relating the size and sign of the observed
+baryon asymmetry of the universe to CP violation observable at low energies, in
+a framework where the observed baryon asymmetry is produced by leptogenesis
+through the out of the equilibrium decay of heavy Majorana neutrinos. We
+identify the CP violating phases entering in leptogenesis as well as those
+relevant for CP violation at low energies in the minimal seesaw model. We show
+that although in general there is no relation between these two sets of phases,
+there are specific frameworks in which such a connection may be established and
+we give a specific grand unification inspired example where such a connection
+does exist. We construct weak-basis invariants related to CP violation
+responsible for leptogenesis, as well as those relevant for CP violation at low
+energies.
+","[{""version"":""v1"",""created"":""Sun, 15 Jul 2001 15:53:59 GMT""}]","2014-11-17"
+"hep-th/0107129","Chehyon Shio","C. Shio","Polarization Effects on Fermion Mass","Withdrawing this paper due to crucial errors in base paper",,,"HLP-703","hep-th",,"  Due to unsuitable attempt to connect the base theory in hep-th/0106074 to
+noncommutative field theory, this paper has been withdrawn by the author.
+","[{""version"":""v1"",""created"":""Sun, 15 Jul 2001 08:22:13 GMT""},{""version"":""v2"",""created"":""Wed, 18 Jul 2001 00:07:25 GMT""},{""version"":""v3"",""created"":""Fri, 24 Aug 2001 04:21:00 GMT""}]","2007-05-23"
+"nlin/0107032","Paolo Giuliani","Paolo Giuliani","Shell Models for Magnetohydrodynamic Turbulence",,"Nonlinear MHD Waves and Turbulence, Eds. T. Passot and P.L. Sulem,
+  Lecture Notes in Physics, Springer, (1999)",,,"nlin.CD",,"  We review the main properties of shell models for magnetohydrodynamic (MHD)
+turbulence. After a brief account on shell models with nearest neighbour
+interactions, the paper focuses on the most recent results concerning dynamical
+properties and intermittency of a model which is a generalization to MHD of the
+Gledzer-Yamada-Okhitani (GOY) model for hydrodynamic. Applications to
+astrophysical problems are also discussed.
+","[{""version"":""v1"",""created"":""Sat, 14 Jul 2001 16:26:25 GMT""}]","2007-05-23"
+"nucl-th/0107043","Boris Blankleider","B. Blankleider (Flinders U.), J. Gegelia (INFN)","Doublet channel neutron-deuteron scattering in leading order effective
+  field theory","Conference talk (Gegelia) at ""Mesons & Light Nuclei '01"" Prague,
+  Czech Republic, 2-6 July, 2001, 5 pages, RevTeX","AIP Conf.Proc. 603 (2001) 233","10.1063/1.1436604",,"nucl-th",,"  The doublet channel neutron-deuteron scattering amplitude is calculated in
+leading order effective field theory (EFT). It is shown that this amplitude
+does not depend on a constant contact interaction three-body force.
+Satisfactory agreement with available data is obtained when only two-body
+forces are included.
+","[{""version"":""v1"",""created"":""Sat, 14 Jul 2001 16:34:12 GMT""}]","2009-11-07"
+"physics/0107029","Podvigina","Olga M. Podvigina","A route to magnetic field reversals: an example of an ABC-forced
+  non-linear dynamo","version 3: 35 pages, 16 figures; substantial changes, 1 figure added,
+  some corrections, more references",,,,"physics.flu-dyn physics.geo-ph",,"  We are investigating numerically the non-linear behavior of a space-periodic
+MHD system with ABC forcing. Most computations are performed for magnetic
+Reynolds numbers increasing from 0 to 60 and a fixed kinematic Reynolds number,
+small enough for the trivial solution with a zero magnetic field to be stable
+to velocity perturbations. At the critical magnetic Reynolds number for the
+onset of instability of the trivial solution the dominant eigenvalue of the
+kinematic dynamo problem is real. In agreement with the bifurcation theory new
+steady states with non-vanishing magnetic field appear in this bifurcation.
+Subsequent bifurcations are investigated. A regime is detected, where chaotic
+variations of the magnetic field orientation (analogous to magnetic field
+reversals) are observed in the temporal evolution of the system.
+","[{""version"":""v1"",""created"":""Sat, 14 Jul 2001 22:18:18 GMT""},{""version"":""v2"",""created"":""Sun, 28 Jul 2002 21:19:26 GMT""},{""version"":""v3"",""created"":""Mon, 10 Feb 2003 17:48:45 GMT""}]","2007-05-23"
+"quant-ph/0107075","Axel Andre","A. Andre, L.-M. Duan and M.D. Lukin","Coherent Atom Interactions Mediated by Dark-State Polaritons","4 pages, 3 figures, minor typos corrected","Phys. Rev. Lett. 88, 243602 (2002).","10.1103/PhysRevLett.88.243602",,"quant-ph",,"  We suggest a technique to induce effective, controllable interactions between
+atoms that is based on Raman scattering into an optical mode propagating with a
+slow group velocity. The resulting excitation corresponds to the creation of
+spin-flipped atomic pairs in a way that is analogous to correlated photon
+emission in optical parametric amplification. The technique can be used for
+fast generation of entangled atomic ensembles, spin squeezing and applications
+in quantum information processing.
+","[{""version"":""v1"",""created"":""Sat, 14 Jul 2001 21:10:43 GMT""},{""version"":""v2"",""created"":""Fri, 21 Dec 2001 06:16:57 GMT""}]","2009-11-07"

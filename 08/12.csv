@@ -1,0 +1,181 @@
+"astro-ph/0108200","Nicole","Nicole M. Lloyd-Ronning (CITA), Chris L. Fryer (Los Alamos National
+  Labs), Enrico Ramirez-Ruiz (University of Cambridge)","Cosmological Aspects of Gamma-Ray Bursts: Luminosity Evolution and an
+  Estimate of the Star Formation Rate at High Redshifts","Final version accepted to the Astrophysical Journal",,"10.1086/341059","LA-UR: 01-4881","astro-ph",,"  Using 220 Gamma-Ray Burst (GRB) redshifts and luminosities derived from the
+luminosity-variability relationship of Fenimore & Ramirez-Ruiz (2000), we show
+that there exists a significant correlation between the GRB luminosity and
+redshift. In particular, we find that the evolution of the average luminosity
+can be parameterized as L ~ (1+z)^(1.4 +- 0.5), where z is the burst redshift.
+We discuss the possible reasons behind this evolution and compare it to other
+known sources that exhibit similar behavior. In addition, we use non-parametric
+statistical techniques to independently estimate the distributions of the
+luminosity and redshift of bursts, accounting for the evolution (in contrast to
+previous studies which have assumed that the luminosity function is independent
+of redshift). We present these distributions and discuss their implications.
+Most significantly, we find a co-moving rate density of GRBs that continues to
+increase to (1+z) ~ 10. From this estimate of the GRB rate density, we then use
+the population synthesis codes of Fryer et al. (1999) to estimate the star
+formation rate at high redshifts, based on different progenitor models of GRBs.
+We find that no matter what the progenitor or population synthesis model, the
+star formation rate increases or remains constant to very high redshifts (z ~
+10).
+","[{""version"":""v1"",""created"":""Sat, 11 Aug 2001 17:24:50 GMT""},{""version"":""v2"",""created"":""Mon, 1 Apr 2002 20:40:44 GMT""}]","2009-11-07"
+"astro-ph/0108201","John W. Moffat","J. W. Moffat","The Accelerating Universe: A Gravitational Explanation","12 pages LaTex file. No figures",,,,"astro-ph gr-qc hep-ph hep-th",,"  The problem of explaining the acceleration of the expansion of the universe
+and the observational and theoretical difficulties associated with dark matter
+and dark energy are discussed. The possibility that GR does not correctly
+describe the large-scale structure of the universe is considered and an
+alternative gravity theory is proposed as a possible resolution to the
+problems.
+","[{""version"":""v1"",""created"":""Sat, 11 Aug 2001 17:08:05 GMT""}]","2007-05-23"
+"astro-ph/0108202","Mir Abbas Jalali","Mir Abbas Jalali (IASBS, Zanjan, Iran) and P. Tim de Zeeuw
+  (Sterrewacht Leiden, The Netherlands)","Self-consistent axisymmetric Sridhar-Touma models","10 pages, 11 Figures, Accepted for publication in MNRAS","Mon.Not.Roy.Astron.Soc. 328 (2001) 511","10.1046/j.1365-8711.2001.04892.x",,"astro-ph",,"  We construct phase-space distribution functions for the oblate, cuspy mass
+models of Sridhar & Touma, which may contain a central point mass (black hole)
+and have potentials of St\""ackel form in parabolic coordinates. The density in
+the ST models is proportional to a power $r^{-\gamma}$ of the radius, with
+$0<\gamma<1$. We derive distribution functions $f(E, L_z)$ for the scale-free
+ST models (no black hole) using a power series of the energy $E$ and the
+component $L_z$ of the angular momentum parallel to the symmetry axis. We use
+the contour integral method of Hunter & Qian to construct $f(E, L_z)$ for ST
+models with central black holes, and employ the scheme introduced by Dejonghe &
+de Zeeuw to derive more general distribution functions which depend on $E$,
+$L_z$ and the exact third integral $I_3$. We find that self-consistent two- and
+three-integral distribution functions exist for all values $0 < \gamma < 1$.
+","[{""version"":""v1"",""created"":""Sun, 12 Aug 2001 04:46:52 GMT""}]","2009-11-07"
+"astro-ph/0108203","Joseph F. Hennawi","Joseph F. Hennawi, Jeremiah P. Ostriker (Princeton University
+  Observatory)","Observational Constraints on the Self Interacting Dark Matter Scenario
+  and the Growth of Supermassive Black Holes","30 pages, 6 figures, significant improvements: added new constraint,
+  revised old constraints, changed figures",,"10.1086/340226",,"astro-ph",,"  We consider the consequences of SIDM for a velocity dependent cross section
+per unit mass. Accretion of SIDM onto seed black holes can produce supermassive
+black holes that are too large for certain combinations of parameters,which is
+used to obtain a new constraint on the dark matter interaction. Constraints due
+to other considerations are presented and previous ones are generalized. The
+black hole constraint is extremely sensitive to the slope \alpha, of the inner
+density profile of dark halos. For the most probable value of \alpha=1.3, there
+exists a narrow range in parameter space, such that all constraints are
+satisfied. However, the adiabatic compression of the dark halo by baryons as
+they cool and contract in normal galaxies yields a steeper cusp, \alpha=1.7.
+This gives a tighter constraint, which would exclude SIDM as a possible
+solution to the purported problems with CDM in the absence of other dynamical
+processes. Nevertheless, SIDM with parameters consistent with this stronger
+constraint, can explain the ubiquity of supermassive black holes in the centers
+of galaxies. A ``best fit'' model is presented which reproduces the
+supermassive black hole masses and their observed correlations with the
+velocity dispersion of the host bulges. Specifically, the fourth power
+dependence of black hole mass on velocity dispersion is a direct consequence of
+the power spectrum having an index of n=-2. Although the dark matter collision
+rates for this model are too small to directly remedy problems with CDM,
+mergers between dark halos harboring supermassive black holes at high redshift
+could ameliorate the cuspy halo problem. This scenario also explains the lack
+of comparable supermassive black holes in bulgeless galaxies like M33.
+","[{""version"":""v1"",""created"":""Sun, 12 Aug 2001 11:02:07 GMT""},{""version"":""v2"",""created"":""Thu, 27 Dec 2001 02:35:52 GMT""}]","2009-11-07"
+"astro-ph/0108204","J.  Richard Bond","J.Richard Bond (CITA) and Robert G. Crittenden (DAMTP)","CMB Analysis","40 pages, 12 figs., in Proc. NATO ASI ``Structure Formation in the
+  Universe'', eds. R.G. Crittenden & N.G. Turok (Kluwer) 2001","NATO Adv.Study Inst.Ser.C.Math.Phys.Sci.565:241-280,2001",,"CITA-2000-71","astro-ph",,"  We describe the subject of Cosmic Microwave Background (CMB) analysis - its
+past, present and future. The theory of Gaussian primary anisotropies, those
+arising from linear physics operating in the early Universe, is in reasonably
+good shape so the focus has shifted to the statistical pipeline which confronts
+the data with the theory: mapping, filtering, comparing, cleaning, compressing,
+forecasting, estimating. There have been many algorithmic advances in the
+analysis pipeline in recent years, but still more are needed for the forecasts
+of high precision cosmic parameter estimation to be realized. For secondary
+anisotropies, those arising once nonlinearity develops, the computational state
+of the art currently needs effort in all the areas: the Sunyaev-Zeldovich
+effect, inhomogeneous reionization, gravitational lensing, the Rees-Sciama
+effect, dusty galaxies. We use the Sunyaev-Zeldovich example to illustrate the
+issues. The direct interface with observations for these non-Gaussian signals
+is much more complex than for Gaussian primary anisotropies, and even more so
+for the statistically inhomogeneous Galactic foregrounds. Because all the
+signals are superimposed, the separation of components inevitably complicates
+primary CMB analyses as well.
+","[{""version"":""v1"",""created"":""Sun, 12 Aug 2001 15:50:39 GMT""}]","2010-05-12"
+"cond-mat/0108193","Giovanni Vignale","Zhixin Qian and Giovanni Vignale","Spin dynamics from time-dependent spin density-functional theory","8 pages, no figures",,"10.1103/PhysRevLett.88.056404",,"cond-mat.mtrl-sci",,"  We derive the spin-wave dynamics of a magnetic material from the
+time-dependent spin density functional theory in the linear response regime.
+The equation of motion for the magnetization includes, besides the static spin
+stiffness, a ""Berry curvature"" correction and a damping term. A gradient
+expansion scheme based on the homogeneous spin-polarized electron gas is
+proposed for the latter two quantities, and the first few coefficients of the
+expansion are calculated to second order in the Coulomb interaction.
+","[{""version"":""v1"",""created"":""Sat, 11 Aug 2001 21:20:08 GMT""}]","2009-11-07"
+"cond-mat/0108194","Jiunn-Yuan Lin","I. P. Hong, J.-Y. Lin, J. M. Chen, S. Chatterjee, S. J. Liu, Y. S.
+  Gou, and H. D. Yang","Possible evidence for the existence of the Fehrenbacher-Rice band: O
+  K-edge XANES study on Pr1-xCaxBa2Cu3O7","9 pages, 2 tables, 4 figures",,"10.1209/epl/i2002-00614-6",,"cond-mat.supr-con cond-mat.str-el",,"  X-ray absorption near edge structure (XANES), resistivity and thermoelectric
+power have been measured on Pr1-xCaxBa2Cu3O7. These data reveal an intriguing
+electronic structure in Pr-doped cuprates. The absorption peak in XANES
+associated with the Fehrenbacher-Rice (FR) band has been identified. The
+Ca-doped holes in Pr1-xCaxBa2Cu3O7 go to both the Zhang-Rice (ZR) and FR bands.
+Comparative studies on the related samples suggest that the FR band is
+partially filled and highly localized. Implications of these results on other
+recent experiments, such as the observation of superconductivity in PrBa2Cu3O7
+single crystals, are discussed.
+","[{""version"":""v1"",""created"":""Sun, 12 Aug 2001 13:54:40 GMT""}]","2009-11-07"
+"gr-qc/0108035","Mauricio Bellini","Mauricio Bellini (IFM, Michoacana University, Mexico)","Gauge invariant metric perturbations during reheating","7 pages, 2 figures (To appear in Il Nuovo Cimento B)","Nuovo Cim.B116:945-950,2001",,,"gr-qc",,"  The possible amplification of gauge invariant metric fluctuations in the
+infrared sector are very important during reheating stage of inflation. In this
+stage the inflaton oscillates arount the minimum of the scalar potential. The
+evolution for super Hubble scales gauge invariant metric fluctuations can be
+studied by means of the Bardeen parameter. For a massive scalar field with a
+quadratic potential for a nonzero cosmological constant. I find that (in the
+reheating regime and for super Hubble scales), the Sasaki-Mukhanov parameter
+oscillates with amplitude constant such that there is no amplification of $Q$
+during reheating.
+","[{""version"":""v1"",""created"":""Sat, 11 Aug 2001 18:19:50 GMT""}]","2010-11-11"
+"gr-qc/0108036","Robert D. Klauber","Robert D. Klauber","Frequency and Wavelength of Light for Relativistically Rotating Frames","13 pages, including 4 tables and references; Revision has added
+  Section 6 and Appendix B, and corrections to Section 5",,,,"gr-qc",,"  Non-time-orthogonal frame analysis is applied to determine the frequency and
+wavelength of light as observed i) in a relativistically rotating frame when
+emission is from a source fixed in the non-rotating frame, ii) in a
+non-rotating frame when emission is from a source fixed in the rotating frame,
+and iii) when both source and observer are fixed in the rotating frame and the
+source emission direction varies with respect to the rotating frame.
+Appropriate Doppler effects are demonstrated, and second order differences from
+translating (time-orthogonal) frame analysis are noted.
+","[{""version"":""v1"",""created"":""Sat, 11 Aug 2001 20:06:18 GMT""},{""version"":""v2"",""created"":""Wed, 24 Jul 2002 14:36:29 GMT""}]","2007-05-23"
+"hep-ph/0108105","Gerrit Schierholz","M. G\""ockeler, R. Horsley, D. Pleiter, P.E.L. Rakow, and G. Schierholz","Nucleon form factors and structure functions from Lattice QCD","Talk given by G. Schierholz at `Workshop on Lepton Scattering,
+  Hadrons and QCD', Adelaide, March 26 - April 6, 2001",,"10.1142/9789812799708_0001","DESY 01-110","hep-ph hep-lat",,"  In this talk we highlight recent lattice calculations of the nucleon form
+factors and structure functions.
+","[{""version"":""v1"",""created"":""Sun, 12 Aug 2001 10:55:18 GMT""}]","2017-08-23"
+"hep-th/0108078","Charles F. Doran","Charles F. Doran, Michael Faux and Burt A. Ovrut","Four-Dimensional N=1 Super Yang-Mills Theory from an M-Theory Orbifold","Explanatory paragraph/footnote added to introduction","Adv.Theor.Math.Phys. 6 (2003) 329-355",,"CU-TP-1026, HU-EP-01/29, UPR-950T","hep-th",,"  Gravitational and gauge anomalies provide stringent constraints on which
+subset of chiral models can effectively describe M-theory at low energy. In
+this paper, we explicitly construct an abelian orbifold of M-theory to obtain
+an N=1, chiral super Yang-Mills theory in four dimensions, using anomaly
+matching to determine the entire gauge and representation structure. The model
+described in this paper is the simplest four dimensional model which one can
+construct from M-theory compactified on an abelian orbifold without
+freely-acting involutions. The gauge group is SO(12) x SU(8) x SU(2) x SU(2) x
+U(1).
+","[{""version"":""v1"",""created"":""Sat, 11 Aug 2001 21:17:46 GMT""},{""version"":""v2"",""created"":""Fri, 7 Jun 2002 15:49:43 GMT""}]","2007-05-23"
+"hep-th/0108079","Badis Ydri","Badis Ydri","Fuzzy Non-Trivial Gauge Configurations","9 pages . Talk delivered in the MRST 2001 conference, University of
+  Western Ontario, London, Ontario . To be published in the conference
+  proceedings",,"10.1063/1.1435489",,"hep-th",,"  In this talk we will report on few results of discrete physics on the fuzzy
+sphere . In particular non-trivial field configurations such as monopoles and
+solitons are constructed on fuzzy ${\bf S}^2$ using the language of K-theory,
+i.e projectors . As we will show, these configurations are intrinsically finite
+dimensional matrix models . The corresponding monopole charges and soliton
+winding numbers are also found using the formalism of noncommutative geometry
+and cyclic cohomology .
+","[{""version"":""v1"",""created"":""Sat, 11 Aug 2001 22:18:33 GMT""}]","2009-11-07"
+"math/0108080","Benoit Rivet","Benoit Rivet","Diffeomorphismes harmoniques du plan hyperbolique","in french (abstract in english), 32 pages, no figure",,,,"math.DG",,"  A classical result of Sampson and Schoen-Yau in 1978 states that every
+diffeomorphism between compact hyperbolic Riemann surfaces is homotopic to an
+harmonic diffeomorphism. As conjectured by Schoen in 1993 and partially proved
+by Wan in 1992 and Tam-Wan in 1995, we prove in this article that this theorem
+generalizes to the non compact case : every quasi symmetric homeomorphism of
+the circle extends to a quasi isometric harmonic diffeomorphism of the
+hyperbolic plane. This enables to parametrize the universal Teichmuller space
+by bounded holomorphic quadratric differentials of the hyperbolic plane.
+","[{""version"":""v1"",""created"":""Sun, 12 Aug 2001 12:36:31 GMT""}]","2007-05-23"
+"nlin/0108020","Datsko","B. Y. Datsko, V. V. Gafiychuk, I. A. Lubashevsky, A. V. Priezzhev","Self-localization of laser induced tumor coagulation limited by heat
+  diffusion through active tissue",,,,,"nlin.AO q-bio",,"  We analyze the necrosis growth due to thermal coagulation induced by laser
+light absorption and limited by heat diffusion into the surrounding live
+tissue. The tissue is assumed to contain a certain tumor in the undamaged
+tissue whereof the blood perfusion rate does not change during the action. By
+contrast, the normal tissue responds strongly to increase in the tissue
+temperature and the blood perfusion rate can grow by tenfold. We study in
+detail the necrosis formation under conditions typical for a real course of
+thermal therapy treatment, the duration of the action is taken about 5 minutes
+when a necrosis domain of size about or above 1 cm is formed. In particular, if
+the tumor size is sufficiently large, it exceeds 1 cm, and the tissue response
+is not too delayed, the delay time does not exceed 1 min, then there are
+conditions under which the relative volume of the damaged normal tissue is
+small in comparison with the tumor volume after the tumor is coagulated
+totally.
+","[{""version"":""v1"",""created"":""Sun, 12 Aug 2001 13:49:25 GMT""}]","2007-05-23"
+"quant-ph/0108056","Terry Rudolph","Terry Rudolph and Jian-Wei Pan","A simple gate for linear optics quantum computing","1 page (incl 1 figure)",,,,"quant-ph",,"  We describe a simple scheme for implementing the non-linear sign gate of
+Knill, Laflamme and Milburn (Nature, {\bf 409}, 46-52, Jan. 4 (2001)) which
+forms the basis of an experiment underway at the University of Vienna.
+","[{""version"":""v1"",""created"":""Sat, 11 Aug 2001 16:44:46 GMT""}]","2007-05-23"

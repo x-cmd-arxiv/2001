@@ -1,0 +1,1537 @@
+"astro-ph/0111191","Anthony N. Aguirre","Anthony Aguirre, Steven Gratton","Steady-State Eternal Inflation","Minor modifications to match version in Phys. Rev. D. 7 pages, 2
+  color figures","Phys.Rev. D65 (2002) 083507","10.1103/PhysRevD.65.083507",,"astro-ph gr-qc hep-th",,"  Since the advent of inflation, several theorems have been proven suggesting
+that although inflation can (and generically does) continue eternally into the
+future, it cannot be extended eternally into the past to create a
+``steady-state'' model with no initial time. Here we provide a construction
+that circumvents these theorems and allows a self-consistent, geodesically
+complete, and physically sensible steady-state eternally inflating universe,
+based on the flat slicing of de Sitter space. This construction could be used
+as the background space-time for creation events that form big-bang-like
+regions, and hence could form the basis for a cosmology that is compatible with
+observations and yet which avoids an initial singularity or beginning of time.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 19:41:42 GMT""},{""version"":""v2"",""created"":""Fri, 22 Feb 2002 16:53:37 GMT""}]","2009-11-07"
+"astro-ph/0111194","Nick Gnedin","Nickolay Y. Gnedin and Andrew J. S. Hamilton","Matter Power Spectrum from the Lyman-Alpha Forest: Myth or Reality?","accepted for publication in MNRAS","Mon.Not.Roy.Astron.Soc. 334 (2002) 107-116","10.1046/j.1365-8711.2002.05490.x",,"astro-ph",,"  We investigate possible systematic errors in the recent measurement of the
+matter power spectrum from the Lyman-alpha forest by Croft et al. (2001). We
+find that for a large set of prior cosmological models the Croft et al. result
+holds quite well, with systematic errors being comparable to random ones, when
+a dependence of the recovered matter power spectrum on the cosmological
+parameters at z~3 is taken into account. We find that peculiar velocities cause
+the flux power spectrum to be smoothed over about 100-300 km/s, dependng on
+scale. Consequently, the recovered matter power spectrum is a smoothed version
+of the underlying true power spectrum. Uncertainties in the recovered power
+spectrum are thus correlated over about 100-300 km/s. As a side effect, we find
+that residual fluctuations in the ionizing background, while having almost no
+effect on the recovered matter power spectrum, significantly bias estimates of
+the baryon density from the Lyman-alpha forest data. We therefore conclude that
+the Croft et al. result provides a powerful new constraint on cosmological
+parameters and models of structure formation.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 16:14:44 GMT""},{""version"":""v2"",""created"":""Wed, 20 Mar 2002 20:38:42 GMT""}]","2009-11-07"
+"astro-ph/0111195","C. J. A. P. Martins","P.P. Avelino (1,2), C.J.A.P. Martins (1,3,4) and P. Pinto (2) ((1)
+  CAUP, Porto, (2) DF-FCUP, Porto, (3) DAMTP, Cambridge, (4) IAP, Paris)","Modified Median Statistics and Type Ia Supernova Data","A few clarifying comments and references added. Version to appear in
+  The Astrophysical Journal","Astrophys.J. 575 (2002) 989-995","10.1086/341353","DAMTP-2001-96","astro-ph",,"  The median statistic has recently been discussed by Gott \textit{et al.} as a
+more reliable alternative to the standard $\chi^2$ likelihood analysis, in the
+sense of requiring fewer assumptions about the data and being almost as
+constraining. We apply this statistic to the currently available combined
+dataset of 92 distant type Ia supernovae, and also to a mock SNAP-class
+dataset. We find that the performances of the modified median and $\chi^2$
+statistics are comparable, particularly in the latter case. We further extend
+the work of Gott \textit{et al.} by modifying the median statistic to account
+for the number and size of sequences of consecutive points above or below the
+median. We also comment on how the performance of the statistic depends on the
+choice of free parameters that one is estimating.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 18:27:55 GMT""},{""version"":""v2"",""created"":""Fri, 26 Apr 2002 12:50:29 GMT""}]","2009-11-07"
+"astro-ph/0111196","Kathryn V. Johnston","Kathryn V. Johnston, David N. Spergel and Christian Haydn","How Lumpy is the Milky Way's Dark Matter Halo?","20 pages, 7 figures, submitted to ApJ",,"10.1086/339791",,"astro-ph",,"  CDM simulations predict that there are hundreds of lumps of with masses
+greater than 10e7 solar masses in the Milky Way halo. However, we know of only
+a dozen dwarf satellites close to this mass. Are these lumps simply lacking in
+stars or is there a fundamental flaw in our most popular cosmology? By studying
+the tidal debris of known satellites we can potentially address this question.
+In this paper, we quantify the the effects of the dark matter lumps on tidal
+tails. The lumps scatter stars in the tidal tails from their original orbits
+producing a distinctive signature. We simulate debris evolution in smooth and
+lumpy halos potentials and use our simulations to motivate and test a
+statistical measure of the degree of scattering apparent in the angular
+position and radial velocity measurement of debris stars - the ``scattering
+index''. We find that the scattering index can in general distinguish between
+the levels of substructure predicted by CDM cosmologies and smooth Milky Way
+models, but that the sensitivity of the debris depends on the orientation of
+the parent satellite's orbit relative to the largest lumps orbits.
+  We apply our results to the carbon star stream associated with the
+Sagittarius dwarf galaxy (Sgr) and find that these stars appear to be more
+scattered than we expect for debris orbiting in a smooth halo. However, the
+degree of scattering is entirely consistent with that expected due to the
+influence of the Large Magellanic Cloud, which is on an orbit that intersects
+Sgr's own. We conclude that the current data is unable to constrain CDM models.
+Nevertheless, our study suggests that future data sets of debris stars
+associated with other Milky Way satellites could provide strong constraints on
+CDM models.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 19:03:41 GMT""}]","2009-11-07"
+"astro-ph/0111197","Renyue Cen","Renyue Cen (Princeton University)","A Fast, Accurate and Robust Algorithm For Transferring Radiation in
+  Three-Dimensional Space","submitted to ApJ, 50 pages, added comparisons to ray tracing method","Astrophys.J.Suppl. 141 (2002) 211-228","10.1086/339805",,"astro-ph",,"  We have developed an algorithm for transferring radiation in
+three-dimensional space. The algorithm computes radiation source and sink terms
+using the Fast Fourier Transform (FFT) method, based on a formulation in which
+the integral of any quantity (such as emissivity or opacity) over any volume
+may be written in the classic convolution form. The algorithm is fast with the
+computational time scaling as N (log N)^2, where N is the number of grid points
+of a simulation box, independent of the number of radiation sources.
+Furthermore, in this formulation one can naturally account for both local
+radiation sources and diffuse background as well as any extra external sources,
+all in a self-consistent fashion. Finally, the algorithm is completely stable
+and robust.
+  While the algorithm is generally applicable, we test it on a set of problems
+that encompass a wide range of situations in cosmological applications,
+demonstrating that the algorithm is accurate. These tests show that the
+algorithm produces results that are in excellent agreement with analytic
+expectations in all cases. In particular, radiation flux is guaranteed to
+propagate in the right direction, with the ionization fronts traveling at the
+correct speed with an error no larger than one cell for all the cases tested.
+The total number of photons is conserved in the worst case at 10% level and
+typically at 1-5% level over hundreds of time steps. As an added advantage, the
+accuracy of the results depends weakly on the size of the time step, with a
+typical cosmological hydrodynamic time step being sufficient.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 20:56:56 GMT""},{""version"":""v2"",""created"":""Sat, 10 Nov 2001 15:43:27 GMT""},{""version"":""v3"",""created"":""Mon, 3 Dec 2001 03:57:28 GMT""}]","2009-11-07"
+"astro-ph/0111198","Vicki Sarajedini","Vicki Sarajedini","Spectroscopic and Variability Surveys for AGN in the Groth Survey Strip","6 pages, to appear in IAU Colloq. 184, AGN Surveys",,,,"astro-ph",,"  Preliminary results are presented for a spectroscopic survey of the Groth
+Survey Strip (GSS), a 40 by 3.5 arcminute region of the sky imaged with HST,
+for which several hundred galaxy spectra have been obtained as part of the DEEP
+project (http://deep.ucolick.org). At least 6 broad-line AGNs (primarily
+Seyfert 1s) have been detected as well as several narrow-line Seyfert 2
+candidates. The Seyfert galaxies detected in our survey have integrated
+absolute magnitudes extending to M(B)~-17.5, probing fainter magnitudes and
+higher redshifts than existing optical spectroscopic surveys. We also discuss a
+variability study of the GSS using the original HST images from 1994 and new
+images obtained in 2001. The high resolution obtained with HST allows us to
+isolate and measure variable galactic nuclei too faint to be detected from the
+ground, reaching nuclear magnitudes of M(B)~-16 in galaxies to z=0.8. The
+combination of these techniques provides a powerful probe of the population of
+low-luminosity AGNs at moderate redshifts.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 20:56:14 GMT""}]","2007-05-23"
+"astro-ph/0111199","Titarchuk Lev","Nickolai Shaposhnikov (GMU) and Lev Titarchuk (GMU/NRL/GSFC)","Spectra of the Expansion Stage of X-Ray Bursts","31 pages, 4 figures, accepted by the Astrophysical Journal",,"10.1086/338590",,"astro-ph",,"  We present an analytical theory of thermonuclear X-ray burst atmosphere
+structure. Newtonian gravity and diffusion approximation are assumed.
+Hydrodynamic and thermodynamic profiles are obtained as a numerical solution of
+the Cauchy problem for the first-order ordinary differential equation. We
+further elaborate a combined approach to the radiative transfer problem which
+yields the spectrum of the expansion stage of X-ray bursts in analytical form
+where Comptonization and free-free absorption-emission processes are accounted
+for and tau ~ r^{-2} opacity dependence is assumed. Relaxation method on an
+energy opacity grid is used to simulate radiative diffusion process in order to
+match analytical form of spectrum, which contains free parameter, to energy
+axis. Numerical and analytical results show high similarity. All spectra
+consist of a power-law soft component and diluted black-body hard tail. We
+derive simple approximation formulae usable for mass-radius determination by
+observational spectra fitting.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 21:44:32 GMT""}]","2009-11-07"
+"astro-ph/0111200","Joseph M. Mazzarella","Joseph M. Mazzarella, Barry F. Madore, George Helou, and the NED Team","Capabilities of the NASA/IPAC Extragalactic Database (NED) in the Era of
+  a Global Virtual Observatory","15 pages, 6 figures; astro-ph file size limits required extensive
+  degradation of the quality of the figures. A version with the original high
+  resolution color Postscript figures is available in LEVEL5 at
+  http://ned.ipac.caltech.edu/level5/Sept01/Mazzarella/NED_2001_SPIE_Mazz.ps.gz","in ""Astronomical Data Analysis,"" Jean-Luc Starck, Fionn D.
+  Murtagh, Editors, Proceedings of SPIE Vol. 4477, p. 20 (2001)","10.1117/12.447177",,"astro-ph",,"  We review the capabilities of the NASA/IPAC Extragalactic Database (NED,
+http://ned.ipac.caltech.edu) for information retrieval and knowledge discovery
+in the context of a globally distributed virtual observatory. Since its
+inception in 1990, NED has provided astronomers world-wide with the results of
+a systematic cross-correlation of catalogs covering all wavelengths, along with
+thousands of extragalactic observations culled from published journal articles.
+NED is continuously being expanded and revised to include new catalogs and
+published observations, each undergoing a process of cross-identification to
+capture the current state of knowledge about extragalactic sources in a
+panchromatic fashion. In addition to assimilating data from the literature, the
+team is incrementally folding in millions of observations from new large-scale
+sky surveys such as 2MASS, NVSS, APM, and SDSS. At the time of writing the
+system contains over 3.3 million unique objects with 4.2 million
+cross-identifications. We summarize the recent evolution of NED from its
+initial emphasis on object name-, position-, and literature-based queries into
+a research environment that also assists statistical data exploration and
+discovery using large samples of objects. Newer capabilities enable ""Web
+mining"" of entries in geographically distributed astronomical archives that are
+indexed by object names and positions in NED, sample building using constraints
+on redshifts and object types, and an image archive. A pilot study demonstrates
+how NED is being used in conjunction with linked survey archives to
+characterize the properties of galaxy classes to form a training set for
+machine learning algorithms. Opportunities for tighter integration of NED
+capabilities into data mining tools for astronomy archives are also discussed.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 22:23:54 GMT""}]","2009-11-07"
+"astro-ph/0111201","Anirban Biswas","John Scalo and Anirban Biswas","Turbulent Compressibilty of Protogalactic Gas","8 pages, 5 figures, Accepted for Publication in MNRAS","Mon.Not.Roy.Astron.Soc. 332 (2002) 769","10.1046/j.1365-8711.2002.04974.x",,"astro-ph",,"  The star formation rate in galaxies should be related to the fraction of gas
+that can attain densities large enough for gravitational collapse. In galaxies
+with a turbulent interstellar medium, this fraction is controlled by the
+effective barotropic index $gamma = dlog P/dlog (rho)$ which measures the
+turbulent compressibility. When the cooling timescale is smaller than the
+dynamical timescale, gamma can be evaluated from the derivatives of cooling and
+heating functions, using the condition of thermal equilibrium. We present
+calculations of gamma for protogalaxies in which the metal abundance is so
+small that H_2 and HD cooling dominates. For a heating rate independent of
+temperature and proportional to the first power of density, the turbulent gas
+is relatively ""hard"", with $gamma >= 1$, at large densities, but moderately
+""soft"", $gamma <= 0.8$, at densities below around $10^4 cm^(-3)$. At low
+temperatures the density probability distribution should fall ra pidly for
+densities larger than this value, which corresponds physically to the critical
+density at which collisional and radiative deexcitation rate s of HD are equal.
+The densities attained in turbulent protogalaxies thus depend on the relatively
+large deuterium abundance in our universe. We expect the same physical effect
+to occur in higher metallicity gas with different coolants. The case in which
+adiabatic (compressional) heating due to cloud collapse dominates is also
+discussed, and suggests a criterion for the maximum mass of Population III
+stars.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 23:08:13 GMT""}]","2009-11-07"
+"astro-ph/0111202","James L. Clem","James L. Clem, D. A. VandenBerg (University of Victoria), F. Grundahl
+  (Aarhus Univ.), R. A. Bell (Univ. of Maryland)","Str{\""o}mgren Color-Temperature Relations for Cool Stars","4 pages, 4 figures, to be published in ""Observed HR diagrams and
+  stellar evolution: the interplay between observational constraints and
+  theory"" (Coimbra, June, 2001) ASP Conf. Ser., 2001, T. Lejeune and J.
+  Fernandes, eds",,,,"astro-ph",,"  A new extensive grid of synthetic Str{\""o}mgren colors and bolometric
+corrections is presented for F-M type dwarf and giant stars having 3000K $\leq$
+T$_{\rm{eff}}$ $\leq$ 8000K, 0.0 $\leq$ log $g$ $\leq$ 5.0, and -3.0 $\leq$
+[Fe/H] $\leq$ 0.5. These purely theoretical colors are placed on the
+observational system using color calibrations derived from $uvby$ photometry of
+nearby field stars having $Hipparcos$ parallaxes and effective temperatures
+determined by the infrared flux method. Modern isochrones transformed to the
+observed plane using the resultant color-temperature relations are able to
+reproduce the $uvby$ color-magnitude diagrams of several open and globular
+clusters (notably M 67, M 92, and 47 Tuc) quite satisfactorily.
+","[{""version"":""v1"",""created"":""Sat, 10 Nov 2001 00:12:22 GMT""}]","2007-05-23"
+"astro-ph/0111203","Lloyd Knox","S. Church (1), A. Jaffe (2) and L. Knox (3) ((1) Stanford University,
+  (2) Imperial College, (3) UC Davis)","CMB and Inflation: the report from Snowmass 2001","19 pages, 12 figures","eConfC010630:P406,2001",,,"astro-ph hep-ph",,"  Astrophysical observations provide the best evidence of physics beyond the
+particle physicists' standard model. Over the past decade, the case has
+solidified for inflation, dark energy, dark matter and massive neutrinos. In
+this report we focus on inflation and dark energy as constrained by the
+CMB--first the evidence from current observations and then what we can expect
+to learn in the future. High energy physicists can contribute to the succesful
+realization of this future, both observationally and theoretically.
+","[{""version"":""v1"",""created"":""Sat, 10 Nov 2001 00:59:07 GMT""}]","2008-11-26"
+"astro-ph/0111204","Dong-Hwan Cho","Dong-Hwan Cho, Sang-Gak Lee","The Relation between Near-Infrared Luminosity of RGB Bumps and
+  Metallicity of Galactic Globular Clusters","20 pages with 6 figures, submitted to AJ, 5 pages including 1 figure
+  added, revised according to referee's comments",,"10.1086/341375","SNU-ASTRO-01-029","astro-ph",,"  Using photometric data from the 2MASS second incremental release point source
+catalog we constructed Ks vs. (J-Ks) color-magnitude diagrams (CMDs) of
+Galactic globular clusters (GGCs) for which the JKs photometric data have been
+made available up to now. On the CMDs of 13 GGCs we identified RGB bump
+features and derived luminosities of bumps in Ks and in absolute Ks for 11 of
+them. We reconfirm the relation between abolute Ks magnitude of bump and
+metallicity [Fe/H]CG97 or [M/H] such that the luminosity of bump becomes
+brighter as metallicity [Fe/H]CG97 or [M/H] decreases. This result is similar
+to that obtained by Ferraro et al. (1999) for the relation between abolute V
+magnitude of bump and [M/H] based on observations of 47 GGCs which were
+conducted in the optical region (V vs. (B-V) CMDs). Our results show the same
+trend as those found by Ferraro et al. (2000) for the relations between abolute
+Ks magnitude of bump and metallicity [Fe/H]CG97 and [M/H] derived from
+observations of 8 GGCs in the same near-infrared (K vs. (J-K) CMDs). Combining
+with the data of Ferraro et al. (2000), we derive a robust relation for the
+metal-dependent luminosities of the bumps.
+","[{""version"":""v1"",""created"":""Sat, 10 Nov 2001 08:27:07 GMT""},{""version"":""v2"",""created"":""Tue, 26 Mar 2002 12:54:17 GMT""}]","2009-11-07"
+"astro-ph/0111205","Chris Fassnacht","C. D. Fassnacht (STScI) and L. M. Lubin (JHU)","The Gravitational Lens -- Galaxy Group Connection: I. Discovery of a
+  Group Coincident with CLASS B0712+472","Accepted for publication in the Astronomical Journal. 16 pages, 7
+  figures",,"10.1086/338648",,"astro-ph",,"  Previous observations of the environments of the lensing galaxies in
+gravitational lens systems suggest that many of the lensing galaxies are
+associated with small groups of galaxies. As a result, we have begun a
+coordinated program to study the local environments of all known gravitational
+lens systems. In this paper, we present results on the gravitational lens
+system CLASS B0712+472, which has previously measured source and lens redshifts
+of (z_l,z_s) = (0.4060,1.339). Although we have not found a galaxy group
+associated with the primary lensing galaxy, we have found a foreground group
+which is spatially coincident with the lens system. Based on multi-object
+spectroscopy taken at the Keck 10-m telescope, we have confirmed ten group
+members with a mean redshift of <z> = 0.2909. The resulting velocity dispersion
+and estimated virial mass are 306(+110/-58) km/s and 3.0(+2.2/-1.2) x 10^13
+h^-1 M_sun, respectively, for (Omega_m,Omega_Lambda) = (0.2,0.0). The dynamical
+properties of this moderate-redshift group are completely consistent with the
+range of values found in nearby groups of galaxies. Five of the group members
+are red, elliptical-like galaxies, while the remaining five are active,
+star-forming galaxies. Based on the spectroscopic results and the
+publically-available HST imaging of nine group members, we find that the
+early-type fraction is 40%. We estimate that the effect of this foreground
+group on the gravitational lensing potential of B0712+472 is small, producing
+an external shear which is only a few percent, although the shear could be
+larger if the group centroid is significantly closer to the lens system than it
+appears to be.
+","[{""version"":""v1"",""created"":""Sat, 10 Nov 2001 07:09:07 GMT""}]","2009-11-07"
+"astro-ph/0111206","Alexis Brandeker","Goran Olofsson, Rene Liseau and Alexis Brandeker","Widespread atomic gas emission reveals the rotation of the beta Pictoris
+  disk","9 pages, including 6 figs (fig.1 in colour). Accepted by ApJL","Astrophys.J. 563 (2001) L77","10.1086/338354",,"astro-ph",,"  We present high resolution Na I D spectroscopy of the beta Pic disk, and the
+resonantly scattered sodium emission can be traced from less than 30 AU to at
+least 140 AU from the central star. This atomic gas is co-existent with the
+dust particles, suggestive of a common origin or source. The disk rotates
+towards us in the south-west and away from us in the north-east. The velocity
+pattern of the gas finally provides direct evidence that the faint linear
+feature seen in images of the star is a circumstellar disk in Keplerian
+rotation. From modelling the spatial distribution of the Na I line profiles we
+determine the effective dynamical mass to be 1.40 +/- 0.05 M_sun, which is
+smaller than the stellar mass, 1.75 M_sun. We ascribe this difference to the
+gravity opposing radiation pressure in the Na I lines. We argue that this is
+consistent with the fact that Na is nearly completely ionised throughout the
+disk (Na I/Na < 10^-4). The total column density of sodium gas is N(Na) = 10^15
+cm^-2.
+","[{""version"":""v1"",""created"":""Sat, 10 Nov 2001 14:06:04 GMT""}]","2009-11-07"
+"astro-ph/0111207","Stefano Andreon","S. Andreon (INAF-Oss. Astr. di Capodimonte, Naples, Italy)","Dim galaxies and outer halos of galaxies missed by 2MASS ? The
+  near-infrared luminosity function and density","A&A in press",,"10.1051/0004-6361:20011636",,"astro-ph",,"  By using high-resolution and deep Ks band observations of early-type galaxies
+of the nearby Universe and of a cluster at z=0.3 we show that the two
+luminosity functions (LFs) of the local universe derived from 2MASS data miss a
+fair fraction of the flux of the galaxies (more than 20 to 30%) and a whole
+population of galaxies of central brightness fainter than the isophote used for
+detection, but bright enough to be included in the published LFs. In
+particular, the fraction of lost flux increases as the galaxy surface
+brightness become fainter. Therefore, the so far derived LF slopes and
+characteristic luminosity as well as luminosity density are underestimated.
+Other published near-infrared LFs miss flux in general, including the LF of the
+distant field computed in a 3 arcsec aperture.
+","[{""version"":""v1"",""created"":""Sat, 10 Nov 2001 14:56:20 GMT""}]","2009-11-07"
+"cond-mat/0111149","Marcello Barbosa da Silva Neto","Eduardo C. Marino Marcello B. Silva Neto","Charge pairing and superconductivity in high-Tc cuprate superconductors","4 pages, 2 figures",,,,"cond-mat.str-el cond-mat.supr-con",,"  We propose a model for high-Tc superconductors that includes both the spin
+fluctuations of the Cu++ magnetic ions and of the spins of O-- doped holes
+(spinons). The charge of the dopants (holons) is associated to quantum skyrmion
+excitations of the Cu++ spin background. The quantum skyrmion effective
+interaction potential is evaluated as a function of doping and temperature,
+indicating that Cooper pair formation is determined by the competition between
+these two types of spin fluctuations. The superconducting transition occurs
+when the effective potential allows for skyrmion bound states. Our theoretical
+predictions for the superconducting phase diagram of LSCO and YBCO are in good
+agreement with experiment.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 19:38:46 GMT""},{""version"":""v2"",""created"":""Sat, 10 Nov 2001 19:27:25 GMT""}]","2007-05-23"
+"cond-mat/0111150","In\'es Samengo","Michele Bezzi, Ines Samengo, Stefan Leutgeb and Sheri Mizumori","Measuring information spatial densities","16 pages, 4 figures, to be published in Neural Computation",,,,"cond-mat.dis-nn q-bio.NC",,"  A novel definition of the stimulus-specific information is presented, which
+is particularly useful when the stimuli constitute a continuous and metric set,
+as for example, position in space. The approach allows one to build the spatial
+information distribution of a given neural response. The method is applied to
+the investigation of putative differences in the coding of position in
+hippocampus and lateral septum.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 19:34:08 GMT""}]","2007-05-23"
+"cond-mat/0111171","M. R. Evans","M. R. Evans","Anomalous coarsening and glassy dynamics","31 pages, Contribution to the ESF SPHINX meeting `Glassy behaviour of
+  kinetically constrained models' (Barcelona, March 22-25, 2001) to appear in
+  J. Phys. Cond. Mat","J.Phys:Condens. Matter 14 (2002) 1397-1422","10.1088/0953-8984/14/7/302",,"cond-mat.stat-mech",,"  An overview of the related topics of anomalous coarsening and glassy dynamics
+is given. In anomalous coarsening, the typical domain size of an ordered phase
+grows more slowly with time than the power law dependence that is usually
+observed, for example, in magnetic systems. We discuss how anomlaous coarsening
+may arise through domain-size dependent energy barriers in the coarsening
+process. We also review the phenomenology of glassy dynamics and discuss how
+simple nonequilibrium models may be used to reproduce certain aspects of the
+phenomenology. In particular, models involving dynamical constraints that give
+rise to anomalous coarsening are considered. Two models, the Asymmetric
+Constrained Ising Chain and the ABC model, are discussed in detail with
+emphasis on how the large energy barriers to coarsening arise through the local
+dynamical constraints. Finally, the relevance of models exhibiting anomalous
+coarsening to glassy systems is discussed in a wider context.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 16:03:49 GMT""}]","2009-11-07"
+"cond-mat/0111173","Jonathan Selinger","J.V. Selinger, H.G. Jeon, and B.R. Ratna","Isotropic-Nematic Transition in Liquid-Crystalline Elastomers","4 pages, including 4 postscript figures, uses REVTeX 4","Phys. Rev. Lett. 89, 225701 (2002)","10.1103/PhysRevLett.89.225701",,"cond-mat.soft cond-mat.stat-mech",,"  In liquid-crystalline elastomers, the nematic order parameter and the induced
+strain vary smoothly across the isotropic-nematic transition, without the
+expected first-order discontinuity. To investigate this smooth variation, we
+measure the strain as a function of temperature over a range of applied stress,
+for elastomers crosslinked in the nematic and isotropic phases, and analyze the
+results using a variation on Landau theory. This analysis shows that the smooth
+variation arises from quenched disorder in the elastomer, combined with the
+effects of applied stress and internal stress.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 16:49:55 GMT""},{""version"":""v2"",""created"":""Tue, 2 Apr 2002 16:12:43 GMT""},{""version"":""v3"",""created"":""Thu, 15 Aug 2002 17:14:56 GMT""},{""version"":""v4"",""created"":""Fri, 27 Sep 2002 20:43:18 GMT""}]","2009-11-07"
+"cond-mat/0111174","Ian Campbell","P.O. Mari and I.A. Campbell","Ising Spin Glasses : interaction distribution dependence of the critical
+  exponents","4 pages 2 figures",,,,"cond-mat.dis-nn",,"  Continuous phase transitions are catalogued into universality classes,
+families of systems having identical values of all the exponents governing the
+critical behaviour of their different physical properties. Numerical
+simulations have been carried out on Ising Spin Glasses in dimension three,
+using a technique where corrections to finite size scaling can be controled.
+The data show that the critical exponents vary strongly as a function of the
+kurtosis of the interaction distribution, a parameter which from the standard
+point of view should not be pertinent. This observation implies that for spin
+glasses the renormalization group analysis should not be approached in a the
+same way as in the case of canonical second order transitions; a much richer
+structure of universality classes would appear to exist for spin glasses.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 17:05:53 GMT""}]","2007-05-23"
+"cond-mat/0111175","Martin Hohenadler","M. Hohenadler and D. M. Edwards","Spectral properties of the Holstein double-exchange model and
+  application to manganites","15 pages, 5 figures","J. Phys.: Condes. Matter 14 (2002) 2547-2560","10.1088/0953-8984/14/10/306",,"cond-mat.str-el cond-mat.mtrl-sci",,"  Calculations of one-electron spectral functions, optical conductivity and
+spin-wave energy in the Holstein double-exchange model are made using the
+many-body coherent potential approximation. Satisfactory agreement is obtained
+with angle-resolved photoemission results on La_1.2Sr_1.8Mn_2O_7 and optical
+measurements on Nd_0.7Sr_0.3MnO_3. A pseudogap in the one-electron spectrum at
+the Fermi level plays an important role in both systems, but a small-polaron
+band is only predicted to exist in the La system. A rigorous upper bound on
+spin-wave energies at T=0 is derived. The spin-wave stiffness constant D
+decreases with increasing electron-phonon coupling g in a similar way to the
+Curie temperature Tc, but D/(k_B Tc) increases for large g (low Tc) as observed
+experimentally.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 17:17:56 GMT""},{""version"":""v2"",""created"":""Tue, 18 Jun 2002 10:26:36 GMT""}]","2007-06-13"
+"cond-mat/0111176","Luis E. Gonzalez","David J. Gonzalez, Luis Enrique Gonzalez, Jose Manuel Lopez and
+  Malcolm J. Stott","Dynamical properties of liquid Al near melting. An orbital-free
+  molecular dynamics study","15 pages, 12 figures, 2 tables, submitted to PRB",,"10.1103/PhysRevB.65.184201",,"cond-mat.dis-nn",,"  The static and dynamic structure of liquid Al is studied using the orbital
+free ab-initio molecular dynamics method. Two thermodynamic states along the
+coexistence line are considered, namely T = 943 K and 1323 K for which X-ray
+and neutron scattering data are available. A new kinetic energy functional,
+which fulfills a number of physically relevant conditions is employed, along
+with a local first principles pseudopotential. In addition to a comparison with
+experiment, we also compare our ab-initio results with those obtained from
+conventional molecular dynamics simulations using effective interionic pair
+potentials derived from second order pseudopotential perturbation theory.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 17:37:16 GMT""}]","2009-11-07"
+"cond-mat/0111177","Edmond Orignac","P. Lecheminant (Cergy), E. Orignac (ENS)","Magnetization and dimerization profiles of the cut two-leg spin ladder
+  and spin-1 chain","RevTeX 4, no figure, 26 pages","Phys. Rev. B 65 174406 (2002)","10.1103/PhysRevB.65.174406","LPT-ENS/0141","cond-mat.str-el",,"  The physical properties of the edge states of the cut two-leg spin ladder are
+investigated by means of the bosonization approach. By carefully treating
+boundary conditions, we derive the existence of spin-1/2 edge states in the
+spin ladder with a ferromagnetic rung exchange and for the open spin-1
+Heisenberg chain. In contrast, such states are absent in the antiferromagnetic
+rung coupling case. The approach, based on a mapping onto decoupled
+semi-infinite off-critical Ising models, allows us to compute several physical
+quantities of interest. In particular, we determine the magnetization and
+dimerization profiles of the cut two-leg spin ladder and of the open
+biquadratic spin-1 chain in the vicinity of the SU(2)$_2$ WZNW critical point.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 17:41:14 GMT""},{""version"":""v2"",""created"":""Fri, 23 Nov 2001 10:15:19 GMT""}]","2009-11-07"
+"cond-mat/0111178","J. Aarts","A.Rusanov, R.Boogaard, M.Hesselberth, H. Sellier, J.Aarts","Inhomogeneous superconductivity induced in a weak ferromagnet","4 pages, 4 figures. To be publishedin Physica C (proceedings of the
+  Second Euroconference on Vortex Matter in Superconductors, Crete, 2001)",,"10.1016/S0921-4534(01)01263-1",,"cond-mat.supr-con",,"  Under certain conditions, the order parameter induced by a superconductor (S)
+in a ferromagnet (F) can be inhomogeneous and oscillating, which results e.g.
+in the so-called pi-coupling in S/F/S junctions. In principle, the
+inhomogeneous state can be induced at T_c as function of the F-layer thickness
+d_F in S/F bilayers and multilayers, which should result in a dip-like
+characteristic of T_c(d_F). We show the results of measurements on the S/F
+system Nb/Cu_{1-x}Ni_x, for Ni-concentrations in the range x = 0.5-0.7, where
+such effects might be expected. We find that the critical thickness for the
+occurrence of superconductivity is still relatively high, even for these weak
+ferromagnets. The resulting dip then is intrinsically shallow and difficult to
+observe, which explains the lack of a clear signature in the T_c(d_F) data.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 17:56:27 GMT""}]","2009-11-07"
+"cond-mat/0111179","Aharon Kapitulnik","Nadya Mason and Aharon Kapitulnik","Superconductor-Insulator Transition in a Capacitively Coupled
+  Dissipative Environment","4 pages, 4 figures",,"10.1103/PhysRevB.65.220505",,"cond-mat.supr-con",,"  We present results on disordered amorphous films which are expected to
+undergo a field-tuned Superconductor-Insulator Transition.The addition of a
+parallel ground plane in proximity to the film changes the character of the
+transition.Although the screening effects expected from ""dirty-boson"" theories
+are not evident,there is evidence that the ground plane couples a certain type
+of dissipation into the system,causing a dissipation-induced phase
+transition.The dissipation due to the phase transition couples similarly into
+quantum phase transition systems such as superconductor-insulator transitions
+and Josephson junction arrays.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 19:03:20 GMT""},{""version"":""v2"",""created"":""Fri, 9 Nov 2001 22:21:06 GMT""}]","2009-11-07"
+"cond-mat/0111180","Michael J. Mehl","M. J. Mehl and D. A. Papaconstantopoulos (Naval Research Laboratory,
+  Washington, DC)","Tight-binding study of high-pressure phase transitions in titanium:
+  alpha to omega and beyond","3 encapsulated Postscript figures, submitted to Phyical Review
+  Letters","Europhysics Letters 60, 248 (2002)","10.1209/epl/i2002-00356-y",,"cond-mat.mtrl-sci",,"  We use a tight-binding total energy method, with parameters determined from a
+fit to first-principles calculations, to examine the newly discovered gamma
+phase of titanium. Our parameters were adjusted to accurately describe the
+alpha Ti-omega Ti phase transition, which is misplaced by density functional
+calculations. We find a transition from omega Ti to gamma Ti at 102 GPa, in
+good agreement with the experimental value of 116 GPa. Our results suggest that
+current density functional calculations will not reproduce the omega Ti-gamma
+Ti phase transition, but will instead predict a transition from omega Ti to the
+bcc beta Ti phase.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 19:26:08 GMT""}]","2009-11-07"
+"cond-mat/0111181","Didier Sornette","Simon Gluzman (UCLA) and Didier Sornette (Univ. Nice/CNRS and UCLA)","Classification of Possible Finite-Time Singularities by Functional
+  Renormalization","Latex document of 18 pages + 7 ps figures","Physical Review E 6601 N1 PT2:U315-U328 (2002)","10.1103/PhysRevE.66.016134",,"cond-mat.stat-mech",,"  Starting from a representation of the early time evolution of a dynamical
+system in terms of the polynomial expression of some observable f (t) as a
+function of the time variable in some interval 0 < t < T, we investigate how to
+extrapolate/forecast in some optimal stability sense the future evolution of
+f(t) for time t>T. Using the functional renormalization of Yukalov and Gluzman,
+we offer a general classification of the possible regimes that can be defined
+based on the sole knowledge of the coefficients of a second-order polynomial
+representation of the dynamics. In particular, we investigate the conditions
+for the occurence of finite-time singularities from the structure of the time
+series, and quantify the critical time and the functional nature of the
+singularity when present. We also describe the regimes when a smooth extremum
+replaces the singularity and determine its position and amplitude. This extends
+previous works by (1) quantifying the stability of the functional
+renormalization method more accurately, (2) introducing new global constraints
+in terms of moments and (3) going beyond the ``mean-field'' approximation.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 21:44:10 GMT""}]","2009-11-07"
+"cond-mat/0111182","Hyoung Joon Choi","Hyoung Joon Choi, David Roundy, Hong Sun, Marvin L. Cohen, Steven G.
+  Louie","First-Principles Calculation of the Superconducting Transition in MgB2
+  within the Anisotropic Eliashberg Formalism","4 pages, 3 figures, 1 table","Phys.Rev.B66:020513,2002","10.1103/PhysRevB.66.020513",,"cond-mat.supr-con",,"  We present a study of the superconducting transition in MgB2 using the
+ab-initio pseudopotential density functional method and the fully anisotropic
+Eliashberg equation. Our study shows that the anisotropic Eliashberg equation,
+constructed with ab-initio calculated momentum-dependent electron-phonon
+interaction and anharmonic phonon frequencies, yields an average
+electron-phonon coupling constant lambda = 0.61, a transition temperature Tc =
+39 K, and a boron isotope-effect exponent alphaB = 0.31 with a reasonable
+assumption of mu* = 0.12. The calculated values for Tc, lambda, and alphaB are
+in excellent agreement with transport, specific heat, and isotope effect
+measurements respectively. The individual values of the electron-phonon
+coupling lambda(k,k') on the various pieces of the Fermi surface however vary
+from 0.1 to 2.5. The observed Tc is a result of both the raising effect of
+anisotropy in the electron-phonon couplings and the lowering effect of
+anharmonicity in the relevant phonon modes.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 22:16:56 GMT""}]","2009-02-05"
+"cond-mat/0111183","Hyoung Joon Choi","Hyoung Joon Choi, David Roundy, Hong Sun, Marvin L. Cohen, Steven G.
+  Louie","Superconducting energy gaps, low temperature specific heat, and
+  quasiparticle spectra of MgB2","13 pages, 4 figures",,,,"cond-mat.supr-con",,"  We report first-principles calculations of the k- and T-dependent
+superconducting gap Delta(k,T) in MgB2 and its manifestation in various
+measured quantities. Because the Fermi surface has disconnected sheets with
+different electron-phonon coupling strengths, our calculations show that near
+T=0, the values of Delta(k) cluster into two groups: large values (about 6.5 to
+7.5 meV) on the strongly coupled sheets and small values (about 1 to 3 meV) on
+the weakly coupled sheets. The calculated gap, quasiparticle density of states,
+and specific heat and their temperature dependences are in agreement with the
+recent measurements which conclude that MgB2 is a multiple gap superconductor.
+In fact, theory predicts four prominent values for the gap at low T.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 22:44:05 GMT""}]","2007-05-23"
+"cond-mat/0111184","Mona Berciu","R. N. Bhatt, Mona Berciu, Malcolm P. Kennett, Xin Wan","Diluted Magnetic Semiconductors in the Low Carrier Density Regime","10 pages + 10 figures; Spintronics 2001","Journal of Superconductivity INM 15, pp. 71-83 (2002)",,,"cond-mat.mtrl-sci cond-mat.mes-hall",,"  This paper, based on a presentation at the Spintronics 2001 conference,
+provides a review of our studies on II-VI and III-V Mn-doped Diluted Magnetic
+Semiconductors. We use simple models appropriate for the low carrier density
+(insulating) regime, although we believe that some of the unusual features of
+the magnetization curves should qualitatively be present at larger dopings
+(metallic regime) as well. Positional disorder of the magnetic impurities
+inside the host semiconductor is shown to have observable consequences for the
+shape of the magnetization curve. Below the critical temperature the
+magnetization is spatially inhomogeneous, leading to very unusual temperature
+dependence of the average magnetization as well as specific heat. Disorder is
+also found to enhance the ferromagnetic transition temperature. Unusual spin
+and charge transport is implied.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 23:08:18 GMT""}]","2007-05-23"
+"cond-mat/0111185","Varelogiannis Giorgos","P.M. Oppeneer and G. Varelogiannis","Unconventional Superconductivity in UPd_2Al_3 from Realistic
+  Selfconsistent Calculations","4 pages and 3 figures (two color figures)",,,,"cond-mat.supr-con cond-mat.str-el",,"  Realistic selfconsistent calculations of unconventional superconductivity in
+a heavy-fermion material are reported. Our calculations for UPd$_2$Al$_3$ start
+from accurate energy band dispersions that are computed within the local
+spin-density functional theory and provide Fermi surfaces in agreement with
+experiment. Using physically motivated, realistic pairing potentials it is
+shown that the superconducting gap has two lines of nodes around the z-axis,
+thus exhibiting d-wave symmetry in the $A_{1g}$ representation of the $D_{6h}$
+point group. Our results suggest that in a superconductor with gap nodes, the
+prevailing gap symmetry is dictated by the constraint that nodes must be as far
+as possible from high-density areas.
+","[{""version"":""v1"",""created"":""Sat, 10 Nov 2001 01:34:31 GMT""}]","2007-05-23"
+"cond-mat/0111186","Hongwei Xiong","Hongwei Xiong, Shujuan Liu, Guoxiang Huang, FengMin Wu, Zhijun Xu","Probability Distributions and Particle Number Fluctuations of Trapped
+  Bose-Einstein Condensates in Different Dimensions","RevTex 10 pages, 7 figures, E-mail: hwxiong@sohu.com",,,,"cond-mat.soft cond-mat.stat-mech",,"  The analytical probability distribution of finite systems obeying
+Bose-Einstein statistics in one, two, and three dimensions are investigated by
+using a canonical ensemble approach. Starting from the canonical partition
+function of the system, a unified approach is provided to study the probability
+distribution of a condensate for various confinements and in different
+dimensions. Based on the probability distribution function, it is
+straightforward to obtain the mean ground state occupation number and particle
+number fluctuations of the condensate. It is found that the particle number
+fluctuations in a trapped Bose gas are strongly dependent on the type of
+confining potential and on the dimensionality of the system.
+","[{""version"":""v1"",""created"":""Sat, 10 Nov 2001 02:08:29 GMT""}]","2007-05-23"
+"cond-mat/0111187","Mark D. Lumsden","M.D. Lumsden, S.R. Dunsiger, J.E. Sonier, R.I. Miller, R.F. Kiefl, R.
+  Jin, J. He, D. Mandrus, S.T. Bramwell, and J.S. Gardner","Temperature Dependence of the Magnetic Penetration Depth in the Vortex
+  State of the Pyrochlore Superconductor, Cd2Re2O7","4 pages, 4 figures, REVTEX 4, submitted to PRL",,"10.1103/PhysRevLett.89.147002",,"cond-mat.supr-con cond-mat.str-el",,"  We report transverse field and zero field muon spin rotation studies of the
+superconducting rhenium oxide pyrochlore, Cd2Re2O7. Transverse field
+measurements (H=0.007 T) show line broadening below Tc, which is characteristic
+of a vortex state, demonstrating conclusively the type-II nature of this
+superconductor. The penetration depth is seen to level off below about 400 mK
+(T/Tc~0.4), with a rather large value of lambda (T=0)~7500A. The temperature
+independent behavior below ~ 400 mK is consistent with a nodeless
+superconducting energy gap. Zero-field measurements indicate no static magnetic
+fields developing below the transition temperature.
+","[{""version"":""v1"",""created"":""Sat, 10 Nov 2001 04:54:17 GMT""}]","2009-11-07"
+"cond-mat/0111188","Rodney J. Baxter","R.J. Baxter","Completeness of the Bethe ansatz for the six and eight-vertex models","40 pages, no figures","J.Statist.Phys. 108 (2002) 1-48",,,"cond-mat.stat-mech hep-th math-ph math.MP",,"  We discuss some of the difficulties that have been mentioned in the
+literature in connection with the Bethe ansatz for the six-vertex model and XXZ
+chain, and for the eight-vertex model. In particular we discuss the ``beyond
+the equator'', infinite momenta and exact complete string problems. We show how
+they can be overcome and conclude that the coordinate Bethe ansatz does indeed
+give a complete set of states, as expected.
+","[{""version"":""v1"",""created"":""Sat, 10 Nov 2001 06:06:41 GMT""},{""version"":""v2"",""created"":""Thu, 7 Feb 2002 02:47:57 GMT""}]","2007-05-23"
+"cond-mat/0111189","Chung-Yu Mou","Bor-Luen Huang and Chung-Yu Mou","Current transport in a superconducting superlattice system","21 pages, 14 figures",,,,"cond-mat.supr-con cond-mat.str-el",,"  We investigate the effect of the superlattice structure on the single
+particle transport along the c-axis of high temperature superconductors. In
+particular, superlattice systems that consists of metals/insulators and d-wave
+superconductors (NS/IS superlattice) are considered. We find that for the NS
+superlattice in the large mass anisotropy limit of the metal, the density of
+state in the low energy section is bulk d-wave like except that the position of
+the quasi-particle peak can be considerably smaller than the gap value, while
+for the IS superlattice, the quasi-particle peak remains at the gap value. We
+also calculate the nonlinear differential conductance in the planar junction
+measurement. It is found that the width of the Andreev peak at zero-bias may be
+affected strongly by the superlattice structure, specifically, it can be
+considerably reduced due to the destructive interference of the Andreev
+reflections from all the superconductors. Such a reduction in the width makes
+the Andreev peak resonant-like and has been observed in a recent experiment.
+","[{""version"":""v1"",""created"":""Sat, 10 Nov 2001 06:49:34 GMT""}]","2007-05-23"
+"cond-mat/0111190","Masatoshi Sato","Masafumi Ito, Hiroshi Harashina, Yukio Yasui, Masaki Kanada, Satoshi
+  Iikubo, Masatoshi Sato, Akito Kobayashi and Kazuhisa Kakurai","Detailed Structure of the Magnetic Excitation Spectra of YBa2Cu3Oy and
+  Its Implication on the Physical Characteristics of the Electron System","12 pages, 6 figures, J. Phys. Soc. Jpn. 71 (2002) No.1 265","J. Phys. Soc. Jpn. 71 (2002) 265","10.1143/JPSJ.71.265",,"cond-mat.str-el cond-mat.supr-con",,"  Detailed structure of the magnetic excitation spectra x""(q,w) of the
+superconducting oxide YBa2Cu3O6.5(the transition temperature Tc ~ 52 K) in the
+wave vector (q)- and the energy(w)-space, and its temperature (T) dependence
+have been studied. By adopting an effective energy dispersion of the quasi
+particles which can reproduce the shape of the Fermi surface and by introducing
+the exchange interaction between the Cu spins, a rather satisfactory agreement
+between the calculation and the experimentally observed data can be obtained.
+In the study, it has been found that the effects of the quasi particle- energy
+broadening on the excitation spectra x""(q,w) is important. The sharp resonance
+peak observed at w ~ 40 meV for the optimally doped system of YBa2Cu3Oy can be
+naturally reproduced by the present model
+","[{""version"":""v1"",""created"":""Sat, 10 Nov 2001 07:15:50 GMT""},{""version"":""v2"",""created"":""Fri, 16 Nov 2001 08:30:53 GMT""},{""version"":""v3"",""created"":""Tue, 2 Apr 2002 02:46:35 GMT""}]","2009-11-07"
+"cond-mat/0111191","Ihor Lubashevsky","Reinhart Kuhne, Reinhard Mahnke, Ihor Lubashevsky, Jevgenijs Kaupuzs","Probabilistic Description of Traffic Breakdowns","RevTeX 4, 14 pages, 10 figures",,"10.1103/PhysRevE.65.066125",,"cond-mat.soft cond-mat.stat-mech",,"  We analyze the characteristic features of traffic breakdown. To describe this
+phenomenon we apply to the probabilistic model regarding the jam emergence as
+the formation of a large car cluster on highway. In these terms the breakdown
+occurs through the formation of a certain critical nucleus in the metastable
+vehicle flow, which enables us to confine ourselves to one cluster model. We
+assume that, first, the growth of the car cluster is governed by attachment of
+cars to the cluster whose rate is mainly determined by the mean headway
+distance between the car in the vehicle flow and, may be, also by the headway
+distance in the cluster. Second, the cluster dissolution is determined by the
+car escape from the cluster whose rate depends on the cluster size directly.
+The latter is justified using the available experimental data for the
+correlation properties of the synchronized mode. We write the appropriate
+master equation converted then into the Fokker-Plank equation for the cluster
+distribution function and analyze the formation of the critical car cluster due
+to the climb over a certain potential barrier. The further cluster growth
+irreversibly gives rise to the jam formation. Numerical estimates of the
+obtained characteristics and the experimental data of the traffic breakdown are
+compared. In particular, we draw a conclusion that the characteristic intrinsic
+time scale of the breakdown phenomenon should be about one minute and explain
+the case why the traffic volume interval inside which traffic breakdown is
+observed is sufficiently wide.
+","[{""version"":""v1"",""created"":""Sat, 10 Nov 2001 10:01:16 GMT""}]","2013-05-29"
+"cond-mat/0111193","Sh. Khachatryan","J. Ambjorn, Sh. Khachatryan, A. Sedrakyan","3D Ising Model on Dual BCC Lattice: the Sign-Factor","Talk presented in workshop in honor of 70 year Jubilee of S.Matinyan,
+  Yerevan, September, 2001",,,,"cond-mat",,"  The 3d Ising model on a regular cubic lattice can be expressed in terms of an
+SU(2) 2d fermionic model with a $Z_2$-fluxes. We modify the model such that it
+is defined on the dual to a body centered cubic lattice. The advantage of this
+lattice is that 2d embedded surfaces have no selfintersections, thus partially
+avoiding the Sign-factor problem associated with the 2d fermionoc models
+related to the 3d Ising model. Rather than solving the full SU(2) fermionic
+theory on this lattice we study the simpler model of scalar fermions and find
+the spectrum of excitations. The model has no mass gap. We reformulate the
+model using the R-formalism and a new interesting structure appears due to the
+necessity of introducing a three-paticle matrix $R^{(3)}_{ijk}$. It encodes the
+essential character of the Sign-factor. We analyse the integrability properties
+of this class of models.
+","[{""version"":""v1"",""created"":""Sat, 10 Nov 2001 13:15:49 GMT""}]","2007-05-23"
+"cond-mat/0111194","Michael Sampels","Francesc Comellas, Michael Sampels","Deterministic Small-World Networks","6 pages, 1 figure",,"10.1016/S0378-4371(02)00741-0",,"cond-mat",,"  Many real life networks, such as the World Wide Web, transportation systems,
+biological or social networks, achieve both a strong local clustering (nodes
+have many mutual neighbors) and a small diameter (maximum distance between any
+two nodes). These networks have been characterized as small-world networks and
+modeled by the addition of randomness to regular structures. We show that
+small-world networks can be constructed in a deterministic way. This exact
+approach permits a direct calculation of relevant network parameters allowing
+their immediate contrast with real-world networks and avoiding complex computer
+simulations.
+","[{""version"":""v1"",""created"":""Sat, 10 Nov 2001 13:57:58 GMT""}]","2009-11-07"
+"cond-mat/0111195","Francesca Maria Marchetti","Francesca M. Marchetti (1 and 2) and B. D. Simons (2) ((1) Scuola
+  Normale Superiore, (2) Cavendish Laboratory)","Tail States in Disordered Superconductors with Magnetic Impurities: the
+  Unitarity Limit","18 pages AMSLaTeX (with LaTeX2e), 6 eps figures","J. Phys. A: Math. Gen. 35 (2002) 4201-4217","10.1088/0305-4470/35/19/302",,"cond-mat.supr-con cond-mat.mes-hall",,"  When subject to a weak magnetic impurity distribution, the order parameter
+and quasi-particle energy gap of a weakly disordered bulk s-wave superconductor
+are suppressed. In the Born scattering limit, recent investigations have shown
+that `optimal fluctuations' of the random impurity potential can lead to the
+nucleation of `domains' of localised states within the gap region predicted by
+the conventional Abrikosov-Gor'kov mean-field theory, rendering the
+superconducting system gapless at any finite impurity concentration. By
+implementing a field theoretic scheme tailored to the weakly disordered system,
+the aim of the present paper is to extend this analysis to the consideration of
+magnetic impurities in the unitarity scattering limit. This investigation
+reveals that the qualitative behaviour is maintained while the density of
+states exhibits a rich structure.
+","[{""version"":""v1"",""created"":""Sat, 10 Nov 2001 14:20:59 GMT""}]","2009-11-07"
+"cond-mat/0111196","Iya Khalil","I. G. Khalil (Gene Network Sciences), N. W. Ashcroft (Cornell), M.
+  Teter (Cornell)","Singular Structure and Enhanced Friedel Oscillations in the
+  Two-Dimensional Electron Gas",,,"10.1103/PhysRevB.65.195309",,"cond-mat.str-el",,"  We calculate the leading order corrections (in $r_s$) to the static
+polarization $\Pi^{*}(q,0,)$, with dynamically screened interactions, for the
+two-dimensional electron gas. The corresponding diagrams all exhibit singular
+logarithmic behavior in their derivatives at $q=2 k_F$ and provide significant
+enhancement to the proper polarization particularly at low densities. At a
+density of $r_s=3$, the contribution from the leading order {\em fluctuational}
+diagrams exceeds both the zeroth order (Lindhard) response and the self-energy
+and exchange contributions. We comment on the importance of these diagrams in
+two-dimensions and make comparisons to an equivalent three-dimensional electron
+gas; we also consider the impact these finding have on $\Pi^{*}(q,0)$ computed
+to all orders in perturbation theory.
+","[{""version"":""v1"",""created"":""Sat, 10 Nov 2001 15:54:05 GMT""}]","2009-11-07"
+"cs/0111030","Hai Dong","H. Dong, R. Flood, C. Hovater, J. Musson","A Dual Digital Signal Processor VME Board For Instrumentation And
+  Control Applications","3 PDF pages","eConf C011127:THAP049,2001",,,"cs.AR",,"  A Dual Digital Signal Processing VME Board was developed for the Continuous
+Electron Beam Accelerator Facility (CEBAF) Beam Current Monitor (BCM) system at
+Jefferson Lab. It is a versatile general-purpose digital signal processing
+board using an open architecture, which allows for adaptation to various
+applications. The base design uses two independent Texas Instrument (TI)
+TMS320C6711, which are 900 MFLOPS floating-point digital signal processors
+(DSP). Applications that require a fixed point DSP can be implemented by
+replacing the baseline DSP with the pin-for-pin compatible TMS320C6211. The
+design can be manufactured with a reduced chip set without redesigning the
+printed circuit board. For example it can be implemented as a single-channel
+DSP with no analog I/O.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 16:04:17 GMT""}]","2014-11-17"
+"cs/0111031","Robert W. Carey","Robert W. Carey, Kirby W. Fong, Randy J. Sanchez, Joseph D. Tappero,
+  John P. Woodruff","Large-Scale Corba-Distributed Software Framework for Nif Controls","5 pages, 0 figures, ICALEPCS '01","eConf C011127 (2001) THAI001",,"THAI001","cs.DC",,"  The Integrated Computer Control System (ICCS) is based on a scalable software
+framework that is distributed over some 325 computers throughout the NIF
+facility. The framework provides templates and services at multiple levels of
+abstraction for the construction of software applications that communicate via
+CORBA (Common Object Request Broker Architecture). Various forms of
+object-oriented software design patterns are implemented as templates to be
+extended by application software. Developers extend the framework base classes
+to model the numerous physical control points, thereby sharing the
+functionality defined by the base classes. About 56,000 software objects each
+individually addressed through CORBA are to be created in the complete ICCS.
+Most objects have a persistent state that is initialized at system start-up and
+stored in a database. Additional framework services are provided by centralized
+server programs that implement events, alerts, reservations, message logging,
+database/file persistence, name services, and process management. The ICCS
+software framework approach allows for efficient construction of a software
+system that supports a large number of distributed control points representing
+a complex control application.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 16:40:09 GMT""}]","2007-05-23"
+"cs/0111032","Brian Oerter","B. oerter, R. Nelson, T. Shea, C. Sibley","SNS Timing System",,"eConf C011127 (2001) FRAT001",,,"cs.AR",,"  This poster describes the timing system being designed for Spallation Neutron
+Source being built at Oak Ridge National lab.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 19:08:57 GMT""}]","2007-05-23"
+"cs/0111033","Andy GOtz","A.Gotz, A.Homs, B.Regad, M.Perez, P.Makijarvi, W.D.Klotz","Modernising the ESRF control system with GNU/Linux","3 pages","eConf C011127 (2001) WEAP023",,"WEAP023","cs.DC",,"  he ESRF control system is in the process of being modernised. The present
+contrsystem is based on VME, 10 MHz Ethernet, OS9, Solaris, HP-UX, NFS/RPC,
+Motif and C. The new control system will be based on compact PCI, 100 MHz
+Ethernet, Linux, Windows, Solaris, CORBA/IIOP, C++, Java and Python. The main
+frontend operating system will be GNU/Linux running on Intel/x86 and
+Motorola/68k. Linux will also be used on handheld devices for mobile control.
+This poster describes how GNU/Linux is being used to modernise the control
+system and what problems have been encountered so far
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 20:08:18 GMT""}]","2007-05-23"
+"cs/0111034","Grega Milcinski","G. Milcinski, M. Plesko, M. Sekoranja","Experiences with advanced CORBA services","Poster THAP005, ICALEPS 2001, 3 pages (ZIP and WORD file)","eConf C011127 (2001) THAP005",,,"cs.PF",,"  The Common Object Request Broker Architecture (CORBA) is successfully used in
+many control systems (CS) for data transfer and device modeling. Communication
+rates below 1 millisecond, high reliability, scalability, language independence
+and other features make it very attractive. For common types of applications
+like error logging, alarm messaging or slow monitoring, one can benefit from
+standard CORBA services that are implemented by third parties and save
+tremendous amount of developing time. We have started using few CORBA services
+on our previous CORBA-based control system for the light source ANKA [1] and
+use now several CORBA services for the ALMA Common Software (ACS) [2], the core
+of the control system of the Atacama Large Millimeter Array. Our experiences
+with the interface repository (IFR), the implementation repository, the naming
+service, the property service, telecom log service and the notify service from
+different vendors are presented. Performance and scalability benchmarks have
+been performed.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 22:33:58 GMT""}]","2007-05-23"
+"cs/0111035","Till Straumann","Till Straumann","Open Source Real Time Operating Systems Overview","Talk at ICALEPCS 2001 Conference, Nov 2001, San Jose, USA, (WEBT001),
+  3 pages, LaTex","eConf C011127 (2001) WEBT001",,,"cs.OS",,"  Modern control systems applications are often built on top of a real time
+operating system (RTOS) which provides the necessary hardware abstraction as
+well as scheduling, networking and other services. Several open source RTOS
+solutions are publicly available, which is very attractive, both from an
+economic (no licensing fees) as well as from a technical (control over the
+source code) point of view. This contribution gives an overview of the RTLinux
+and RTEMS systems (architecture, development environment, API etc.). Both
+systems feature most popular CPUs, several APIs (including Posix), networking,
+portability and optional commercial support. Some performance figures are
+presented, focusing on interrupt latency and context switching delay.
+","[{""version"":""v1"",""created"":""Sat, 10 Nov 2001 03:30:11 GMT""}]","2007-05-23"
+"gr-qc/0111030","Jacek Jezierski","Jacek Jezierski","""Peeling property"" for linearized gravity in null coordinates","27 pages","Class.Quant.Grav. 19 (2002) 2463-2490","10.1088/0264-9381/19/9/310","20/2001, CNRS UMR 6083","gr-qc",,"  A complete description of the linearized gravitational field on a flat
+background is given in terms of gauge-independent quasilocal quantities. This
+is an extension of the results from gr-qc/9801068. Asymptotic spherical
+quasilocal parameterization of the Weyl field and its relation with Einstein
+equations is presented. The field equations are equivalent to the wave
+equation. A generalization for Schwarzschild background is developed and the
+axial part of gravitational field is fully analyzed. In the case of axial
+degree of freedom for linearized gravitational field the corresponding
+generalization of the d'Alembert operator is a Regge-Wheeler equation. Finally,
+the asymptotics at null infinity is investigated and strong peeling property
+for axial waves is proved.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 16:15:18 GMT""}]","2009-11-07"
+"hep-ex/0111035","Bruce A. Schumm","SLD Collaboration: Kenji Abe, et al","Improved Direct Measurement of $A_b$ and $A_c$ at the $Z^0$ Pole Using a
+  Lepton Tag","14 pages, 2 figures, to be submitted to Physical Review Letters.
+  Version two contains changes to meet suggestions of reviewers. Version three
+  corrects a problem in Figure 2 that I hadn't noticed","Phys.Rev.Lett.88:151801,2002","10.1103/PhysRevLett.88.151801","SLAC-PUB-8951, SCIPP-01/38","hep-ex",,"  The parity violation parameters $A_b$ and $A_c$ of the $Zb{\bar b}$ and
+$Zc\bar{c}$ couplings have been measured directly, using the polar angle
+dependence of the polarized cross sections at the $Z^0$ pole. Bottom and
+charmed hadrons were tagged via their semileptonic decays. Both the electron
+and muon analyses take advantage of new multivariate techniques to increase the
+analyzing power. Based on the 1993-98 SLD sample of 550,000 $Z^0$ decays
+produced with highly polarized electron beams we measure $ A_b = 0.919 \pm
+0.030_{stat} \pm 0.024_{syst} $, and $ A_c = 0.583 \pm 0.055_{stat} \pm
+0.055_{syst} $.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 20:22:05 GMT""},{""version"":""v2"",""created"":""Sat, 16 Feb 2002 01:12:57 GMT""},{""version"":""v3"",""created"":""Fri, 22 Feb 2002 00:40:23 GMT""}]","2008-11-26"
+"hep-ex/0111037","Hiroyasu Tajima","The Belle Collaboration: Hiro Tajima","Belle B Physics Results","29 pages, 15 figures, latex, Contributed to the Proceedings of the XX
+  International Symposium on Lepton and Photon Interactions at High Energies,
+  July 23--28, 2001, Rome, Italy","Int.J.Mod.Phys.A17:2967-2981,2002","10.1142/S0217751X02012533","BELLE Preprint 2001-16, KEK Preprint 2001-136","hep-ex",,"  B physics results from the Belle experiment are reviewed. Precise
+measurements of Cabbibo-Kobayashi-Maskawa matrix elements are made. Several
+decay modes are observed which will enable us to measure the CP angles, phi_i
+in channels other than B0->psi K0 modes. New rare decay modes are observed in
+many channels. Particular attention is paid to the first observation of the
+electroweak penguin-mediated decay.
+","[{""version"":""v1"",""created"":""Sat, 10 Nov 2001 07:56:34 GMT""}]","2010-11-23"
+"hep-ph/0111107","Guy Moore","Peter Arnold, Guy D. Moore, Laurence G. Yaffe","Photon Emission from Quark-Gluon Plasma: Complete Leading Order Results","23 pages, including 9 figures","JHEP 0112:009,2001","10.1088/1126-6708/2001/12/009","UW/PT 01-22","hep-ph nucl-ex",,"  We compute the photon emission rate of an equilibrated, hot QCD plasma at
+zero chemical potential, to leading order in both alpha_{EM} and the QCD
+coupling g_s(T). This requires inclusion of near-collinear bremsstrahlung and
+inelastic pair annihilation contributions, and correct incorporation of
+Landau-Pomeranchuk-Migdal suppression effects for these processes. Analogous
+results for a QED plasma are also included.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 20:55:55 GMT""}]","2010-02-03"
+"hep-ph/0111114","Markus H. Thoma","Thomas Peitzmann and Markus H. Thoma","Direct Photons from Relativistic Heavy-Ion Collisions","91 pages, 44 figures, revised version to be published in Phys. Rep","Phys.Rept. 364 (2002) 175-246","10.1016/S0370-1573(02)00012-1",,"hep-ph hep-ex nucl-ex nucl-th",,"  Direct photons have been proposed as a promising signature for the
+quark-gluon plasma (QGP) formation in relativistic heavy-ion collisions.
+Recently WA98 presented the first data on direct photons in Pb+Pb-collisions at
+SPS. At the same time RHIC started with its experimental program. The discovery
+of the QGP in these experiments relies on a comparison of data with theoretical
+predictions for QGP signals. In the case of direct photons new results for the
+production rates of thermal photons from the QGP and a hot hadron gas as well
+as for prompt photons from initial hard parton scatterings have been proposed
+recently. Based on these rates a variety of different hydrodynamic models,
+describing the space-time evolution of the fireball, have been adopted for
+calculating the direct photon spectra. The results have been compared to the
+WA98 data and predictions for RHIC and LHC have been made. So far the
+conclusions of the various models are controversial.
+  The aim of the present review is to provide a comprehensive and up-to-date
+survey and status report on the experimental and theoretical aspects of direct
+photons in relativistic heavy-ion collisions.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 18:50:21 GMT""},{""version"":""v2"",""created"":""Tue, 7 May 2002 14:23:17 GMT""}]","2009-11-07"
+"hep-ph/0111115","Peter Schupp","X. Calmet, B. Jurco, P. Schupp, J. Wess, M. Wohlgenannt","The Standard Model on Non-Commutative Space-Time","28 pages, v3: typos corrected, new appendix on alternative kinetic
+  terms for gauge bosons; v4: typos corrected","Eur.Phys.J.C23:363-376,2002","10.1007/s100520100873",,"hep-ph hep-th",,"  We consider the Standard Model on a non-commutative space and expand the
+action in the non-commutativity parameter theta. No new particles are
+introduced, the structure group is SU(3) x SU(2) x U(1). We derive the leading
+order action. At zeroth order the action coincides with the ordinary Standard
+Model. At leading order in theta we find new vertices which are absent in the
+Standard Model on commutative space-time. The most striking features are
+couplings between quarks, gluons and electroweak bosons and many new vertices
+in the charged and neutral currents. We find that parity is violated in
+non-commutative QCD. The Higgs mechanism can be applied. QED is not deformed in
+the minimal version of the NCSM to the order considered.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 20:31:10 GMT""},{""version"":""v2"",""created"":""Sun, 11 Nov 2001 20:49:33 GMT""},{""version"":""v3"",""created"":""Wed, 21 Nov 2001 21:28:51 GMT""},{""version"":""v4"",""created"":""Tue, 9 Jul 2002 14:03:50 GMT""}]","2011-01-05"
+"hep-ph/0111116","Luis Bento","Luis Bento and Zurab Berezhiani","Baryogenesis: The Lepton Leaking Mechanism","11 pages, 2 figures; Talk given (LB) at the XI International School:
+  Particles and Cosmology, Baksan Valley, Kabardino-Balkaria, Russia, 18-24
+  April, 2001",,,,"hep-ph astro-ph",,"  We propose a baryo- and leptogenesis mechanism in which the B-L asymmetry is
+produced in the conversion of ordinary leptons into particles of some depleted
+hidden sector. In particular, we consider the lepton number violating
+reactions, l Higgs -> l' Higgs', \bar{l'} \bar{Higgs'}, mediated by the heavy
+Majorana neutrinos N of the seesaw mechanism, where l and Higgs are ordinary
+lepton and Higgs doublets and l', Higgs' the ``sterile'' leptons and Higgs.
+This mechanism can operate even if the reheat temperature is smaller than the N
+Majorana masses, in which case the usual leptogenesis mechanism through N
+decays is ineffective. In particular, the reheat tempearture can be as low as
+10^9 GeV or less.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 21:05:37 GMT""},{""version"":""v2"",""created"":""Tue, 20 Nov 2001 17:24:41 GMT""}]","2009-09-25"
+"hep-ph/0111117","Ruben Flores","Ruben Flores-Mendieta, A. Garcia, A. Martinez, J.J. Torres","Radiative corrections to the semileptonic Dalitz plot with angular
+  correlation between polarized decaying and emitted hyperons: effects of the
+  four-body region","16 pages, REVTEX","Phys.Rev.D65:074002,2002","10.1103/PhysRevD.65.074002",,"hep-ph",,"  We obtain a model-independent expression for the complete Dalitz plot of
+semileptonic decays of polarized hyperons, which includes both the three-body
+and the four-body regions. We calculate radiative corrections to order alpha,
+neglecting terms of order alpha q/(pi M_1), where q is the four-momentum
+transfer and M_1 is the mass of the decaying hyperon. Our results exhibit
+explicitly the correlation between the emitted hyperon three-momentum and the
+spin of the decaying hyperon. This allows us to obtain the corresponding
+radiative corrections to the integrated emitted hyperon spin-asymmetry
+coefficient. Our formulas are valid for charged as well as for neutral decaying
+hyperons and are appropriate for model-independent experimental analysis
+whether the real photon is discriminated or not.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 20:20:46 GMT""}]","2014-11-17"
+"hep-ph/0111118","Giancarlo D'Ambrosio","Giancarlo D'Ambrosio, Dao-Neng Gao","Long-distance contribution to the muon-polarization asymmetry in K^+\to
+  \pi^+ \mu \mu","11 pages, 2 figures","Phys.Rev.D65:076001,2002","10.1103/PhysRevD.65.076001","INFNNA-IV-2001/24, CERN-TH/2001-312","hep-ph",,"  We revisit the calculation of the long-distance contribution to the
+muon-polarization asymmetry \Delta_{LR}, which arises, in
+K^+\to\pi^+\mu^+\mu^-, from the two-photon intermediate state. The
+parity-violating amplitude of this process, induced by the local anomalous
+K^+\pi^-\gamma^*\gamma^* transition, is analysed; unfortunately, one cannot
+expect to predict its contribution to the asymmetry by using chiral
+perturbation theory alone. Here we evaluate this amplitude and its contribution
+to \Delta_{LR} by employing a phenomenological model called the FMV model, in
+which the utility of the vector and axial-vector resonances exchange is
+important to soften the ultraviolet behaviour of the transition. We find that
+the long-distance contribution is of the same order of magnitude as the
+standard model short-distance contribution.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 18:40:18 GMT""}]","2014-11-17"
+"hep-ph/0111119","John R. Hiller","J.R. Hiller","Wave functions and spectra from (S)DLCQ","5 pages, 2 figures, espcrc2.sty; to appear in the proceedings of the
+  International Workshop on Light-Cone Physics: Particles and Strings, Trento,
+  Italy, September 3-11, 2001","Nucl.Phys.Proc.Suppl. 108 (2002) 283-287","10.1016/S0920-5632(02)01345-2","UMN-D-01-9","hep-ph",,"  Applications of discretized light-cone quantization (DLCQ) to
+(3+1)-dimensional Yukawa theory with Pauli-Villars regulators and of
+supersymmetric DLCQ (SDLCQ) to (2+1)-dimensional super Yang-Mills theory are
+discussed. The ability of these methods to provide wave functions as well as
+spectra is emphasized.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 22:45:15 GMT""}]","2009-11-07"
+"hep-ph/0111120","Youngman Kim","Masayasu Harada, Youngman Kim and Mannque Rho","Vector Manifestation and Fate of Vector Mesons in Dense Matter","14 pages, 2 figures","Phys.Rev.D66:016003,2002","10.1103/PhysRevD.66.016003","KIAS-P01048","hep-ph nucl-th",,"  We describe in-medium properties of hadrons in dense matter near chiral
+restoration using a Wilsonian matching to QCD of an effective field theory with
+hidden local symmetry at the chiral cutoff $\Lambda$. We find that chiral
+symmetry is restored in vector manifestation \`a la Harada and Yamawaki at a
+critical matter density $n_c$. We express the critical density in terms of QCD
+correlators in dense matter at the matching scale. In a manner completely
+analogous to what happens at the critical $N_f^c$ and at the critical
+temperature $T^c$, the vector meson mass is found to vanish (in the chiral
+limit) at chiral restoration. This result provides a support for Brown-Rho
+scaling predicted a decade ago.
+","[{""version"":""v1"",""created"":""Sat, 10 Nov 2001 02:13:28 GMT""},{""version"":""v2"",""created"":""Tue, 8 Jan 2002 15:30:38 GMT""}]","2008-11-26"
+"hep-ph/0111121","Kunihiro","Teiji Kunihiro","The Sigma Meson and Chiral Transition in Hot and Dense Matter","Invited talk given at the IXth International Conference on Hadron
+  Spectroscopy- HADRON 2001, Protvino, Aug.25 - Sep.1, 2001","AIP Conf.Proc. 619 (2002) 315-324","10.1063/1.1482460",,"hep-ph",,"  It is pointed out that the hadron spectroscopy should be a study of the
+structure of the QCD vacuum, low-energy elementary excitations on top of which
+are hadrons. Concentrating on the dynamical breaking of the chiral symmetry in
+the QCD vacuum, we emphasize the importance to clarify what is going on with
+mesons in the $I=J=0$-channel, i.e., the sigma meson channel, because it is
+connected to the quantum fluctuations of the chiral order parameter. After
+summarizing the significance of the sigma meson in QCD and low-energy hadron
+phenomenology, we give a review on some theoretical and experimental effort to
+try to reveal the possible restoration of chiral symmetry in hot and dense
+nuclear matter including heavy nuclei.
+","[{""version"":""v1"",""created"":""Sat, 10 Nov 2001 03:14:45 GMT""}]","2009-11-07"
+"hep-ph/0111122","Wang Wen-yu","W.Y. Wang, Y.L. Wu and Y.A. Yan (ITP, Cas)","V_{ub}, V_{cb} and Decay Constants in Effective Field Theory of Heavy
+  Quarks","8 pages, uses sprocl.sty, to be published in the proceedings of
+  ICFP2001",,"10.1142/9789812777379_0032",,"hep-ph",,"  A new framework of heavy quark effective field theory (HQEFT) is studied and
+compared with the usual heavy quark effective theory (HQET). $|V_{ub}|$,
+$|V_{cb}|$ and heavy meson decay constants are extracted in the new framework.
+HQEFT can yield reasonable results for both exclusive and inclusive decays.
+","[{""version"":""v1"",""created"":""Sat, 10 Nov 2001 12:57:55 GMT""}]","2017-08-23"
+"hep-ph/0111123","Stefano Laporta","S. Laporta","High-precision e-expansions of three-loop master integrals contributing
+  to the electron g-2 in QED","7 pages, 1 figure, LaTex, to be published in Physics Letters B","Phys.Lett.B523:95-101,2001","10.1016/S0370-2693(01)01331-4",,"hep-ph",,"  In this paper we calculate at high-precision the Laurent expansions in
+e=(4-D)/2 of the 17 master integrals which appeared in the analytical
+calculation of 3-loop QED contribution to the electron g-2, using difference
+and differential equations. The coefficients of the expansions so obtained are
+in perfect agreement with all the analytical expressions already known. The
+values of coefficients not previously known will be used in the high-precision
+calculation of the 4-loop QED contribution to the electron g-2.
+","[{""version"":""v1"",""created"":""Sat, 10 Nov 2001 13:44:37 GMT""}]","2014-11-17"
+"hep-ph/0111124","Wan Lang-Hui","Zhang Ren-You, Ma Wen-Gan, Wan Lang-Hui","Supersymmetric Electroweak Corrections to the Chargino Decay into
+  Neutralino and W Boson","20 pages, 7 eps figures (to be published in J. Phys. G)","J.Phys.G28:169-182,2002","10.1088/0954-3899/28/1/312",,"hep-ph",,"  We investigated the electroweak corrections from one-loop diagrams involving
+the third generation (s)quarks to the decay width of process $\tilde{\chi}_1^+
+\to W^+ \tilde{\chi}_1^{0}$ in the framework of the Minimal Supersymmetric
+Standard Model. Our calculation shows that these corrections are not very
+sensitive to the mass of the lightest neutralino $\tilde{\chi}_1^{0}$ and the
+sbottom mixing angle $\theta_{b}$, but depend strongly on the top squark mixing
+angle $\theta_{t}$ and tan$\beta$. With our chosen parameters, we find that
+these radiative corrections can exceed 10%, therefore they should be taken into
+account for the precise experimental measurement at future colliders.
+","[{""version"":""v1"",""created"":""Sat, 10 Nov 2001 13:49:00 GMT""}]","2008-11-26"
+"hep-th/0111079","Allan W. Adams","Allan Adams and Michal Fabinger (Stanford University and SLAC)","Deconstructing Noncommutativity with a Giant Fuzzy Moose","22 pages, 3 figures, typos caught and refs added; expanded
+  interpretation of discrete torsion","JHEP 0204:006,2002","10.1088/1126-6708/2002/04/006","SU-ITP 01/46","hep-th",,"  We argue that the worldvolume theories of D-branes probing orbifolds with
+discrete torsion develop, in the large quiver limit, new non-commutative
+directions. This provides an explicit `deconstruction' of a wide class of
+noncommutative theories. This also provides insight into the physical meaning
+of discrete torsion and its relation to the T-dual B field. We demonstrate that
+the strict large quiver limit reproduces the matrix theory construction of
+higher-dimensional D-branes, and argue that finite `fuzzy moose' theories
+provide novel regularizations of non-commutative theories and explicit string
+theory realizations of gauge theories on fuzzy tori. We also comment briefly on
+the relation to NCOS, (2,0) and little string theories.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 20:20:10 GMT""},{""version"":""v2"",""created"":""Mon, 12 Nov 2001 00:58:42 GMT""}]","2014-11-18"
+"hep-th/0111084","Alexei A. Abrikosov jr.","Alexei A. Abrikosov Jr","Fermion States on the Sphere $S^2$","Talk given at the Fifth Workshop on Quantum Field Theory under the
+  Influence of External Conditions. 4pp","Int.J.Mod.Phys. A17 (2002) 885-889","10.1142/S0217751X02010261",,"hep-th",,"  We solve for the spectrum and eigenfunctions of Dirac operator on the sphere.
+The eigenvalues are nonzero whole numbers. The eigenfunctions are two-component
+spinors which may be classified by representations of the SU(2) group with
+half-integer angular momenta. They are not the conventional spherical spinors
+but special linear combinations of those.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 17:44:31 GMT""}]","2009-11-07"
+"hep-th/0111085","Tassos Petkou","A. C. Petkou and G. Siopsis","dS/CFT correspondence on a brane","15 pages, 1 figure, v2 references added","JHEP 0202 (2002) 045","10.1088/1126-6708/2002/02/045","CERH-TH/2001-310, UTHET-01-1101","hep-th",,"  We study branes moving in an AdS Schwarzschild black hole background. When
+the brane tension exceeds a critical value, the induced metric on the brane is
+of FRW type and asymptotically de Sitter. We discuss the relevance of such
+configurations to dS/CFT correspondence. When the black hole mass reaches a
+critical value that depends on the brane tension, the brane interpolates in the
+infinite past and future between a dS space and a finite space of zero Hubble
+constant. This corresponds to a cosmological evolution without a Big Bang or a
+Big Crunch. Moreover, the central charge of the CFT dual to the dS brane enters
+the Cardy-Verlinde formula that gives the entropy of the thermal CFT dual to
+the bulk AdS black hole.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 20:28:06 GMT""},{""version"":""v2"",""created"":""Mon, 26 Nov 2001 18:33:20 GMT""}]","2009-11-07"
+"math/0111119","Danny Calegari","Danny Calegari","Leafwise smoothing laminations","Published by Algebraic and Geometric Topology at
+  http://www.maths.warwick.ac.uk/agt/AGTVol1/agt-1-29.abs.html","Algebr. Geom. Topol. 1 (2001) 579-587","10.2140/agt.2001.1.579",,"math.GT",,"  We show that every topological surface lamination of a 3-manifold M is
+isotopic to one with smoothly immersed leaves. This carries out a project
+proposed by Gabai in [Problems in foliations and laminations, AMS/IP Stud. Adv.
+Math. 2.2 1--33]. Consequently any such lamination admits the structure of a
+Riemann surface lamination, and therefore useful structure theorems of Candel
+[Uniformization of surface laminations, Ann. Sci. Ecole Norm. Sup. 26 (1993)
+489--516] and Ghys [Dynamique et geometrie complexes, Panoramas et Syntheses 8
+(1999)] apply.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 20:21:37 GMT""}]","2014-10-01"
+"math/0111120","Bryan Clair","Bryan Clair, Kevin Whyte","Growth of Betti Numbers","22 pages",,,,"math.GT math.DG",,"  Suppose X is any finite complex with vanishing L^2 Betti number. We prove
+upper bounds on the Betti numbers for regular coverings of X, sublinear in the
+order of covering. The bounds are sensitive to the Novikov-Shubin invariants of
+X, and are improved in the presence of a spectral gap.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 20:33:24 GMT""}]","2007-05-23"
+"math/0111121","Andrei Mironov","Z.Zakirova","Quadratic first integrals of geodesic equations of the special type
+  6-dimensional h-spaces","9 pages, LaTeX",,,,"math.DG",,"  In this note we find a 6-dimensional h-spaces of the
+$[(21...1)(21...1)...(1...1)]$ type and then determine quadratic first
+integrals of the geodesic equations of these h-spaces.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 20:43:25 GMT""}]","2007-05-23"
+"math/0111122","David P. Blecher","David P. Blecher and Masayoshi Kaneda","The ideal envelope of an operator algebra",,,,,"math.OA math.FA",,"  A left ideal of any C*-algebra is an example of an operator algebra with a
+right contractive approximate identity (r.c.a.i.). Conversely, we show here and
+in a `pre-quel' to this paper [B], that operator algebras with r.c.a.i. should
+be studied in terms of a certain left ideal of a C*-algebra. We study operator
+algebras and their multiplier algebras from the perspective of `Hamana theory'
+and using the multiplier algebras introduced by the first author.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 20:56:42 GMT""}]","2007-05-23"
+"math/0111123","William Kazez","Ko Honda, William H. Kazez, Gordana Matic","On the Gabai-Eliashberg-Thurston theorem","10 pages, 1 figure",,,"AIM 2001-28","math.GT",,"  We present a new, completely three-dimensional proof of the fact, due to
+Gabai-Eliashberg-Thurston, that every closed, oriented, irreducible 3-manifold
+with nonzero second homology carries a universally tight contact structure.
+","[{""version"":""v1"",""created"":""Sat, 10 Nov 2001 00:02:13 GMT""}]","2007-05-23"
+"math/0111124","Stanislav Kupin","Stanislav Kupin, Vasiliy Vasyunin","Criteria for Similarity of a Dissipative Integral Operator to a Normal
+  Operator","AMSTex, 31 pages","Algebra i Analiz, 13 (2001), no. 3, 65-104 (Russian)",,,"math.CA math.SP",,"  We consider an integral dissipative operator in its Brodskii-Livshits
+triangular representation. The main question we are concerned with is
+similarity of the operator to a normal one. We obtain necessary as well as
+sufficient conditions for the similarity. The study is based on functional
+model technique.
+","[{""version"":""v1"",""created"":""Sat, 10 Nov 2001 01:04:23 GMT""}]","2007-05-23"
+"math/0111125","Stanislav Kupin","Stanislav Kupin","Operators Similar to Contractions and Their Similarity to a Normal
+  Operator","LaTex, 17 pages, preliminary version",,,,"math.SP math.CA",,"  It is proved recently by Benamara-Nikolski that a contraction having finite
+defects and spectrum not filling in the closed unit disc, is similar to a
+normal operator if and only if it has the so-called linear resolvent growth
+property. We obtain results of the same type for a wider (than contractions)
+class of operators.
+","[{""version"":""v1"",""created"":""Sat, 10 Nov 2001 02:50:27 GMT""}]","2007-05-23"
+"nlin/0111023","Mads Ipsen","Mads Ipsen and Alexander S. Mikhailov","Evolutionary reconstruction of networks","4 pages, 4 figures. Please, address all correspondence to
+  ipsen@fhi-berlin.mpg.de",,"10.1103/PhysRevE.66.046109",,"nlin.AO cond-mat.dis-nn cond-mat.soft",,"  Can a graph specifying the pattern of connections of a dynamical network be
+reconstructed from statistical properties of a signal generated by such a
+system? In this model study, we present an evolutionary algorithm for
+reconstruction of graphs from their Laplacian spectra. Through a stochastic
+process of mutations and selection, evolving test networks converge to a
+reference graph. Applying the method to several examples of random graphs,
+clustered graphs, and small-world networks, we show that the proposed
+stochastic evolution allows exact reconstruction of relatively small networks
+and yields good approximations in the case of large sizes.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 17:07:04 GMT""}]","2009-11-07"
+"nucl-ex/0111005","Jane M. Burward-Hoy","J. M. Burward-Hoy and B. V. Jacak","Collective Flow vs. Hard Processes in Relativistic Heavy Ion Collisions",,,,,"nucl-ex hep-ph",,"  In relativistic heavy ion collisions, the $p_T$ distributions of hadrons
+reflect the transverse motion generated during the collision and therefore the
+collision dynamics. The moderate $p_T$ values measured to date at $\sqrt{s}
+\approx $ 20 GeV/nucleon contain a mix of hard and soft processes. The
+available data from the SPS on $\pi$, K, p, and $\Lambda$ are used to constrain
+the magnitude of collective radial expansion. In $A+A$ collisions, the
+hydrodynamic distributions determined from the measured collective expansion
+are determined up to high $p_T$ and are consistent with the $\pi^{0}$ data. To
+cleanly observe hard processes, measurements at $p_T \ge 4$ GeV/c will be
+required. Pions produced in $p+W$ collisions clearly deviate from hydrodynamic
+distributions at $p_T > 2$ GeV/c, underscoring the differences in the physics
+between $p+A$ and $A+A$ collisions.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 19:47:42 GMT""}]","2007-05-23"
+"nucl-ex/0111006","Jennifer L. Klay","E895 Collaboration: J.L.Klay, N.N.Ajitanand, J.M.Alexander,
+  M.Anderson, D.Best, F.P.Brady, T.Case, W.Caskey, D.Cebra, J.L.Chance,
+  P.Chung, B.Cole, K.Crowe, A.C.Das, J.E.Draper, M.L.Gilkes, S.Gushue,
+  M.Heffner, A.S.Hirsch, E.L.Hjort, L.Huo, M.Justice, M.Kaplan, D.Keane,
+  J.C.Kintner, D.Krofcheck, R.A.Lacey, C.Law, J.Lauret, M.A.Lisa, H.Liu,
+  Y.M.Liu, R.McGrath, Z.Milosevich, G.Odyniec, D.L.Olson, S.Y.Panitkin,
+  C.Pinkenburg, N.T.Porile, G.Rai, H.G.Ritter, J.L.Romero, R.Scharenberg,
+  L.Schroeder, B.Srivastava, N.T.B.Stone, T.J.M.Symons, S.Wang, R.Wells,
+  J.Whitfield, T.Wienold, R.Witt, L.Wood, W.N.Zhang","Longitudinal Flow of Protons from 2-8 AGeV Central Au+Au Collisions","5 Pages, including 3 figures, 1 table","Phys.Rev.Lett.88:102301,2002","10.1103/PhysRevLett.88.102301",,"nucl-ex",,"  Rapidity distributions of protons from central $^{197}$Au + $^{197}$Au
+collisions measured by the E895 Collaboration in the energy range from 2 to 8
+AGeV at the Brookhaven AGS are presented. Longitudinal flow parameters derived
+using a thermal model including collective longitudinal expansion are extracted
+from these distributions. The results show an approximately linear increase in
+the longitudinal flow velocity, $<\beta\gamma>_{L}$, as a function of the
+logarithm of beam energy.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 23:44:11 GMT""},{""version"":""v2"",""created"":""Thu, 7 Mar 2002 01:41:23 GMT""}]","2009-09-25"
+"physics/0111044","J. M. Nogiec","J.M. Nogiec, K. Trombly-Freytag, D. Walbridge, E. Desavouret","An XML Driven Framework for Test Control and Data Analysis","ICALEPCS 2001, November 2001, (THAP073) 3 pages, PDF","eConf C011127 (2001) THAP073",,,"physics.ins-det physics.comp-ph",,"  An extensible, component-based framework has been developed at Fermilab to
+promote software reuse and provide a common platform for developing a family of
+test and data analysis systems. The framework allows for configuring
+applications from components through the use of XML configurations. It can be
+easily extended by adding new components and many application independent
+components are already provided with the framework. The core of the system has
+been developed in Java which guarantees its portability and facilitates the use
+of object-oriented development technologies.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 18:10:10 GMT""},{""version"":""v2"",""created"":""Mon, 12 Nov 2001 17:25:35 GMT""}]","2007-05-23"
+"physics/0111054","Harald Kleines","H. Kleines, P. Wuestner, K. Settke, K. Zwoll","Implementation of JFPC (Java for Process Control) under Linux - a
+  mechanism to access industrial I/Os in a JAVA/Linux environment","Talk at ICALEPCS01, San Jose","eConf C011127 (2001) WEBT004",,,"physics.ins-det",,"  Using JAVA for process control requires the access to I/O-Hardware. This
+problem is addressed in several ongoing standardisation efforts for Real Time
+Java. A spin-off of these standardisation efforts is the Siemens product JFPC
+(Java for Process Control), which is based on the ideas of OPC (OLE for Process
+Control). It is available under the proprietary RT kernel RMOS and under
+Windows NT. Based on a contract with Siemens, ZEL - the central electronics
+facility of Forschungszentrum Juelich - has implemented JFPC under Linux.
+Additionally, several JFPC providers, e.g for accessing industrial components
+via PROFIBUS DP have been implemented.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 20:50:55 GMT""}]","2007-05-23"
+"physics/0111064","Zoltan Kakucs","Zoltan Kakucs, Phil Duval, Matthias Clausen","An EPICS to TINE Translator","Talk at 8th International Conference on Accelerator and Large
+  Experimental Physics Control Systems, ICALEPCS 2001, San Jose, California,
+  from November 27 - 30, 2001 (THBT005) 3 pages, PDF eps figures","eConf C011127 (2001) THBT005",,,"physics.acc-ph",,"  Accelerator control at DESY has in the past been hampered by the
+'many-control-systems' syndrome, where different subsystems were controlled by
+completely different means offering no possibility of intercommunication.
+Today, practically all subsystems of HERA are controlled by TINE. Important
+exceptions include the Proton Vacuum(DOOCS), cryogenics control(D3), and the
+super-conducting electron RF cavities and the power and cooling subsystems, the
+latter two of which are controlled by EPICS IOCs. A step toward integrating the
+EPICS IOCs into the HERA mainstream has been taken in that an EPICS to TINE
+translator process has been written, which runs directly on the EPICS IOC and
+offers a TINE view of the hardware control to the rest of the control system.
+This in effect renders the EPICS IOC into a bi-lingual server, and highlights
+the principal difference between a 'translator' and a 'gateway'. Details of
+this translator are presented in this paper.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 16:20:26 GMT""}]","2007-05-23"
+"physics/0111065","Sally Schaffner","S. Schaffner, T. Larrieu","A Relational Database Model for Managing Accelerator Control System
+  Software At Jefferson Lab","ICALEPCS, 2001 PSN#WEAP074","eConf C011127:WEAP074,2001",,,"physics.acc-ph",,"  The operations software group at the Thomas Jefferson National Accelerator
+Facility faces a number of challenges common to facilities managing a large
+body of software developed in-house. Developers include members of the software
+group, operators, hardware engineers and accelerator physicists. One management
+problem has been ensuring that all software has an identified maintainer who is
+still working at the lab. In some cases, locating source code for 'orphaned'
+software has also proven to be difficult. Other challenges include enforcing
+minimal standards for versioning and documentation, segregating test software
+from operational software, encouraging better code reuse, consolidating
+input/output file storage and management, and tracking software dependencies.
+This paper will describe a relational database model for tracking the
+information necessary to solve the problems above. The instantiation of that
+database model provides the foundation for various productivity- and
+consistency- enhancing tools for automated (or at least assisted) building,
+versioning, documenting and installation of software.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 19:25:46 GMT""}]","2014-11-18"
+"physics/0111066","Johannes van Zeijts","Johannes van Zeijts","Model Driven Ramp Control at RHIC","First draft, Latex, 3 pages, 2 eps figures, ICALEPCS 2001, FRBT004","eConf C011127 (2001) FRBT004",,"FRBT004","physics.acc-ph",,"  At the Relativistic Heavy Ion Collider (RHIC), magnets are ramped from
+injection energy to storage energy in several min utes where it is to remain
+for several hours. The path up the ramp is marked by 'StepStones' where the the
+optics of the ma chine, which can change dramatically when we perform a
+beta*-squeeze, is given in units like Quadrupole focusing strengt h or
+Corrector-Dipole angle. The machine is tuned at these Stepstones, and at
+Injection or Storage, by specifying physic s properties like Tunes and
+Chromaticities. An on-line model server handles conversion to magnet strengths,
+and predicts the optics along the whole ramp.
+  We will describe the underlying principles, the client-server environment,
+including on-line model servers, Ramp Manager and Editor, and present
+operational experience with the system.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 16:38:27 GMT""}]","2007-05-23"
+"physics/0111067","Anton Mezger","A.C.Mezger, D.Anicic, T.Blumer, I.Jirousek","Integration of a New Knobbox in the PSI Control Systems ACS and EPICS","Paper submitted at the8th International Conference on Accelerator and
+  Large Experimental Physics Control Systems as Poster (PSN WEAP009)","eConf C011127 (2001) WEAP009",,,"physics.acc-ph",,"  Integration of a new Knob-Box in the PSI Control Systems ACS and Epics.
+  Operation of the PSI cyclotrons has always relied heavily on manual control.
+Tuning of our high intensity beams for minimum losses is an art still depending
+on personal skill. An ergonomically good design of the knob box is therefore
+essential for good operation. The age of the previous design, and the request,
+to implement the ACS knob box in the SLS control system based on EPICS, was an
+opportunity for a redesign. The new knob box is an autonomous node in the
+system. It is based on industrial pc104 hardware with LINUX as the operating
+system. CDEV and ACS-communication provide the interface to the respective
+control systems.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 17:17:18 GMT""}]","2007-05-23"
+"physics/0111068","Klemen Zagar","Klemen Zagar, Mark Plesko, Matej Sekoranja, Gasper Tkacik, Anze
+  Vodovnik","The Control System Modeling Language","3 pages, 2 figures, 8th ICALEPCS conference, paper THCT004","eConf C011127 (2001) THcT004",,,"physics.acc-ph",,"  The well-known Unified Modeling Language (UML) describes software entities,
+such as interfaces, classes, operations and attributes, as well as
+relationships among them, e.g. inheritance, containment and dependency. The
+power of UML lies in Computer Aided Software Engineering (CASE) tools such as
+Rational Rose, which are also capable of generating software structures from
+visual object definitions and relations. UML also allows add-ons that define
+specific structures and patterns in order to steer and automate the design
+process. We have developed an add-on called Control System Modeling Language
+(CSML). It introduces entities and relationships that we know from control
+systems, such as ""property"" representing a single controllable point/channel,
+or an ""event"" specifying that a device is capable of notifying its clients
+through events. Entities can also possess CSML-specific characteristics, such
+as physical units and valid ranges for input parameters. CSML is independent of
+any specific language or technology and generic such that any control system
+can be described with it. Simple transformation scripts map CSML defined
+structures to APIs and tools such as EPICS, CDEV, SCADA, Abeans, BACI and
+generate the appropriate database or source files. Advantages of control system
+development with CSML are discussed on a concrete example of a bending magnet's
+power supply in a synchrotron accelerator.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 17:30:07 GMT""}]","2007-05-23"
+"physics/0111069","Gert-Ludwig Ingold","J\""org Lehmann, Gert-Ludwig Ingold, Peter H\""anggi (U Augsburg)","Incoherent charge transport through molecular wires: interplay of
+  Coulomb interaction and wire population","18 pages, 8 figures, elsart.cls v2.18 included","Chem. Phys. 281, 199-209 (2002)","10.1016/S0301-0104(02)00344-0",,"physics.chem-ph cond-mat.mes-hall",,"  The influence of Coulomb interaction on the electron transport through
+molecular wires is studied in the regime of incoherent tunneling. In the limit
+of strong Coulomb repulsion, the current for spinless electrons is determined.
+It is shown that the voltage profile along the wire crucially influences the
+dependence of the current on the wire length. Upon inclusion of the spin degree
+of freedom one finds a blocking effect which depends both on the interaction
+strength and on the population of the wire. For finite Coulomb interaction, the
+temperature dependence of the blocking is studied and it is shown that several
+regimes with different blocking strength may exist.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 17:41:29 GMT""}]","2007-05-23"
+"physics/0111070","Laurent Sanchez-Palencia","Laurent Sanchez-Palencia, Peter Horak and Gilbert Grynberg","Spatial diffusion in a periodic optical lattice: revisiting the Sisyphus
+  effect","accepted for publication in Eur. Phys. J. D","European Physical Journal D 18, 353 (2002)","10.1140/epjd/e20020041",,"physics.atom-ph",,"  We numerically study the spatial diffusion of an atomic cloud experiencing
+Sisyphus cooling in a three-dimensional lin$\bot$lin optical lattice in a broad
+range of lattice parameters. In particular, we investigate the dependence on
+the size of the lattice sites which changes with the angle between the laser
+beams. We show that the steady-state temperature is largely independent of the
+lattice angle, but that the spatial diffusion changes significantly. It is
+shown that the numerical results fulfil the Einstein relations of Brownian
+motion in the jumping regime as well as in the oscillating regime. We finally
+derive an effective Brownian motion model from first principles which gives
+good agreement with the simulations.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 18:05:14 GMT""},{""version"":""v2"",""created"":""Mon, 12 Nov 2001 09:16:48 GMT""}]","2007-05-23"
+"physics/0111071","Maxim Vrazhnov","K. Gubrienko (1), I. Krouptchenkov (1), S. Makonin (1), V. Seleznev
+  (1), F. Solodovnik (1), A. Sytin (1), M. Vrazhnov (1), K. Wittenburg (2) ((1)
+  IHEP, Protvino, Russia,(2) DESY, Hamburg, Germany)","Precision geometric parameter gage for synchrotron radiation","3 pages, 5 figures, poster","eConf C011127 (2001) THAP048",,,"physics.ins-det",,"  This article includes the description of the geometric parameter gage device
+prototype for synchrotron radiation of HERA collider (DESY). The system
+construction which capable to measure photo current, caused by such a radiation
+in a refractory metal, described here. The system component parts are:
+measuring heads and photo current measuring electronics designed by IHEP,
+stepper motor by Vacuum Generators with HEDS-550X encoder by Hewlett Packard,
+PCI-STEP-4CX 4-Axis Closed Loop Step controller by National Instruments. The
+device is controlled by means of Microsoft Visual Basic program using Value
+Motion Windows Libraries. The device prototype was tested in the beam of the
+DORIS storage ring.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 18:19:52 GMT""}]","2007-05-23"
+"physics/0111072","Peter Isaev","P.S. Isaev (Dubna, Russia)","On New Physical Reality (on Psi--ether)","17 pages, LaTeX",,"10.1134/S1547477112030089","to be published in Samara University Journal ""Science, Economic,
+  Management"" (2002)","physics.gen-ph",,"  It is shown that there exists a new physical reality -- the $\Psi$--ether.
+All the achievements of quantum mechanics and quantum field theory are due to
+the fact that both the theories include the influence of $\Psi$--ether on the
+physical processes occurring in the Universe. Physics of the XXth century was
+first of all the physics of $\Psi$--ether.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 18:53:04 GMT""}]","2015-06-26"
+"physics/0111073","John C. Collins","J.C. Collins, M. Ball, B. Broderick, J. Katuin, Wm. Manwaring, N.
+  Schreuder","Design of the MPRI Control System","Poster paper submitted to ICALEPCS'01, San Jose, Nov. 2001,
+  PSN#TUA016, 3 pages, 1 figure, MS Word","eConf C011127 (2001) TUAP016",,,"physics.acc-ph",,"  The Indiana University Cyclotron Facility (IUCF) is in the process of
+building the Midwest Proton Radiation Institute (MPRI). This involves
+refurbishing the 200MeV cyclotron and building new facilities for the purpose
+of providing clinical treatment of human cancer tumors. First patients are
+expected in the Spring of 2003. This paper presents the design and
+implementation to date of the controls, hardware and software, for both
+accelerator and treatment areas. Particular attention is placed on issues of
+personnel safety and control system security, development of inexpensive VMEbus
+boards with emphasis on the use of MicroChip PIC processors, beam diagnostics
+and monitoring and the use of commercial robots and vision systems for patient
+positioning.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 19:03:50 GMT""}]","2007-05-23"
+"physics/0111074","Yves R. Roblin","Y. R. Roblin, T.L. Larrieu","Online Model Server for the Jefferson Lab accelerator","ICALEPCS2001, 27-30 Nov 2001, San-Jose, CA","eConf C011127:THAP012,2001",,,"physics.acc-ph physics.comp-ph",,"  A beam physics model server (Art++) has been developed for the Jefferson Lab
+accelerator. This online model server is a redesign of the ARTEMIS model
+server. The need arose from an impedance mismatch between the current
+requirements and ARTEMIS capabilities. The purpose of the model server is to
+grant access to both static (machine lattice parameters) and dynamic (actual
+machine settings) data using a single programming interface. A set of useful
+optics calculations (R-matrix, orbit fit, etc.) has also been implemented and
+can be invoked by clients via the model interface. Clients may also register
+their own dynamic models in the server. The server interacts with clients using
+the CDEV protocol and data integrity is guaranteed by a relational database
+(Oracle8i) accessed through a persistence layer. By providing a centralized
+repository for both data and optics calculations, the following benefits were
+achieved: optimal use of network consumption, software reuse, and ease of
+maintenance.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 19:16:00 GMT""}]","2014-11-18"
+"physics/0111075","William R. DeVan","W.R. DeVan, E.L. Williams Jr","Plans for the Spallation Neutron Source Integrated Control System
+  Network","Poster paper for ICALEPCS conference, San Jose, CA, USA, November
+  2001, PSN TUAP055, 3 pages, MS Word 2000 format","eConf C011127 (2001) TUAP055",,"TUAP055","physics.acc-ph",,"  The SNS control system communication network will take advantage of new,
+commercially available network switch features to increase reliability and
+reduce cost. A standard structured cable system will be installed. The
+decreasing cost of network switches will enable SNS to push the edge switches
+out near the networked devices and to run high-speed fiber communications all
+the way to the edge switches. Virtual Local Area Network VLAN) technology will
+be used to group network devices into logical subnets while minimizing the
+number of switches required. Commercially available single-board computers with
+TCP/IP interfaces will be used to provide terminal service plus remote power
+reboot service.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 19:18:05 GMT""}]","2007-05-23"
+"physics/0111076","Michele Joyce","Michele E. Joyce and April R. Miller","Acclerator Operators and Software Development","ICALEPCS Conference 2001, PSN# THAP076, 3 pages","eConf C011127:THAP076,2001",,,"physics.acc-ph",,"  This paper summarizes the how the unique knowledge of accelerator operators
+has contributed to the success of the Jefferson Lab Control System.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 19:24:04 GMT""}]","2014-11-18"
+"physics/0111077","Jay Heefner","R. Bork, R. Abbott, D. Barker, J. Heefner (LIGO Laboratory, California
+  Institute of Technology, Pasadena, CA)","An Overview of the LIGO Control and Data Acquisition System","5 pages","eConf C011127 (2001) TUBI001",,,"physics.ins-det physics.gen-ph physics.optics",,"  The LIGO Control and Data system (CDS) features a tightly coupled and highly
+integrated control and data acquisition system. Control of the interferometers
+requires many Multiple Input Multiple Output (MIMO) control loops closed both
+locally and across the 4-kilometer interferometer arm lengths. In addition to
+providing the closed loop control, the control systems front end processors act
+as Data Collection Units (DCU) for the data acquisition system. Data collected
+by these front ends and the data acquisition system must be collected and time
+stamped to an accuracy of 1 microsecond and made available to on-line analysis
+tools such as the Global Diagnostics System (GDS)[1]. Data is also sent to the
+LIGO Data Analysis System (LDAS)[2] for long-term storage and off-line
+analysis. Data rates exceed 5 Mbytes per second per interferometer continuous.
+Connection between the various front end processors and the data acquisition
+system is achieved using fiber optic reflective memory networks. Both controls
+and data acquisition systems use VME hardware and VxWorks operating systems.
+This paper will present an overview of the LIGO CDS and discuss key aspects of
+its design.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 20:03:12 GMT""}]","2007-05-23"
+"physics/0111078","Matthew Bickley","J. Sage, M. H. Bickley, K. S. White","Using A Nameserver to Enhance Control System Efficiency","ICALEPCS 2001","eConf C011127:THAP074,2001",,,"physics.acc-ph",,"  The Thomas Jefferson National Accelerator Facility (Jefferson Lab) control
+system uses a nameserver to reduce system response time and to minimize the
+impact of client name resolution on front-end computers. The control system is
+based on the Experimental Physics and Industrial Control System (EPICS), which
+uses name-based broadcasts to initiate data communication. By default, when
+EPICS process variables (PV) are requested by client applications, all
+front-end computers receive the broadcasts and perform name resolution
+processing against local channel name lists. The nameserver is used to offload
+the name resolution task to a single node. This processing, formerly done on
+all front-end computers, is now done only by the nameserver. In a control
+system with heavily loaded front-end computers and high peak client connection
+loads, a significant performance improvement is seen. This paper describes the
+name server in more detail, and discusses the strengths and weaknesses of
+making name resolution a centralized service.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 20:14:03 GMT""}]","2014-11-18"
+"physics/0111079","Matthew Bickley","M. H. Bickley, K. S. White","Control System Design Philosophy for Effective Operations and
+  Maintenance","ICALEPCS 2001","eConf C011127:TUDT003,2001",,,"physics.acc-ph",,"  A well-designed control system facilitates the functions of machine
+operation, maintenance and development. In addition, the overall effectiveness
+of the control system can be greatly enhanced by providing reliable mechanisms
+for coordination and communication, ensuring that these functions work in
+concert. For good operability, the information presented to operators should be
+consistent, easy to understand and customizable. A maintainable system is
+segmented appropriately, allowing a broken element to be quickly identified and
+repaired while leaving the balance of the system available. In a research and
+development environment, the control system must meet the frequently changing
+requirements of a variety of customers. This means the system must be flexible
+enough to allow for ongoing modifications with minimal disruptions to
+operations. Beyond the hardware and software elements of the control system,
+appropriate workflow processes must be in place to maximize system uptime and
+allow people to work efficiently. Processes that provide automatic electronic
+communication ensure that information is not lost and reaches its destination
+in a timely fashion. This paper discusses how these control system design and
+quality issues have been applied at the Thomas Jefferson National Accelerator
+Facility.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 20:23:07 GMT""}]","2014-11-18"
+"physics/0111080","Alexander Loukiantsev","V. Kovaltsov (1), A. Loukiantsev (1), A. Matyushin (1), V. Milyutkin
+  (1), I. Romanov (1), V. Seleznev (1), A. Sytin (1), M. Clausen (2) (IHEP,
+  Protvino, Russia (1), DESY, Hamburg, Germany (2))","Upgrading of the beam diagnostic system of U-70 beam transfer lines","3 pages, 3 figures, poster","eConf C011127 (2001) WEAP005",,,"physics.ins-det physics.acc-ph",,"  The beam diagnostic system of U-70 beam transfer lines (beam profiles,
+intensity and beam losses measurements) was designed in the beginning of 80-th
+on the base of 8-bit microprocessor, SUMMA hardware and home made serial
+communication link. Because of the maintenance problems the decision was taken
+to upgrade the hardware and software parts of the system.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 20:45:39 GMT""}]","2007-05-23"
+"physics/0111081","Rod B. Nussbaumer","R. Nussbaumer, D. Dale, H. Hui, J. Richards, P. Levy","Laser Stabilization Controls for the ISAC Beam Polarizer","ICALEPS01 TUAP065","eConf C011127 (2001) THAP065",,,"physics.acc-ph",,"  The ISAC polarized beam facility uses a Ti:Sapphire laser for producing
+spin-polarized beams of short-lived radioactive isotopes, initially 7Li. The
+laser power and spectral content must be tightly controlled and monitored. The
+control system to accomplish this task uses techniques that combine operator
+interface, data reduction, and closed loop automation. The laser stabilization
+application uses input data acquired from a spectrum analyzer, in the form of a
+waveform array repetitively acquired from a GPIB-interfaced oscilloscope. A
+Labview based operator interface allows the selection of features from within
+the waveform, which are then used as the basis for closed loop control, in
+concert with the existing EPICS control system software and related hardware.
+Part of the challenge stems from using input data which are subject to human
+interpretation and require distillation into a hard numeric format suitable for
+use in a control system.
+","[{""version"":""v1"",""created"":""Sat, 10 Nov 2001 00:16:39 GMT""}]","2007-05-23"
+"physics/0111082","Eric Bjorklund","E. Bjorklund","Toward a General Theory of Control Knobs","International Conference on Accelerator and Large Experimental
+  Physics Control Systems (ICALEPCS 2001) PSN = THAP071 12/18/02: Minor
+  revision after reviewer comments","eConf C011127 (2001) THAP071",,"LA-UR-01-2033","physics.acc-ph",,"  Experience using hardware knobs as an operator interface for controlling
+equipment has varied considerably at different facilities. Reactions have
+ranged from ""indispensable"" at some facilities, to ""virtually useless"" at
+others. In this paper, we will attempt to outline some basic principles for
+successful knob implementation. These principles derive from our own experience
+with control knobs at the LANSCE Accelerator Complex and our recent effort to
+adapt our control knobs to EPICS. Topics to be covered include what the
+operator needs the knob to do, what the knob needs to know about the device it
+is controlling, and knob scaling issues. Advanced topics such as closed-loop,
+PID, and aggregate knobs are left as topics for future papers.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 21:08:39 GMT""},{""version"":""v2"",""created"":""Tue, 18 Dec 2001 21:37:19 GMT""}]","2007-05-23"
+"physics/0111083","Christine A. Treml","Chrisine A. Treml, Stanley K. Brown, John D. Bernardin","Resonance Control Cooling System for a Proto-Type Coupled Cavity Linac","3 Page Paper for procedings from and to accompany poster session for:
+  ICALEPCS 2001 8th International Conference on Accelerator and Large
+  Experimental Physics Control Systems San Jose, California, from November 27 -
+  30, 2001","eConf C011127 (2001) WEAP076",,,"physics.acc-ph",,"  Los Alamos National Laboratory (LANL) is designing a coupled cavity linac
+(CCL) for the Spallation Neutron Source (SNS) being built at Oak Ridge National
+Laboratory (ORNL). As part of the design process, a proto-type, Hot Model,
+consisting of two segments of the SNS CCL was manufactured and installed at
+LANL. An RF source was applied to the Hot Model to determine the success of the
+cavity design, the effectiveness of the control algorithms and cooling systems,
+and the validity of the Resonance Control Cooling System (RCCS) model used
+during the Hot Model design. From a system controls perspective, an overview of
+the hot model, a description of the RCCS, and the pertinent data from the RF
+tests will be presented.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 21:18:45 GMT""}]","2007-05-23"
+"physics/0111084","Donald A. Dohan","D. A. Dohan (Advanced Photon Source, Argonne, IL)","Decision Support System for the APS Control System","Presented (WEET001) at ICALEPCS 2001, San Jose CA, Nov. 27-30, 2001 3
+  pages, 1 figure, PDF","eConf C011127 (2001) WEDT001",,,"physics.acc-ph",,"  The Advanced Photon Source is now in its fifth year of routine beam
+production. The EPICS-based [1] control system has entered the phase in its
+life cycle where new control algorithms must be implemented under increasingly
+stringent operational and reliability requirements. The sheer volume of the
+control system (~270,000 records, ~145 VME-based input-output controllers
+(IOCs), and ~7,000,000 lines of EPICS ASCII configuration code), presents a
+daunting challenge for code maintenance.
+  The present work describes a relational database that provides an integrated
+view of the interacting components of the entire APS control system, including
+the IOC low-level logic, the physical wiring documentation, and high-level
+client applications. The database is extracted (booted) from the same
+operational CVS repository as that used to load the active IOCs. It provides
+site-wide decision support facilities to inspect and trace control flow and to
+identify client (e.g., user interface) programs involved at any selected point
+in the front-end logic. The relational database forms a basis for generalized
+documentation of global control logic and its connection with both the physical
+I/O and with external high-level applications.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 21:21:30 GMT""}]","2007-05-23"
+"physics/0111085","Buceti Giuliano","A. Bertocchi, V. Bozzolan, G. Buceti, C. Centioli, D. Di Muzio, F.
+  Iannone, G. Mazza, M. Panella, V. Vitale","Technology Update of a Control System Trough Corba Bus","Poster at 8th International Conference on Accelerator and Large
+  Experimental Physics Control Systems (THAP004), PDF, 3 pages","eConf C011127 (2001) THAP004",,,"physics.acc-ph physics.ins-det",,"  After more than 10 years of activity, FTU (Frascati Tokamak Upgrade) has to
+face the problem of taking advantage of the new hardware and software
+technology saving all the investments yet done. So, for example, the 20 years
+old Westinghouse PLCs (communicating only through a serial line) have to be
+leaved in operation while a web-based tool has to be released for plan
+monitoring purpose. CORBA bus has been demonstrated to be the answer to set up
+the communication between old and new hardware and software blocks. On FTU the
+control system is based on Basestar, a Digital/Compaq software suite. We will
+describe how the real time database of Basestar is now accessed by Java graphic
+tools, LabView and, in principle, any package accepting external routines. An
+account will be also done in the data acquisition area where a Camac serial
+highway driver has been integrated in the new architecture still through the
+CORBA bus
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 21:25:22 GMT""},{""version"":""v2"",""created"":""Thu, 22 Nov 2001 13:59:35 GMT""},{""version"":""v3"",""created"":""Mon, 10 Dec 2001 16:38:06 GMT""}]","2007-05-23"
+"physics/0111087","Brian Bevins","B. Bevins and A. Hofler","A Distributed Feedback System for Rapid Stabilization of Arbitrary
+  Process Variables","3 pages, 2 figures, presented at ICALEPCS 2001, San Jose, CA USA,
+  (WECT004)","eConf C011127:WECT004,2001",,,"physics.acc-ph physics.ins-det",,"  In large process control systems it frequently becomes desirable to establish
+feedback relationships that were not anticipated during the design phase of the
+project. The ""Generic Lock"" architecture discussed in this paper makes it
+possible for system operators to implement new feedback loops between arbitrary
+process variables quickly and with no disturbance to the underlying control
+system. Any available process variables may be selected for the input and
+output of the loops so created, regardless of their physical or logical
+separation. The system allows multiple user interface points distributed
+through the control system while ensuring consistency among the feedback loops.
+This system can be used to quickly prototype and test new control philosophies
+or to control temporary hardware arrangements without any new software
+development. It is implemented at the Thomas Jefferson National Accelerator
+Facility using the Common Device (CDEV) framework on top of the Experimental
+Physics and Industrial Control System (EPICS). This paper discusses the
+architecture, implementation, and early usage of the system.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 21:50:10 GMT""}]","2014-11-18"
+"physics/0111088","Reinhard Bacher","Reinhard Bacher, Philip Duval, Stephen Herb","What are the Controls Requirements for the Global Accelerator Network?","ICALEPCS 2001 THAP056","eConf C011127 (2001) THAP056",,,"physics.acc-ph",,"  The Global Accelerator Network is a proposed model for remote operation of a
+future large accelerator by the partners of an international collaboration. The
+remote functionality would include not only routine operation and machine
+studies, but also hardware diagnostic tests and software maintenance and
+development, so the control system must offer both high and low level remote
+access to the accelerator and its components. We discuss in this paper some of
+the special requirements, and how they might be satisfied using current or
+developing technology, such as web-based applications and industrial automation
+standards. The choices made must be acceptable to the collaboration, but will
+also have a strong influence on its effectiveness. The biggest technical
+challenge is likely to be the middle layer software which is responsible for
+system integration, automation, and presentation of the machine state to the
+operating staff.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 21:55:46 GMT""}]","2007-05-23"
+"physics/0111089","Phlip Duval","J. Dovc, M. Kadunc, Y.Oku, M. Plesko, G.Tkacik, K. Bartkiewicz, P.
+  Duval","New Abeans for TINE Java Control Applications","ICALEPCS 2001","eConf C011127 (2001) THAP025",,"THAP025","physics.acc-ph",,"  Abeans [1] (wide-interface accelerator Java beans developed at JSI) have in
+the past been used with great success in control applications at ANKA and ESO
+and on test cases at the SLS and Riken. At DESY, TINE [2] is used as the
+principal control system for HERA as well as the intercommunication protocol
+among the HERA experiments. To date, most TINE-based client-side applications
+have been written using ACOP [3] (a narrow-interface accelerator component) in
+Visual Basic (VB), which has provided a remarkably powerful developing
+environment for generating professional control applications. Currently,
+however, VB control applications can only run on Windows-based desktop machines
+and consoles. As it is often desirable to provide certain control applications
+on non-Windows platforms (or indeed over the Web), we have created an equally
+powerful developing environment based on Java and the next release of Abeans,
+where an ACOP-like narrow-interface bean has been developed. Like ACOP, the
+Abean itself accepts plugs from various communication protocols, but was
+brought to fruition at DESY using the TINE Java class. Details concerning
+matching Abeans and TINE, as well as the pros and cons of wide versus narrow
+interfaces will be presented below. Several applications will also presented
+along with the results of benchmarking against similar VB applications.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 21:57:18 GMT""}]","2007-05-23"
+"physics/0111091","Koichi Noguchi","T. Tajima and G. Mourou","Zettawatt-Exawatt Lasers and Their Applications in Ultrastrong-Field
+  Physics: High Energy Front","25 pages. 1 figure",,"10.1103/PhysRevSTAB.5.031301",,"physics.optics",,"  Since its birth, the laser has been extraordinarily effective in the study
+and applications of laser-matter interaction at the atomic and molecular level
+and in the nonlinear optics of the bound electron. In its early life, the laser
+was associated with the physics of electron volts and of the chemical bond.
+Over the past fifteen years, however, we have seen a surge in our ability to
+produce high intensities, five to six orders of magnitude higher than was
+possible before. At these intensities, particles, electrons and protons,
+acquire kinetic energy in the mega-electron-volt range through interaction with
+intense laser fields. This opens a new age for the laser, the age of nonlinear
+relativistic optics coupling even with nuclear physics. We suggest a path to
+reach an extremely high-intensity level $10^{26-28} $W/cm$^2$ in the coming
+decade, much beyond the current and near future intensity regime $10^{23}
+$W/cm$^2$, taking advantage of the megajoule laser facilities. Such a laser at
+extreme high intensity could accelerate particles to frontiers of high energy,
+tera-electron-volt and peta-electron-volt, and would become a tool of
+fundamental physics encompassing particle physics, gravitational physics,
+nonlinear field theory, ultrahigh-pressure physics, astrophysics, and
+cosmology. We focus our attention on high-energy applications in particular and
+the possibility of merged reinforcement of high-energy physics and ultraintense
+laser.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 22:21:42 GMT""}]","2009-11-07"
+"physics/0111092","Jan Pusina","Jan Pusina","Optimized Filling of the ALS Storage Ring","3 pages, 3 figures, for ICALEPCS 2001","eConf C011127 (2001) WEAP053",,"WEAP053","physics.acc-ph",,"  The Storage Ring at the Advanced Light Source is capable of being filled in
+selectable buckets. Typically, 276 consecutive buckets out of 328 possible are
+selected. It has been found that the amount of charge injected is not uniform
+bucket-to-bucket, sometimes varying by 100% or more. This variability causes
+problems with beam stability, and it may shorten the beam lifetime. We have
+devised a feedback system that allows for beam filling in an orderly manner,
+yielding bunch heights uniform to within 17%. At fill time, multiple bunches
+are injected into the Storage ring first, then, using feedback, selected single
+bunches are used to top off the fill.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 22:30:35 GMT""}]","2007-05-23"
+"physics/0111093","Simon Berkovich","S.Y. Berkovich","On the ""barcode"" functionality of the DNA, or The phenomenon of Life in
+  the physical Universe","52 pages, 2 textual figures, 1 bitmap figure",,,"GWU-IIST-2001-01","physics.bio-ph physics.comp-ph q-bio",,"  The information contained in the genome is insufficient for the control of
+organism development. Thus, the whereabouts of actual operational directives
+and workings of the genome remain obscure. In this work, it is suggested that
+the genome information plays a role of a ""barcode"". The DNA structure presents
+a pseudo-random number(PRN)with classification tags, so organisms are
+characterized by DNA as library books are characterized by catalogue numbers.
+Elaboration of the ""barcode"" interpretation of DNA implicates the
+infrastructure of the physical Universe as a seat of biological information
+processing. Thanks to the PRNs provided by DNA, biological objects can share
+these facilities in the Code Division Multiple Access (CDMA) mode, similarly to
+cellular phone communications. Figuratively speaking, populations of biological
+objects in the physical Universe can be seen as a community of users on the
+Internet with a wireless CDMA connection. The phenomenon of Life as a
+collective information processing activity has little to do with physics and is
+to be treated with the methodology of engineering design. The concept of the
+""barcode"" functionality of DNA confronts the descriptive scientific doctrines
+with a unique operational scheme of biological information control. Recognition
+of this concept would require sacrificing the worldview of contemporary
+cosmology.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 22:31:54 GMT""}]","2007-05-23"
+"physics/0111094","Rolf Keitel","R. Keitel and R. Nussbaumer","Automated Checking and Visualization of Interlocks in the ISAC Control
+  System","ICALEPCS01 WEAPO70","eConf C011127 (2001) WEAP070",,,"physics.acc-ph",,"  The EPICS based control system of the ISAC radioactive beam facility
+supervises several sub-systems, which are controlled by PLCs. Most of the
+devices are protected by non-trivial interlocks, which are implemented with
+ladder-logic software. Detailed information on interlock state and the
+individual interlock conditions are accessible for each device at the EPICS
+operator interface level. With the increasing number of ISAC devices, the
+interactive generation and maintenance of these displays with standard EPICS
+tools was too labor-intensive and error-prone. Software was developed, which
+uses a printout of the PLC program as well as reports from the ISAC device
+database to a) check the interlock implementation in the PLC against interlock
+specifications in natural language and b) generate device displays with a
+graphical representation of interlock state and details of interlock
+conditions.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 23:08:42 GMT""}]","2007-05-23"
+"physics/0111095","Rolf Keitel","R. Keitel, D.Bishop, D.Dale, H.Hui, S.Kadantsev, M.Leross,
+  R.Nussbaumer, J.Richards, E.Tikhomolov, G.Waters","Status Update on the ISAC Control System","ICALEPCS01 TUAPO28","eConf C011127 (2001) TUAP028",,,"physics.acc-ph",,"  Implementation and commissioning of the EPICS based control system for the
+ISAC radioactive beam facility was completed. The target ion source, mass
+separator, and low-energy beam-lines started beam production for experiments.
+In parallel, controls for the accelerator system, a radio-frequency quadrupole
+followed by a drift-tube linac, and several high-energy beam-lines were
+implemented and commissioned. The number of controlled devices more than
+doubled since the last report. An overview of relational database usage,
+software engineering and quality control methods used will be given.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 23:23:37 GMT""}]","2007-05-23"
+"physics/0111096","Nikolay Malitsky","N.Malitsky, J.Smith, J.Wei","A Prototype of the UAL 2.0 Application Toolkit","ICALEPCS 2001 Conference, San Jose, CA, 27-30 November 2001, THAP013,
+  3 pages, 4 embedded figures","eConf C011127 (2001) THAP013",,,"physics.acc-ph physics.ins-det",,"  The paper presents a prototype of the accelerator commissioning and
+simulation application toolkit based on the Unified Accelerator Libraries (UAL)
+framework. The existing UAL 1.x environment has been implemented as an open
+collection of C++ and Perl packages that address various tasks of accelerator
+physics. The UAL 2.0 application toolkit has been developing on the top of the
+Java infrastructure for integrating it with distributed accelerator control
+systems. The core part of the toolkit is composed of the Common Accelerator
+Objects (such as Accelerator, Algorithms, etc.) that form the framework for
+developing project-specific applications. The toolkit environment is not only
+limited to Java applications, but also supports the development and integration
+of high-level scripting codes (e.g. Java Python scripts) and existing C/C++
+libraries. The configuration and navigation of the project-specific application
+system is provided by the XML-based Application Manager.
+","[{""version"":""v1"",""created"":""Sat, 10 Nov 2001 00:05:35 GMT""}]","2007-05-23"
+"physics/0111097","Stephen A. Lewis","S. A. Lewis, C. A. Lionberger, P. T. Cull","Status of the Control Sytem for the Front-End of the Spallation Neutron
+  Source","Paper for ICALEPCS 2001, San Jose, CA, 27-30 November, 2001
+  (TUAP026); 3 pages, 3 figures","eConf C011127 (2001) TUAP026",,,"physics.acc-ph physics.ins-det",,"  The Spallation Neutron Source (SNS) is a partnership between six
+laboratories. To ensure a truly integrated control system, many standards have
+been agreed upon, including the use of EPICS as the basic toolkit. However,
+unique within the partnership is the requirement for Lawrence Berkeley National
+Lab, responsible for constructing the Front End, to operate it locally before
+shipping it to the Oak Ridge National Lab (ORNL) site. Thus, its control system
+must be finished in 2001, well before the SNS completion date of 2006.
+Consequently many decisions regarding interface hardware, operator screen
+layout, equipment types, and so forth had to be made before the other five
+partners had completed their designs. In some cases the Front-End has defined a
+standard by default; in others an upgrade to a new standard is anticipated by
+ORNL later. Nearly all Front-End devices have been commissioned with the EPICS
+control system. Of the approximately 1500 signals required, about 60% are now
+under daily operational use. The control system is based on ""standard
+architecture""; however, it has a field-bus dominated layout. This paper will
+discuss some unique interface requirements that led to adding new device
+families into the EPICS repertoire. It will also describe the choices and
+trade-offs made for all major areas.
+","[{""version"":""v1"",""created"":""Sat, 10 Nov 2001 01:03:46 GMT""}]","2007-05-23"
+"physics/0111099","Octav Marghitu","S. Marghitu, C. Oproiu, C. Dinca, O. Marghitu","Pulsed electron source characterization with the modified three gradient
+  method","Paper THAP068, ICALEPCS 2001, PDF",,,,"physics.acc-ph physics.ins-det",,"  Results from the Modified Three Gradient Method (MTGM), applied to a pulsed
+high intensity electron source, are presented. The MTGM makes possible the
+non-destructive determination of beam emittance in the space charge presence
+[1]. We apply the MTGM to an experimental system equipped with a Pierce
+convergent diode, working in pulse mode, and having a directly heated cathode
+as electron source. This choice was mainly motivated by the availability of an
+analytical characterization of this source type [2], as well as the extended
+use of the Pierce type sources in linear accelerators. The experimental data
+are processed with a numerical matching program, based on the K-V equation for
+an axially symmetric configuration [3], to determine the emittance and object
+cross-over position and diameter. The variation of these parameters is further
+investigated with respect to both electrical and constructive characteristics
+of the source: cathode heating current, extraction voltage, and cathode-anode
+distance.
+","[{""version"":""v1"",""created"":""Sat, 10 Nov 2001 05:41:55 GMT""}]","2007-05-23"
+"quant-ph/0111057","Tamas Fulop","Tamas Fulop, Taksu Cheon, Izumi Tsutsui","Classical Aspects of Quantum Walls in One Dimension","TeX, 21 pages, 4 figures. v2: some parts of the text improved, new
+  and improved figures","Physical Review A 66 (2002) 052102 (10)","10.1103/PhysRevA.66.052102","KEK Preprint 2001-134","quant-ph",,"  We investigate the system of a particle moving on a half line x >= 0 under
+the general walls at x = 0 that are permitted quantum mechanically. These
+quantum walls, characterized by a parameter L, are shown to be realized as a
+limit of regularized potentials. We then study the classical aspects of the
+quantum walls, by seeking a classical counterpart which admits the same time
+delay in scattering with the quantum wall, and also by examining the
+WKB-exactness of the transition kernel based on the regularized potentials. It
+is shown that no classical counterpart exists for walls with L < 0, and that
+the WKB-exactness can hold only for L = 0 and L = infinity.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 17:46:00 GMT""},{""version"":""v2"",""created"":""Wed, 28 Aug 2002 04:19:59 GMT""}]","2009-02-28"
+"quant-ph/0111058","Ashok Muthukrishnan","Ashok Muthukrishnan and C. R. Stroud Jr","Entanglement of internal and external angular momenta of a single atom","4 pages, 2 figures",,"10.1088/1464-4266/4/2/371",,"quant-ph",,"  We consider the exchange of spin and orbital angular momenta between a
+circularly polarized Laguerre-Gaussian beam of light and a single atom trapped
+in a two-dimensional harmonic potential. The radiation field is treated
+classically but the atomic center-of-mass motion is quantized. The spin and
+orbital angular momenta of the field are individually conserved upon
+absorption, and this results in the entanglement of the internal and external
+degrees of freedom of the atom. We suggest applications of this entanglement in
+quantum information processing.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 18:53:53 GMT""}]","2009-11-07"
+"quant-ph/0111059","Dr C. R. Bennett","L G Boussiakou, C R Bennett and M Babiker","Electrodynamics of Bose-Einstein condensates in angular motion","23 pages, 2 figures, submitted to Journal of Optics B",,"10.1088/1464-4266/4/2/364",,"quant-ph",,"  A theory determining the electric and magnetic properties of vortex states in
+Bose-Einstein condensates (BECs) is presented. The principal ingredient is the
+Lagrangian of the system which we derive correct to the first order in the
+atomic centre of mass velocity. For the first time using centre of mass
+coordinates, a gauge transformation is performed and relevant relativistic
+corrections are included. The Lagrangian is symmetric in the electric and
+magnetic aspects of the problem and includes two key interaction terms, namely
+the Aharanov-Casher and the Roentgen interaction terms. The constitutive
+relations, which link the electromagnetic fields to the matter fields via their
+electric polarisation and magnetisation, follow from the Lagrangian as well as
+the corresponding Hamiltonian. These relations, together with a generalised
+Gross-Pitaevskii equation, determine the magnetic (electric) monopole charge
+distributions accompanying an order n vortex state when the constituent atoms
+are characterised by an electric dipole (magnetic dipole). Field distributions
+associated with electric dipole active (magnetic dipole active) BECs in a
+vortex state are evaluated for an infinite- and a finite-length cylindrical
+BEC. The predictd monopole charge distributions, both electric and magnetic,
+automatically satisfy the requirement of global charge neutrality and the
+derivations highlight the exact symmetry between the electric and magnetic
+properties. Order of magnitude estimates of the effects are given for an atomic
+gas BEC, superfluid helium and a spin-polarised hydrogen BEC.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 18:47:29 GMT""}]","2009-11-07"
+"quant-ph/0111060","N. Barat","N.Barat and J.C.Kimball","Localization and Causality for a free particle","9 pages,no figures,new section added","Physics Letters A vol.308(2003)110-115","10.1016/S0375-9601(02)01806-6",,"quant-ph",,"  Theorems (most notably by Hegerfeldt) prove that an initially localized
+particle whose time evolution is determined by a positive Hamiltonian will
+violate causality. We argue that this apparent paradox is resolved for a free
+particle described by either the Dirac equation or the Klein-Gordon equation
+because such a particle cannot be localized in the sense required by the
+theorems.
+","[{""version"":""v1"",""created"":""Fri, 9 Nov 2001 23:13:02 GMT""},{""version"":""v2"",""created"":""Fri, 28 Feb 2003 17:05:28 GMT""}]","2009-11-07"
+"quant-ph/0111061","Eric Galapon","Eric A. Galapon (Theoretical Physics Group, National Institute of
+  Physics, University of the Philippines at Diliman)","Self-adjoint Time Operator is the Rule for Discrete Semibounded
+  Hamiltonians","accepted for publication in the Proceedings of the Royal Society of
+  London A","Proc. R. Soc. Lond. A 487 (2002) 2671","10.1098/rspa.2002.0992",,"quant-ph",,"  We prove explicitly that to every discrete, semibounded Hamiltonian with
+constant degeneracy and with finite sum of the squares of the reciprocal of its
+eigenvalues and whose eigenvectors span the entire Hilbert space there exists a
+characteristic self-adjoint time operator which is canonically conjugate to the
+Hamiltonian in a dense subspace of the Hilbert space. Moreover, we show that
+each characteristic time operator generates an uncountable class of self-
+adjoint operators canonically conjugate with the same Hamiltonian in the same
+dense subspace.
+","[{""version"":""v1"",""created"":""Sat, 10 Nov 2001 09:56:44 GMT""},{""version"":""v2"",""created"":""Fri, 5 Apr 2002 07:56:10 GMT""}]","2009-11-07"
+"quant-ph/0111062","Tien D. Kieu","Tien D Kieu","Hilbert's Incompleteness, Chaitin's $\Omega$ number and Quantum Physics","Clarification and new references added",,,,"quant-ph",,"  To explore the limitation of a class of quantum algorithms originally
+proposed for the Hilbert's tenth problem, we consider two further classes of
+mathematically non-decidable problems, those of a modified version of the
+Hilbert's tenth problem and of the computation of the Chaitin's $\Omega$
+number, which is a representation of the G\""odel's Incompletness theorem. Some
+interesting connection to Quantum Field Theory is pointed out.
+","[{""version"":""v1"",""created"":""Sat, 10 Nov 2001 14:57:19 GMT""},{""version"":""v2"",""created"":""Wed, 21 Nov 2001 13:25:41 GMT""}]","2007-05-23"
